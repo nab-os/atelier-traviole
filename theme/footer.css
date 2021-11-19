@@ -1,0 +1,13 @@
+footer {
+  color: var(--weak-color);
+  margin-bottom: var(--spacing);
+}
+
+footer > hr {
+  border: 0px;
+  border-top: 1px;
+  border-color: var(--secondary-color);
+  border-style: solid;
+  margin: 0px;
+  margin-bottom: var(--spacing);
+}

@@ -19,8 +19,9 @@
         </ul>
       </nav>
     </header>
-    <ul>
-      <li class="square">
+    <ul class="projects">
+      <li>
+        <img src="img/1.png" alt="first image">
         <article>
           <img src="img/1.png" alt="first image">
           <section>
@@ -36,7 +37,8 @@
           </section>
         </article>
       </li>
-      <li class="a3--horizontal">
+      <li>
+        <img src="img/2.png" alt="second image">
         <article>
           <img src="img/2.png" alt="second image">
           <section>
@@ -52,7 +54,8 @@
           </section>
         </article>
       </li>
-      <li class="a4">
+      <li>
+        <img src="img/3.png" alt="third image"/>
         <article>
           <img src="img/3.png" alt="third image"/>
           <section>
@@ -68,7 +71,8 @@
           </section>
         </article>
       </li>
-      <li class="a4">
+      <li>
+        <img src="img/4.jpg" alt="fourth image"/>
         <article>
           <img src="img/4.jpg" alt="fourth image"/>
           <section>
@@ -81,10 +85,12 @@
               <li><a>Lien 3</a></li>
               <li><a>Lien 4</a></li>
             </ul>
+            <a href="#">See More</a>
           </section>
         </article>
       </li>
-      <li class="a4">
+      <li>
+        <img src="img/5.png" alt="fifth image"/>
         <article>
           <img src="img/5.png" alt="fifth image"/>
           <section>
@@ -100,7 +106,8 @@
           </section>
         </article>
       </li>
-      <li class="a3--horizontal">
+      <li>
+        <img src="img/6.jpg" alt="sixth image"/>
         <article>
           <img src="img/6.jpg" alt="sixth image"/>
           <section>
@@ -116,7 +123,8 @@
           </section>
         </article>
       </li>
-      <li class="card">
+      <li>
+        <img src="img/7.png" alt="seventh image"/>
         <article>
           <img src="img/7.png" alt="seventh image"/>
           <section>
@@ -132,7 +140,8 @@
           </section>
         </article>
       </li>
-      <li class="card">
+      <li>
+        <img src="img/8.png" alt="heighth image"/>
         <article>
           <img src="img/8.png" alt="heighth image"/>
           <section>
@@ -148,7 +157,8 @@
           </section>
         </article>
       </li>
-      <li class="square">
+      <li>
+        <img src="img/9.png" alt="nineth image"/>
         <article>
           <img src="img/9.png" alt="nineth image"/>
           <section>
@@ -164,7 +174,8 @@
           </section>
         </article>
       </li>
-      <li class="a3--horizontal">
+      <li>
+        <img src="img/10.png" alt="tenth image"/>
         <article>
           <img src="img/10.png" alt="tenth image"/>
           <section>
@@ -180,7 +191,8 @@
           </section>
         </article>
       </li>
-      <li class="card">
+      <li>
+        <img src="img/11.png" alt="eleventh image"/>
         <article>
           <img src="img/11.png" alt="eleventh image"/>
           <section>
@@ -196,7 +208,8 @@
           </section>
         </article>
       </li>
-      <li class="card">
+      <li>
+        <img src="img/12.png" alt="twenlveth image"/>
         <article>
           <img src="img/12.png" alt="twenlveth image"/>
           <section>
@@ -212,7 +225,8 @@
           </section>
         </article>
       </li>
-      <li class="a3--horizontal">
+      <li>
+        <img src="img/13.jpg" alt="thirteenth image"/>
         <article>
           <img src="img/13.jpg" alt="thirteenth image"/>
           <section>
@@ -236,22 +250,27 @@
       Léna Desmettre. All rights reserved.
     </footer>
     <script charset="utf-8">
-      document.querySelectorAll("body > ul > li").forEach(function(node) {
+      function deactivateAll() {
+        document.querySelectorAll(".wall > li").forEach(function(node) {
+          node.classList.remove("active");
+        });
+      }
+      document.querySelectorAll(".wall > li").forEach(function(node) {
         node.addEventListener("click", function(event) {
-          var listItem = event.target.closest("li");
-          if(!listItem.classList.contains("active")) {
-            document.querySelectorAll("body > ul > li").forEach(function(node) {
-              node.classList.remove("active");
-            });
-            listItem.classList.toggle("active");
+          var listItem = event.target.closest(".wall > li");
+          if (listItem.classList.contains("active")) {
+            if (listItem == event.target) {
+              deactivateAll();
+            }
+          } else {
+            deactivateAll();
+            listItem.classList.add("active");
           }
           event.stopPropagation();
         });
       });
       document.querySelector(":root").addEventListener("click", function(node) {
-        document.querySelectorAll("body > ul > li").forEach(function(node) {
-          node.classList.remove("active");
-        });
+        deactivateAll();
       });
     </script>
   </body>

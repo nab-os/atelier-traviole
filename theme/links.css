@@ -1,0 +1,45 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main ul {
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-columns: max-content;
+  grid-auto-rows: 1fr;
+  grid-gap: 20px;
+
+  padding-left: 0;
+  text-align: center;
+
+  width: min-content;
+  margin-top: 40px;
+}
+
+main li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  background-color: #6BA29D;
+  list-style-type: none;
+  border-radius: 70px;
+}
+
+main li a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+main > img {
+  width: min(300px, 50%);
+}
