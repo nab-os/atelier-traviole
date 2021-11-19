@@ -5,8 +5,11 @@ paginate = 6
 staticDir = ['static']
 
 [params]
-    gitBase = 'https://git.glargh.fr/nabos/'
     siteName = 'Atelier Traviole'
     siteDesc = 'Atelier Traviole'
     author = 'Lena Desmettre'
+
+[taxonomies]
+    tag = 'tags'
+    project = 'projects'
 

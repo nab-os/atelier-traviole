@@ -21,7 +21,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Order", name: "order", widget: "number", value_type: "int"}
-      - {label: "Project", name: "project", widget: "relation" collection: "projects", search_fields: ["title"], value_field: "slug", display_fields: ["title"]}
+      - {label: "Project", name: "project", widget: "relation", collection: "projects", search_fields: ["title"], value_field: "slug", display_fields: ["title"]}
       - {label: "Cover", name: "image", widget: "image"}
       - {label: "CoverAlt", name: "imageAlt", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
