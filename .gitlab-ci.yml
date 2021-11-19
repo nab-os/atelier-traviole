@@ -7,6 +7,6 @@ stages:
 build:
   stage: build
   script:
-    - hugo -d ../dist -s site -v
+    - hugo -d ./dist -v
     - rm -rf /var/www/html/ateliertraviole/*
     - cp -r ./dist/* /var/www/html/ateliertraviole/
