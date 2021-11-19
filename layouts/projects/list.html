@@ -1,0 +1,22 @@
+{{ define "head" }}
+<link rel="stylesheet" href="/projects.css" type="text/css" media="all">
+{{ end }}
+
+{{ define "main" }}
+<ul>
+  {{ range .Pages }}
+    <li>
+      <img src="{{ .Permalink }}{{ .Params.image }}" alt="{{ .Params.imageAlt }}"/>
+      <section>
+        <header>
+          <span>{{ .Params.date }}</span>
+          <h1>{{ .Params.title }}</h1>
+          <h2>{{ .Params.subtitle }}</h2>
+        </header>
+        <p>{{ .Params.description }}</p>
+        <a href="{{ .URL }}">Voire plus</a>
+      </section>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}

@@ -1,0 +1,41 @@
+backend:
+  name: gitlab
+  repo: nabos/atelier-traviole
+  branch: netlify
+  auth_type: pkce
+  app_id: 663435257b5e43b17bdc9f71688373f6dcf6da2b2931364e4e168d60571f9f3b
+  api_root: https://git.glargh.fr/api/v4
+  base_url: https://git.glargh.fr
+  auth_endpoint: oauth/authorize
+
+
+media_folder: "site/static/img"
+public_folder: "img"
+
+collections:
+  - name: "post"
+    label: "Article"
+    folder: "site/content/post"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "boolean"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Project", name: "projects", widget: "relation", collection: "projects", search_fields: ["title"], value_field: "slug", display_fields: ["title"]}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, field: {label: "Tag", name: "tag", widget: "string"}}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "links"
+    label: "Link"
+    folder: "content/links"
+    create: true
+    fields:
+      - {label: "label", name: "label", widget: "string"}
+      - {label: "link", name: "link", widget: "string"}
+  - name: "projects"
+    label: "Project"
+    folder: "site/content/projects"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "URL", name: "repo", widget: "string"}
