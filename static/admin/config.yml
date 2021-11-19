@@ -13,24 +13,18 @@ media_folder: "static/img"
 public_folder: "img"
 
 collections:
-  - name: "post"
-    label: "Article"
-    folder: "site/content/post"
+  - name: "portfolio"
+    label: "Piece of Art"
+    folder: "content/portfolio"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Draft", name: "draft", widget: "boolean"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Project", name: "projects", widget: "relation", collection: "projects", search_fields: ["title"], value_field: "slug", display_fields: ["title"]}
-      - {label: "Tags", name: "tags", widget: "list", allow_add: true, field: {label: "Tag", name: "tag", widget: "string"}}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "links"
-    label: "Link"
-    folder: "content/links"
-    create: true
-    fields:
-      - {label: "label", name: "label", widget: "string"}
-      - {label: "link", name: "link", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Order", name: "order", widget: "number", value_type: "int"}
+      - {label: "Project", name: "project", widget: "relation" collection: "projects", search_fields: ["title"], value_field: "slug", display_fields: ["title"]}
+      - {label: "Cover", name: "image", widget: "image"}
+      - {label: "CoverAlt", name: "imageAlt", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
   - name: "projects"
     label: "Project"
     folder: "content/projects"
@@ -39,7 +33,22 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Draft", name: "draft", widget: "boolean"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Cover", name: "image", widget: "image"}
       - {label: "CoverAlt", name: "imageAlt", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
+  - name: "links"
+    label: "Link"
+    folder: "content/links"
+    create: true
+    fields:
+      - {label: "Label", name: "label", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
+  - name: "contact"
+    label: "Contact"
+    folder: "content/contact"
+    create: false
+    fields:
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Contact paragraph", name: "contact", widget: "string"}

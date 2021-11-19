@@ -13,7 +13,7 @@
         <section>
           <h1>{{ .Params.title }}</h1>
           <h3>{{ .Params.subtitle }}</h3>
-          <p>{{ .Content }}</p>
+          <p>{{ .Params.description }}</p>
           {{ if .Params.project }}
             <a href="#">Voir le projet</a>
           {{ end }}
