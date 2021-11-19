@@ -1,0 +1,19 @@
+{{ define "head" }}
+<link rel="stylesheet" href="/contact.css" type="text/css" media="all">
+{{ end }}
+{{ define "main" }}
+<section>
+  <img src="/img/portrait.png" alt="Portrait de Léna"/>
+  <div>
+    <h3>Bonjour ! Je m'appelle...</h3>
+    <img src="/img/lena_desmettre.png" alt="Lena Desmettre"/>
+    <p>{{ .Content }}</p>
+    <img src="/img/interets.png" alt="Centres d'interets"/>
+  </div>
+</section>
+<section>
+  <h2>Interessé·e·s pour travailler ensemble ?</h2>
+  <p>{{ .Params.contact }}</p>
+  <a href="mailto:lena@ateliertraviole.fr" target="_blank">lena@ateliertraviole.fr</a>
+</section>
+{{ end }}

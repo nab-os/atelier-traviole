@@ -1,0 +1,179 @@
+main > ul {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  padding-inline-start: 0;
+  text-align: center;
+
+  inline-size: 100%;
+}
+
+main > ul > li {
+  display: flex;
+  flex-direction: column;
+
+  list-style: none;
+  padding: 10px;
+
+  background-color: white;
+}
+
+main > ul > li > img {
+  aspect-ratio: 1;
+  object-fit: cover;
+  min-block-size: 100%;
+  max-block-size: 200px;
+
+  display: grid;
+  place-items: center;
+}
+
+main > ul > li > section {
+  flex-grow: 1;
+
+  display: grid;
+  grid-template-columns: 14ch 2fr 14ch;
+  grid-template-rows: auto 1fr 50px;
+  grid-template-areas:
+    "title title title"
+    "desc  desc  desc"
+    "more  more  more";
+  margin-inline: 10px;
+  margin-block-start: 10px;
+}
+
+main > ul > li > section > header {
+  grid-area: title;
+}
+
+main > ul > li > section > header > h1 {
+  margin: 0;
+
+  font-size: 1.2em;
+  text-align: center;
+}
+
+main > ul > li > section > header > h2 {
+  margin: 0;
+
+  font-size: 1.1em;
+  text-align: center;
+}
+
+main > ul > li > section > header > span {
+  display: inline;
+  color: var(--secondary-color);
+  text-align: center;
+  margin-block: 3px;
+}
+
+main > ul > li > section > span::before {
+  position: absolute;
+  display: inline-block;
+  content: '';
+  aspect-ratio: 1;
+  block-size: 100%;
+  background-image: url('/img/calendar.png');
+  background-size: contain;
+  inset-inline-end: 100%;
+  margin-inline-end: 10px;
+}
+
+
+main > ul > li > section > p {
+  grid-area: desc;
+  text-align: start;
+  margin-block-start: 10px;
+  color: #6A6464;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+main > ul > li > section > a {
+  grid-area: more;
+
+  min-height: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+
+  display: grid;
+  place-items: center;
+}
+
+main > ul > li > section > ul {
+  grid-area: tags;
+
+  display: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-inline: 5px;
+  padding-inline-start: 0;
+  gap: 10px;
+}
+
+main > ul > li > section > ul > li {
+  display: grid;
+  place-items: center;
+
+  padding-inline: 10px;
+  padding-block: 5px;
+
+  font-size: 0.8em;
+
+  list-style: none;
+  background-color: red;
+  border-radius: 10000px;
+}
+
+
+/*
+@container (min-inline-size: 550px) {
+*/
+@media (min-width: 800px) {
+  main > ul > li {
+    flex-direction: row;
+    block-size: 250px;
+    padding: 20px;
+  }
+
+  main > ul > li > img {
+    max-block-size: unset;
+  }
+
+  main > ul > li > section {
+    grid-template-areas:
+      "title title title"
+      "desc  desc  desc"
+      "more  tags  tags";
+    margin-inline: unset;
+    margin-inline-start: 20px;
+    padding-inline-start: 20px;
+    border-inline-start: 1px solid var(--secondary-color);
+    margin-block-start: unset;
+  }
+
+  main > ul > li > section > header > span {
+    text-align: end;
+    float: right;
+  }
+
+  main > ul > li > section > header > h1 {
+    text-align: start;
+  }
+
+  main > ul > li > section > header > h2 {
+    text-align: start;
+  }
+}
+
+@media (min-width: 1000px) {
+  main > ul > li > section > ul {
+    display: flex;
+  }
+}

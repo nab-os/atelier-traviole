@@ -1,0 +1,12 @@
+baseURL = 'https://ateliertraviole.fr'
+languageCode = 'fr-fr'
+title = 'Atelier Traviole'
+paginate = 6
+staticDir = ['static']
+
+[params]
+    gitBase = 'https://git.glargh.fr/nabos/'
+    siteName = 'Atelier Traviole'
+    siteDesc = 'Atelier Traviole'
+    author = 'Lena Desmettre'
+

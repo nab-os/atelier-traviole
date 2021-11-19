@@ -1,0 +1,86 @@
+{{ define "head" }}
+{{ end }}
+
+{{ define "main" }}
+<ul class="wall">
+  {{ range .Pages }}
+  <li class="square" tabindex=0>
+    <img src="{{ .Params.image }}" loading="lazy" alt="{{ .Params.imageAlt }}">
+    <article>
+      <div>
+        <button type="button"></button>
+        <img src="{{ .Params.image }}" loading="lazy" alt="{{ .Params.imageAlt }}">
+        <section>
+          <h1>{{ .Params.title }}</h1>
+          <h3>{{ .Params.subtitle }}</h3>
+          <p>{{ .Content }}</p>
+          {{ if .Params.project }}
+            <a href="#">Voir le projet</a>
+          {{ end }}
+          <div class="spacer"></div>
+          <div class="links">
+            <h4>En lien:</h4>
+            <ul>
+              {{ range $key, $value := .Params.links }}
+                <li><a href="{{ $value }}">{{ $key }}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+        </section>
+      </div>
+    </article>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
+
+{{ define "script" }}
+<script charset="utf-8">
+  function deactivateAll() {
+    document.querySelectorAll(".wall > li").forEach(function(node) {
+      node.classList.remove("active");
+    });
+  }
+
+  document.addEventListener("keydown", function(event) {
+    var listItem = document.querySelector("li:focus");
+    console.log(listItem);
+    if (event.key == "Escape") {
+        deactivateAll();
+    } else if (listItem && event.key == "Enter") {
+      if (listItem.classList.contains("active")) {
+        deactivateAll();
+      } else {
+        deactivateAll();
+        listItem.classList.add("active");
+      }
+    }
+    event.stopPropagation();
+  });
+
+  document.querySelectorAll(".wall > li > article > div > button").forEach(function(node) {
+    node.addEventListener("click", function(event) {
+      deactivateAll();
+      event.stopPropagation();
+    });
+  });
+
+  document.querySelectorAll(".wall > li").forEach(function(node) {
+    node.addEventListener("click", function(event) {
+      var listItem = event.target.closest(".wall > li");
+      if (listItem.classList.contains("active")) {
+        if (listItem == event.target) {
+          deactivateAll();
+        }
+      } else {
+        deactivateAll();
+        listItem.classList.add("active");
+      }
+      event.stopPropagation();
+    });
+  });
+  document.querySelector(":root").addEventListener("click", function(node) {
+    deactivateAll();
+  });
+</script>
+{{ end }}
