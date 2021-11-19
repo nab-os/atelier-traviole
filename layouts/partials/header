@@ -2,10 +2,10 @@
   <img src="/img/logo.png" loading="lazy" alt="Atelier traviole logo"/>
   <nav>
     <ul>
-      <li class="active"><a href="/portfolio">Portfolio</a></li>
-      <li><a href="/projects">Projets</a></li>
-      <li><a href="/contact">Contact</a></li>
-      <li><a href="/links">Liens</a></li>
+      <li class="active"><a href="/portfolio/">Portfolio</a></li>
+      <li><a href="/projects/">Projets</a></li>
+      <li><a href="/contact/">Contact</a></li>
+      <li><a href="/links/">Liens</a></li>
     </ul>
   </nav>
 </header>
