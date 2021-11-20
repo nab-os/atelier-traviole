@@ -6,6 +6,7 @@ Header:
     - keep same page
 
 Portfolio:
+  - single template
   - image upload
 
 Projects:
@@ -16,4 +17,4 @@ Project:
   - everything
 
 Contact:
-
+  - Underline address only
