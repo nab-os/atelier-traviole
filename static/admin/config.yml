@@ -58,11 +58,12 @@ collections:
       - {label: "Label", name: "label", widget: "string", i18n: true}
       - {label: "Link", name: "link", widget: "string"}
       - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Order", name: "order", widget: "number", value_type: "int"}
   - name: "contact"
     label: "Contact"
     folder: "content/contact"
     create: false
     i18n: true
     fields:
-      - {label: "Description", name: "description", widget: "string", i18n: true}
-      - {label: "Contact paragraph", name: "contact", widget: "string", i18n: true}
+      - {label: "Description", name: "description", widget: "text", i18n: true}
+      - {label: "Contact paragraph", name: "contact", widget: "text", i18n: true}
