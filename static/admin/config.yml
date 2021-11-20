@@ -47,7 +47,9 @@ collections:
       - {label: "Description", name: "description", widget: "text", i18n: true}
   - name: "links"
     label: "Link"
+    identifier_field: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
     folder: "content/links"
+    preview_path: "/links/"
     create: true
     i18n: true
     fields:
