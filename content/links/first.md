@@ -1,4 +1,4 @@
 ---
-label: "Test lien vers le portfolio"
-link: "/portfolio"
+label: Page Instagram - Atelier Traviole
+link: https://www.instagram.com/atelier.traviole/
 ---
