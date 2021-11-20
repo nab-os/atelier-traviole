@@ -3,25 +3,26 @@
 
 {{ define "main" }}
 <ul class="wall">
-  {{ range .Pages }}
-  <li class="square" tabindex=0>
-    <img src="{{ .Params.image }}" loading="lazy" alt="{{ .Params.imageAlt }}">
+  {{ range .Params.lines }}
+  {{ range .pieces }}
+  <li class="{{ .aspect }}" tabindex=0>
+    <img src="{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
     <article>
       <div>
         <button type="button"></button>
-        <img src="{{ .Params.image }}" loading="lazy" alt="{{ .Params.imageAlt }}">
+        <img src="{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
         <section>
-          <h1>{{ .Params.title }}</h1>
-          <h3>{{ .Params.subtitle }}</h3>
-          <p>{{ .Params.description }}</p>
-          {{ if .Params.project }}
+          <h1>{{ .title }}</h1>
+          <h3>{{ .subtitle }}</h3>
+          <p>{{ .description }}</p>
+          {{ if .project }}
             <a href="#">Voir le projet</a>
           {{ end }}
           <div class="spacer"></div>
           <div class="links">
             <h4>En lien:</h4>
             <ul>
-            {{ range .Params.links }}
+            {{ range .links }}
               <li><a href="{{ .link }}">{{ .label }}</a></li>
             {{ end }}
             </ul>
@@ -30,6 +31,7 @@
       </div>
     </article>
   </li>
+  {{ end }}
   {{ end }}
 </ul>
 {{ end }}
