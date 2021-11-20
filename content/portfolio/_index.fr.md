@@ -1,13 +1,10 @@
 ---
 title: Portfolio
 lines:
-  - title: Test
-    subtitle: test
-    aspect: square
-    project: test
-    imageAlt: auie
-    description: auie
-    links:
-      - label: auie
-        link: auie
+  - - title: Test 1
+      subtitle: Test 1
+      aspect: square
+      project: test
+      imageAlt: Test 1
+      description: Test 1
 ---
