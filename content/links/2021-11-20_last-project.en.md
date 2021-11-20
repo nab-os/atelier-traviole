@@ -1,3 +1,3 @@
 ---
-label: Last Projet - Le Magasin des Souvenirs
+label: "Article 🔸 SEPT 2021: The Souvenirs' shop"
 ---
