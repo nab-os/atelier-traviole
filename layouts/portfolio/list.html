@@ -4,7 +4,7 @@
 {{ define "main" }}
 <ul class="wall">
   {{ range .Params.lines }}
-  {{ range .pieces }}
+  {{ range . }}
   <li class="{{ .aspect }}" tabindex=0>
     <img src="{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
     <article>
@@ -16,14 +16,16 @@
           <h3>{{ .subtitle }}</h3>
           <p>{{ .description }}</p>
           {{ if .project }}
-            <a href="#">Voir le projet</a>
+            <a href="#">{{ i18n "portfolio_project" }}</a>
           {{ end }}
           <div class="spacer"></div>
           <div class="links">
             <h4>En lien:</h4>
             <ul>
+            {{ if .links }}
             {{ range .links }}
               <li><a href="{{ .link }}">{{ .label }}</a></li>
+            {{ end }}
             {{ end }}
             </ul>
           </div>

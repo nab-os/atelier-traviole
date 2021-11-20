@@ -32,21 +32,17 @@ collections:
         name: "lines"
         widget: "list"
         i18n: true
-        field:
-          label: "Pieces"
-          name: "pieces"
-          widget: "list"
-          fields:
-          - {label: "Title", name: "title", widget: "string", i18n: true}
-          - {label: "Subtitle", name: "subtitle", widget: "string", i18n: true}
-          - {label: "Aspect", name: "aspect", widget: "select", options: ["square", "a4", "card", "a3--horizontal"]}
-          - {label: "Project", name: "project", widget: "relation", collection: "projects", search_fields: ["title"], value_field: "slug", display_fields: ["title"], required: false}
-          - {label: "Cover", name: "image", widget: "image", required: false}
-          - {label: "CoverAlt", name: "imageAlt", widget: "string", i18n: true}
-          - {label: "Description", name: "description", widget: "text", i18n: true}
-          - {label: "Links", name: "links", widget: "list", required: false, summary: "{{fields.label}}", i18n: true, fields: [
-              {label: "Label", name: "label", widget: "string"},
-              {label: "Link", name: "link", widget: "string"}]}
+        fields:
+        - {label: "Title", name: "title", widget: "string", i18n: true}
+        - {label: "Subtitle", name: "subtitle", widget: "string", i18n: true}
+        - {label: "Aspect", name: "aspect", widget: "select", options: ["square", "a4", "card", "a3--horizontal"]}
+        - {label: "Project", name: "project", widget: "relation", collection: "projects", search_fields: ["title"], value_field: "slug", display_fields: ["title"], required: false}
+        - {label: "Cover", name: "image", widget: "image", required: false}
+        - {label: "CoverAlt", name: "imageAlt", widget: "string", i18n: true}
+        - {label: "Description", name: "description", widget: "text", i18n: true}
+        - {label: "Links", name: "links", widget: "list", required: false, summary: "{{fields.label}}", i18n: true, fields: [
+            {label: "Label", name: "label", widget: "string"},
+            {label: "Link", name: "link", widget: "string"}]}
   - name: "projects"
     label: "Project"
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"

@@ -10,6 +10,9 @@
 [nav_links]
   other = "Liens"
 
+[portfolio_project]
+  other = "Voir le projet"
+
 [projects_more]
   other = "Voir plus"
 
