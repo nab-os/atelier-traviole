@@ -1,5 +1,6 @@
 ---
-label: Ultra-Book - Portfolio des créatifs
-link: https://atelier-traviole.ultra-book.com/portfolio
-slug: utlra-book
+label: Ma page Instagram ⭐ Atelier.Traviole (FR)
+link: https://www.instagram.com/atelier.traviole/
+slug: instagram
+order: 4
 ---
