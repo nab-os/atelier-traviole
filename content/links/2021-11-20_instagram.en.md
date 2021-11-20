@@ -1,3 +1,3 @@
 ---
-label: Instagram Page - Atelier Traviole
+label: My website ⬆️ Portfolio, articles and biography
 ---
