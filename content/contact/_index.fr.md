@@ -1,6 +1,6 @@
 ---
 description: "Je suis une illustratrice jeunesse, actuellement basée à
-  Strasbourg (France, 67).  Dans l'art comme dans la vie, je suis un beau
+  Strasbourg (France, 67). Dans l'art comme dans la vie, je suis un beau
   métissage : fière de mes origines mauriciennes et belges, mais aussi
   touche-à-tout. Après des études en école d'ingénieur puis en sciences de
   l'éducation, je me consacre désormais à 100 % à l'art. J'aime beaucoup :
