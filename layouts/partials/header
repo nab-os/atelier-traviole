@@ -8,4 +8,13 @@
       <li><a href="/links/">Liens</a></li>
     </ul>
   </nav>
+  
+
+<ul>
+{{ range $.Site.Home.AllTranslations }}
+<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+{{ end }}
+</ul>
+
+
 </header>

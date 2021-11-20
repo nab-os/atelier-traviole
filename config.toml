@@ -4,12 +4,25 @@ title = 'Atelier Traviole'
 paginate = 6
 staticDir = ['static']
 
+defaultContentLanguage = 'fr'
+
+[languages]
+  [languages.fr]
+    languageName = 'Français'
+    title = 'En Français'
+    weight = 2
+  [languages.en]
+    languageName = 'English'
+    title = 'In English'
+    weight = 1
+
+
 [params]
-    siteName = 'Atelier Traviole'
-    siteDesc = 'Atelier Traviole'
-    author = 'Lena Desmettre'
+  siteName = 'Atelier Traviole'
+  siteDesc = 'Atelier Traviole'
+  author = 'Lena Desmettre'
 
 [taxonomies]
-    tag = 'tags'
-    project = 'projects'
+  tag = 'tags'
+  project = 'projects'
 
