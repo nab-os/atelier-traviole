@@ -42,7 +42,8 @@ main > section:nth-child(2) {
 main > section:nth-child(2) > p {
   background-color: white;
   border-radius: 103px;
-  padding: calc(103px/2);
+  padding-inline: calc(103px/2);
+  padding-block: 20px;
 }
 
 main > section:nth-child(2) > h2 {
@@ -53,6 +54,7 @@ main > section:nth-child(2) > h2 {
 main > section:nth-child(2) > a {
   background-color: var(--secondary-color);
   color: white;
-  padding: 30px;
   border-radius: 70px;
+  padding-inline: 30px;
+  padding-block: 20px;
 }

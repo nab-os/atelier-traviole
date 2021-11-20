@@ -3,17 +3,17 @@
 {{ end }}
 {{ define "main" }}
 <section>
-  <img src="/img/portrait.png" alt="Portrait de Léna"/>
+  <img src="/img/portrait.png" alt='{{ i18n "contact_portrait_alt" }}'/>
   <div>
-    <h3>Bonjour ! Je m'appelle...</h3>
+    <h3>{{ i18n "contact_introduction" }}</h3>
     <img src="/img/lena_desmettre.png" alt="Lena Desmettre"/>
     <p>{{ .Params.description }}</p>
     <img src="/img/interets.png" alt=""/>
   </div>
 </section>
 <section>
-  <h2>Interessé·e·s pour travailler ensemble ?</h2>
+  <h2>{{ i18n "contact_hook" }}</h2>
   <p>{{ .Params.contact }}</p>
-  <a href="mailto:lena@ateliertraviole.fr" target="_blank">lena@ateliertraviole.fr</a>
+  <a href="mailto:lena@ateliertraviole.fr" target="_blank">{{ i18n "contact_email" }}<span>lena@ateliertraviole.fr</span></a>
 </section>
 {{ end }}

@@ -26,7 +26,7 @@
   transition: all 1s;
 }
 
-.wall > li > article > img {
+.wall > li > article > div > img {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -34,6 +34,11 @@
 }
 
 .wall > li > img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
   cursor: pointer;
   object-fit: cover;
   object-position: center;
