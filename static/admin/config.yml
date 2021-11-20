@@ -21,7 +21,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
     folder: "content/portfolio"
     path: '{{slug}}/_index'
-    create: true
+    create: false
     i18n: true
     fields:
       - label: "Lines"
