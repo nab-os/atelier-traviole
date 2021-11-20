@@ -18,6 +18,7 @@ i18n:
 collections:
   - name: "portfolio"
     label: "Piece of Art"
+    slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
     folder: "content/portfolio"
     path: '{{slug}}/_index'
     create: true
@@ -33,6 +34,7 @@ collections:
       - {label: "Description", name: "description", widget: "text", i18n: true}
   - name: "projects"
     label: "Project"
+    slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
     folder: "content/projects"
     path: '{{slug}}/_index'
     create: true
@@ -47,7 +49,7 @@ collections:
       - {label: "Description", name: "description", widget: "text", i18n: true}
   - name: "links"
     label: "Link"
-    identifier_field: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
+    slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
     folder: "content/links"
     preview_path: "/links/"
     create: true
