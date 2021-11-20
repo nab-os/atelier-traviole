@@ -65,5 +65,5 @@ collections:
     create: false
     i18n: true
     fields:
-      - {label: "Description", name: "description", widget: "text", i18n: true}
-      - {label: "Contact paragraph", name: "contact", widget: "text", i18n: true}
+      - {label: "Description", name: "description", widget: "markdown", i18n: true}
+      - {label: "Contact paragraph", name: "contact", widget: "markdown", i18n: true}
