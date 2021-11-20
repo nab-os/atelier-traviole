@@ -1,3 +1,15 @@
+[nav_portfolio]
+  other = "Portfolio"
+
+[nav_projects]
+  other = "Projects"
+
+[nav_contact]
+  other = "Contact"
+
+[nav_links]
+  other = "Links"
+
 [projects_more]
   other = "See more"
 

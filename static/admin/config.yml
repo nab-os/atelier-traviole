@@ -32,7 +32,7 @@ collections:
       - {label: "Cover", name: "image", widget: "image", required: false}
       - {label: "CoverAlt", name: "imageAlt", widget: "string", i18n: true}
       - {label: "Description", name: "description", widget: "text", i18n: true}
-      - {label: "Links", name: "links", widget: "list", required: false, summary: "{{fields.label}}", fields: [
+      - {label: "Links", name: "links", widget: "list", required: false, summary: "{{fields.label}}", i18n: true, fields: [
           {label: "Label", name: "label", widget: "string"},
           {label: "Link", name: "link", widget: "string"}]}
   - name: "projects"
@@ -47,6 +47,7 @@ collections:
       - {label: "Subtitle", name: "subtitle", widget: "string", i18n: true}
       - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list", required: false, i18n: true, field: {label: "Tag", name: "tag", widget: "string"}}
       - {label: "Cover", name: "image", widget: "image", required: false}
       - {label: "CoverAlt", name: "imageAlt", widget: "string", i18n: true}
       - {label: "Description", name: "description", widget: "text", i18n: true}
@@ -58,6 +59,7 @@ collections:
     create: false
     i18n: true
     fields:
+      - {label: "Title", name: "title", widget: "string", default: "Links"}
       - {label: "Links", name: "links", widget: "list", required: false, i18n: true, fields: [
           {label: "Label", name: "label", widget: "string"},
           {label: "Link", name: "link", widget: "string"}]}

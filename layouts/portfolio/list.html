@@ -21,9 +21,9 @@
           <div class="links">
             <h4>En lien:</h4>
             <ul>
-              {{ range $key, $value := .Params.links }}
-                <li><a href="{{ $value }}">{{ $key }}</a></li>
-              {{ end }}
+            {{ range .Params.links }}
+              <li><a href="{{ .link }}">{{ .label }}</a></li>
+            {{ end }}
             </ul>
           </div>
         </section>
