@@ -16,6 +16,7 @@ collections:
   - name: "portfolio"
     label: "Piece of Art"
     folder: "content/portfolio"
+    path: '{{slug}}/_index'
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
@@ -28,6 +29,7 @@ collections:
   - name: "projects"
     label: "Project"
     folder: "content/projects"
+    path: '{{slug}}/_index'
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
