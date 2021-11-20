@@ -4,8 +4,8 @@
 
 {{ define "main" }}
 <ul>
-  {{ range .Pages }}
-    <li><a href="{{ .Params.link }}">{{ .Params.label }}</a></li>
+  {{ range .Params.links }}
+    <li><a href="{{ .link }}">{{ .label }}</a></li>
   {{ end }}
 </ul>
 <img src="/img/fleur.png" alt="Croquis de fleur"/>

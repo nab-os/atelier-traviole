@@ -24,7 +24,7 @@ main img {
 
 main > *:nth-child(1) {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: flex-start;
   flex-wrap: wrap;
 }
@@ -32,6 +32,10 @@ main > *:nth-child(1) {
 main > section:nth-child(1) > * {
   width: 100%;
   max-width: 360px;
+}
+
+main > section:nth-child(1) > div > p {
+  text-align: justify;
 }
 
 main > section:nth-child(2) {

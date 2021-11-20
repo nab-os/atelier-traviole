@@ -1,22 +1,20 @@
+Netlify:
+  - draft
+
 Header:
-  - selected nav bar element
   - language selection:
-    - placement
     - keep same page
 
 Portfolio:
   - image upload
+  - links
 
 Projects:
   - image upload
-  - date format
   - tags
 
 Project:
   - everything
 
 Contact:
-  - justify description
-  - space out portrait and description
-
 

@@ -1,20 +1,16 @@
 <header>
+  <ul>
+    {{ range $.Site.Home.AllTranslations }}
+      <li {{ if eq $.Site.Language .Language.Lang }}class="selected"{{ end }} ><a href="{{ relref . (dict "path" "portfolio/" "lang" .Language.Lang) }}">{{ .Language.LanguageName }}</a></li>
+    {{ end }}
+  </ul>
   <img src="/img/logo.png" loading="lazy" alt="Atelier traviole logo"/>
   <nav>
     <ul>
-      <li class="active"><a href="/portfolio/">Portfolio</a></li>
-      <li><a href="/projects/">Projets</a></li>
-      <li><a href="/contact/">Contact</a></li>
-      <li><a href="/links/">Liens</a></li>
+      <li {{ if eq $.RelPermalink ("portfolio/" | relLangURL) }}class="active"{{ end }}><a href='{{ "portfolio/" | relLangURL }}'>Portfolio</a></li>
+      <li {{ if eq $.RelPermalink ("projects/" | relLangURL) }}class="active"{{ end }}><a href='{{ "projects/" | relLangURL }}'>Projets</a></li>
+      <li {{ if eq $.RelPermalink ("contact/" | relLangURL) }}class="active"{{ end }}><a href='{{ "contact/" | relLangURL }}'>Contact</a></li>
+      <li {{ if eq $.RelPermalink ("links/" | relLangURL) }}class="active"{{ end }}><a href='{{ "links/" | relLangURL }}'>Liens</a></li>
     </ul>
   </nav>
-  
-
-<ul>
-{{ range $.Site.Home.AllTranslations }}
-<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-{{ end }}
-</ul>
-
-
 </header>

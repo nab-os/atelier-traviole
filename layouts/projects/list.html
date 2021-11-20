@@ -9,12 +9,17 @@
       <img src="{{ .Permalink }}{{ .Params.image }}" alt="{{ .Params.imageAlt }}"/>
       <section>
         <header>
-          <span>{{ .Params.date }}</span>
+          <span>{{ .Params.date | time.Format ":date_medium" }}</span>
           <h1>{{ .Params.title }}</h1>
           <h2>{{ .Params.subtitle }}</h2>
         </header>
         <p>{{ .Params.description }}</p>
         <a href="{{ .URL }}">{{ i18n "projects_more" }}</a>
+        <ul>
+          {{ range .Params.tags }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
       </section>
     </li>
   {{ end }}

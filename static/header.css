@@ -4,6 +4,35 @@ body > header {
   align-items: center;
 }
 
+header > ul {
+  position: absolute;
+  inset-inline-start: 30px;
+  inset-block-start: 20px;
+
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  color: var(--secondary-color);
+}
+
+header > ul > li > a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+header > ul > li.selected > a {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+header > ul > li:not(:first-child)::before {
+  content: '/';
+  margin-inline: 1ch;
+}
+
 body > header > img {
   display: flex;
   justify-content: center;

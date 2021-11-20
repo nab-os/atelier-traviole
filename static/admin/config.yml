@@ -32,6 +32,9 @@ collections:
       - {label: "Cover", name: "image", widget: "image", required: false}
       - {label: "CoverAlt", name: "imageAlt", widget: "string", i18n: true}
       - {label: "Description", name: "description", widget: "text", i18n: true}
+      - {label: "Links", name: "links", widget: "list", required: false, fields: [
+          {label: "Label", name: "label", widget: "string"},
+          {label: "Link", name: "link", widget: "string"}]}
   - name: "projects"
     label: "Project"
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
@@ -52,13 +55,12 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
     folder: "content/links"
     preview_path: "/links/"
-    create: true
+    create: false
     i18n: true
     fields:
-      - {label: "Label", name: "label", widget: "string", i18n: true}
-      - {label: "Link", name: "link", widget: "string"}
-      - {label: "Slug", name: "slug", widget: "string"}
-      - {label: "Order", name: "order", widget: "number", value_type: "int"}
+      - {label: "Links", name: "links", widget: "list", required: false, i18n: true, fields: [
+          {label: "Label", name: "label", widget: "string"},
+          {label: "Link", name: "link", widget: "string"}]}
   - name: "contact"
     identifier_field: "description"
     label: "Contact"
