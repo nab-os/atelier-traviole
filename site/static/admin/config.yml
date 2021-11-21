@@ -19,7 +19,7 @@ collections:
   - name: "portfolio"
     label: "Piece of Art"
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
-    folder: "content/portfolio"
+    folder: "site/content/portfolio"
     path: '{{slug}}/index'
     create: false
     i18n: true
@@ -50,7 +50,7 @@ collections:
   - name: "projects"
     label: "Project"
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
-    folder: "content/projects"
+    folder: "site/content/projects"
     path: '{{slug}}/index'
     create: true
     i18n: true
@@ -67,7 +67,7 @@ collections:
   - name: "links"
     label: "Link"
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
-    folder: "content/links"
+    folder: "site/content/links"
     preview_path: "/links/"
     create: false
     i18n: true
@@ -79,7 +79,7 @@ collections:
   - name: "contact"
     identifier_field: "description"
     label: "Contact"
-    folder: "content/contact"
+    folder: "site/content/contact"
     create: false
     i18n: true
     fields:
