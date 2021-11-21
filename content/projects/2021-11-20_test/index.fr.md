@@ -3,6 +3,9 @@ title: Test
 subtitle: test
 slug: test
 date: 2021-11-20T11:12:52.464Z
+tags:
+  - tag1
+  - tag2
 imageAlt: test
 description: test
 ---
