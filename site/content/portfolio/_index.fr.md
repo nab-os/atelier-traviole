@@ -29,7 +29,19 @@ lines:
           link: https://www.instagram.com/arnaudmoine/
         - label: Les Éditions Chocolat ! Jeunesse
           link: https://www.chocolat-jeunesse.com/
-  - - aspect: a4
+  - - title: La Voyageuse
+      subtitle: Tryptique Botanico-magique
+      aspect: a4
+      image: voyageuse.png
+      imageAlt: Poster Botanique avec une Monstera géante
+      description: La toute première fois qu'on m'a payée pour de l'art ! La Voyageuse
+        fait partie d'une commande de tryptique de petites fées fantasques.
+        Cette pièce a éveillé mon amour des textures et des plantes dans mes
+        illustrations (surtout la Monstera!)
+      links:
+        - label: Mon post instragram avec une photo du mur décoré
+          link: https://www.instagram.com/p/CLQ9xs6jq3z/
+    - aspect: a4
       title: Le Chemin
       subtitle: Lucie et les Lucioles
       image: 3.png
@@ -44,16 +56,18 @@ lines:
           link: https://www.instagram.com/mayalengoust/
         - label: Les Éditions Chocolat ! Jeunesse
           link: https://www.instagram.com/mayalengoust/
-    - title: La Voyageuse
-      subtitle: Tryptique Botanico-magique
+    - title: Le Scaraboidae
+      subtitle: La Fabrique à Scarabées Magiques
       aspect: a4
-      image: voyageuse.png
-      imageAlt: Poster Botanique avec une Monstera géante
-      description: La toute première fois qu'on m'a payée pour de l'art ! La Voyageuse
-        fait partie d'une commande de tryptique de petites fées fantasques.
-        Cette pièce a éveillé mon amour des textures et des plantes dans mes
-        illustrations (surtout la Monstera!)
+      image: 5.png
       links:
-        - label: Mon post instragram avec une photo du mur décoré
-          link: https://www.instagram.com/p/CLQ9xs6jq3z/
+        - label: Mon post Instagram sur la Fabrique
+          link: https://www.instagram.com/p/CM695y6DRgx/
+        - label: Un autre exemple de scarabée magique
+          link: https://www.instagram.com/p/CLzyqt4jGku/
+      imageAlt: Scarabée magique imaginaire étoilé
+      description: Création d'un scarabée légendaire à partir d'une feuille
+        d'activité. Le but de l'activité est de rendre le dessin moins
+        impressionnant et plus ludique en permettant à l'artiste (peu importe
+        son niveau) de créer ses propres insectes magiques.
 ---

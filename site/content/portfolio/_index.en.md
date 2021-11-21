@@ -56,4 +56,20 @@ lines:
       links:
         - label: My Instagram Post with a picture of the ornate wall
           link: https://www.instagram.com/p/CLQ9xs6jq3z/
+    - title: The Scaraboidae
+      subtitle: The Magical Beetles Factory
+      aspect: a4
+      image: 5.png
+      links:
+        - link: https://www.instagram.com/p/CM695y6DRgx/
+          label: My Instagram post regarding the Factory
+        - label: Another example of magical beetle
+          link: https://www.instagram.com/p/CLzyqt4jGku/
+      imageAlt: "Imaginary magical starry beetle "
+      description: >-
+        Creation of a legendary beetle with an activity sheet. The main goal of
+        the activity is to make drawing fun and less scary by letting the artist
+        (no matter their level) create their own magical insects. 
+
+        (The activity is in french, but you can still use it and play with the dice !)
 ---
