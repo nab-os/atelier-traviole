@@ -44,4 +44,16 @@ lines:
           link: https://www.instagram.com/mayalengoust/
         - label: Les Éditions Chocolat ! Jeunesse
           link: https://www.instagram.com/mayalengoust/
+    - title: La Voyageuse
+      subtitle: Tryptique Botanico-magique
+      aspect: a4
+      image: voyageuse.png
+      imageAlt: Poster Botanique avec une Monstera géante
+      description: La toute première fois qu'on m'a payée pour de l'art ! La Voyageuse
+        fait partie d'une commande de tryptique de petites fées fantasques.
+        Cette pièce a éveillé mon amour des textures et des plantes dans mes
+        illustrations (surtout la Monstera!)
+      links:
+        - label: Mon post instragram avec une photo du mur décoré
+          link: https://www.instagram.com/p/CLQ9xs6jq3z/
 ---
