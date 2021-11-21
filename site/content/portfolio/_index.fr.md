@@ -13,6 +13,7 @@ lines:
       links:
         - label: Ma page Instagram @Atelier.Traviole (FR)
           link: https://www.instagram.com/atelier.traviole/
+      project: test
     - title: La Curiosité
       subtitle: Lucie et les Lucioles
       aspect: a3--horizontal
