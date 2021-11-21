@@ -13,4 +13,20 @@ lines:
       links:
         - label: Ma page Instagram @Atelier.Traviole (FR)
           link: https://www.instagram.com/atelier.traviole/
+    - title: La Curiosité
+      subtitle: Lucie et les Lucioles
+      aspect: a3--horizontal
+      image: 2.png
+      imageAlt: Illustration double page curiosité Lucie et les Lucioles
+      description: Première double-page illustrée dans le cadre de mon exercice de
+        re-illustration de "Lucie et les lucioles" par Arnaud Moine et Mayalen
+        Goust (Chocolat ! Jeunesse, 2009). Elle montre la curiosité de Lucie
+        lorsqu'elle entre pour la première fois dans la forêt.
+      links:
+        - label: Instagram de Mayalen Goust (Illustratrice)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Instagram d'Arnaud Moine (Auteur)
+          link: https://www.instagram.com/arnaudmoine/
+        - label: Les Éditions Chocolat ! Jeunesse
+          link: https://www.chocolat-jeunesse.com/
 ---

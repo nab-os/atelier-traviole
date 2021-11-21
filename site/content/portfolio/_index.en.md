@@ -12,4 +12,20 @@ lines:
       links:
         - label: My Instagram page @Atelier.Traviole (FR)
           link: https://www.instagram.com/atelier.traviole/
+    - title: The Curiosity
+      subtitle: Lucie et les Lucioles
+      aspect: a3--horizontal
+      image: 2.png
+      imageAlt: illustration doublespread Curiosity Lucie et les Lucioles
+      description: First doublespread made for my illustration exercise based on
+        Arnaud Moine and Mayalen Goust's picture book "Lucie and the Fireflies"
+        (Chocolat ! Jeunesse, 2009). It shows Lucie's eagerness to discover
+        nature when she enters the woods for the first time.
+      links:
+        - label: Mayalen Goust's Instagram (Illustrator)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Arnaud Moine's Instagram (Author)
+          link: https://www.instagram.com/arnaudmoine/
+        - label: Chocolat ! Jeunesse Publishing house
+          link: https://www.chocolat-jeunesse.com/
 ---
