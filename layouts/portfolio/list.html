@@ -16,7 +16,9 @@
           <h3>{{ .subtitle }}</h3>
           <p>{{ .description }}</p>
           {{ if .project }}
-            <a href="#">{{ i18n "portfolio_project" }}</a>
+          {{ printf "%#v" .project }}
+          {{ $project := .Site.GetPage .project}}
+          <a href="{{ $project.Permalink }}">{{ i18n "portfolio_project" }}</a>
           {{ end }}
           <div class="spacer"></div>
           <div class="links">
