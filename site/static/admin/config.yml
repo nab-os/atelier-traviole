@@ -3,7 +3,7 @@ backend:
   repo: nabos/atelier-traviole
   branch: netlify
   auth_type: pkce
-  app_id: 663435257b5e43b17bdc9f71688373f6dcf6da2b2931364e4e168d60571f9f3b
+  app_id: 8622c0aba5d8b3aa205991bf289382669305ad5e63fa3b1554fbae488f33b922
   api_root: https://git.glargh.fr/api/v4
   base_url: https://git.glargh.fr
   auth_endpoint: oauth/authorize
