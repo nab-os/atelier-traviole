@@ -3,7 +3,7 @@ backend:
   repo: nabos/atelier-traviole
   branch: netlify
   auth_type: pkce
-  app_id: 8622c0aba5d8b3aa205991bf289382669305ad5e63fa3b1554fbae488f33b922
+  app_id: f51ddce80814196824ce8ed872d89326ff702f66c99004296f7a84b8ea531c92
   api_root: https://git.glargh.fr/api/v4
   base_url: https://git.glargh.fr
   auth_endpoint: oauth/authorize
@@ -14,6 +14,12 @@ public_folder: "img"
 i18n:
   structure: multiple_files
   locales: [fr, en]
+
+headers:
+  for: "/*"
+  values:
+    - Access-Control-Allow-Origin = "*"
+
 
 collections:
   - name: "portfolio"
