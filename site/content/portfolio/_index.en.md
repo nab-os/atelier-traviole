@@ -28,4 +28,20 @@ lines:
           link: https://www.instagram.com/arnaudmoine/
         - label: Chocolat ! Jeunesse Publishing house
           link: https://www.chocolat-jeunesse.com/
+  - - title: The Path
+      subtitle: Lucie et les Lucioles
+      aspect: a4
+      image: 3.png
+      imageAlt: Book cover Lucie et les Lucioles
+      description: Dummy bookcover made for an illustration exercise based on the
+        picture book "Lucie and the Fireflies" by Arnaud Moine and Mayalen
+        Goust, published by Chocolat ! Jeunesse (2009). I love the stuffed frog
+        :)
+      links:
+        - label: Mayalen Goust's Instagram (Illustrator)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Arnaud Moine's Instagram (Author)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Chocolat ! Jeunesse Publishing house
+          link: https://www.instagram.com/mayalengoust/
 ---

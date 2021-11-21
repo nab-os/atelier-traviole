@@ -29,4 +29,19 @@ lines:
           link: https://www.instagram.com/arnaudmoine/
         - label: Les Éditions Chocolat ! Jeunesse
           link: https://www.chocolat-jeunesse.com/
+  - - aspect: a4
+      title: Le Chemin
+      subtitle: Lucie et les Lucioles
+      image: 3.png
+      description: Couverture fictive réalisée pour l'exercice de ré-illustration de
+        l'album jeunesse "Lucie et les Lucioles" par Arnaud Moine et Mayalen
+        Goust aux éditions Chocolat (2009). J'adore la peluche grenouille :)
+      imageAlt: "Couverture Lucie et les Lucioles "
+      links:
+        - label: Instagram de Mayalen Goust (Illustratrice)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Instagram d'Arnaud Moine (Auteur)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Les Éditions Chocolat ! Jeunesse
+          link: https://www.instagram.com/mayalengoust/
 ---
