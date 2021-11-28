@@ -1,5 +1,5 @@
 baseURL = 'https://ateliertraviole.fr'
-languageCode = 'fr-fr'
+languageCode = 'fr'
 title = 'Atelier Traviole'
 paginate = 6
 staticDir = ['static']

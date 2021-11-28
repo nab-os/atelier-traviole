@@ -1,8 +1,8 @@
 [nav_portfolio]
   other = "Portfolio"
 
-[nav_projects]
-  other = "Projects"
+[nav_blog]
+  other = "Blog"
 
 [nav_contact]
   other = "Contact"
@@ -13,7 +13,7 @@
 [portfolio_project]
   other = "See project"
 
-[projects_more]
+[blog_more]
   other = "See more"
 
 [contact_introduction]

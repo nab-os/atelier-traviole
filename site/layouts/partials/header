@@ -7,10 +7,10 @@
   <img src="/img/logo.png" loading="lazy" alt="Atelier traviole logo"/>
   <nav>
     <ul>
-      <li {{ if eq $.RelPermalink ("portfolio/" | relLangURL) }}class="active"{{ end }}><a href='{{ "portfolio/" | relLangURL }}'>{{ i18n "nav_portfolio"}}</a></li>
-      <li {{ if eq $.RelPermalink ("projects/" | relLangURL) }}class="active"{{ end }}><a href='{{ "projects/" | relLangURL }}'>{{ i18n "nav_projects"}}</a></li>
-      <li {{ if eq $.RelPermalink ("contact/" | relLangURL) }}class="active"{{ end }}><a href='{{ "contact/" | relLangURL }}'>{{ i18n "nav_contact"}}</a></li>
-      <li {{ if eq $.RelPermalink ("links/" | relLangURL) }}class="active"{{ end }}><a href='{{ "links/" | relLangURL }}'>{{ i18n "nav_links"}}</a></li>
+      <li {{ if eq $.RelPermalink ("portfolio/" | relLangURL) }}class="active"{{ end }}><a href='{{ "portfolio/" | relLangURL }}'>{{ i18n "nav_portfolio" }}</a></li>
+      <li {{ if eq $.RelPermalink ("blog/" | relLangURL) }}class="active"{{ end }}><a href='{{ "blog/" | relLangURL }}'>{{ i18n "nav_blog" }}</a></li>
+      <li {{ if eq $.RelPermalink ("contact/" | relLangURL) }}class="active"{{ end }}><a href='{{ "contact/" | relLangURL }}'>{{ i18n "nav_contact" }}</a></li>
+      <li {{ if eq $.RelPermalink ("links/" | relLangURL) }}class="active"{{ end }}><a href='{{ "links/" | relLangURL }}'>{{ i18n "nav_links" }}</a></li>
     </ul>
   </nav>
 </header>

@@ -12,6 +12,3 @@ description: test
 ---
 Allo ?
 
-
-
-{{< biography Name picture description >}}

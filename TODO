@@ -4,10 +4,10 @@ Header:
 
 Portfolio:
 
-Projects:
+Blog:
   - tags
 
-Project:
+Blog post:
   - theme
   - admin modules
   - Matrix comment
