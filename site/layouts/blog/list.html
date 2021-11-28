@@ -1,5 +1,5 @@
 {{ define "head" }}
-<link rel="stylesheet" href="/projects.css" type="text/css" media="all">
+<link rel="stylesheet" href="/blog.css" type="text/css" media="all">
 {{ end }}
 
 {{ define "main" }}
@@ -14,7 +14,7 @@
           <h2>{{ .Params.subtitle }}</h2>
         </header>
         <p>{{ .Params.description }}</p>
-        <a href="{{ .RelPermalink }}">{{ i18n "projects_more" }}</a>
+        <a href="{{ .RelPermalink }}">{{ i18n "blog_more" }}</a>
         <ul>
           {{ range .Params.tags }}
             <li>{{ . }}</li>
