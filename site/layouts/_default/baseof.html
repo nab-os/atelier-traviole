@@ -10,6 +10,7 @@
     <title>Atelier Traviole</title>
 </head>
 <body>
+  <script>0</script> <!--To prevent FOUC (Flash Of Unstyled Content). https://bugzilla.mozilla.org/show_bug.cgi?id=1404468-->
   {{ partial "header" . }}
   <main>
     {{ block "main" . }}{{ end }}
