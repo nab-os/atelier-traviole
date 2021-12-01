@@ -103,21 +103,20 @@ lines:
         - label: Botanical & Magical Tryptich ☘️ sur Behance (EN)
           link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
       imageAlt: Illustration tronquée d'une fée avec sa fraise
-  - - title: L'Apprentie de la Prairie
-      subtitle: La Fabrique à Scarabées Magiques
-      description: "Illustration mettant en situation les scarabées magiques de la
-        Fabrique à Scarabées. Je me demandais comment ils apparaîteraient si on
-        devait intégrer la création de scarabée dans une histoire... Ca a été
-        une évidence : l'Invocation ! Peut-être que c'est parce que je joue
-        toujours des sorciers en jeu de rôle ;)"
+  - - title: Les Souvenirs
+      subtitle: Le Magasin des Souvenirs
       aspect: a4
-      image: 10.png
+      image: couverture.png
+      imageAlt: Couverture fictive Magasin des Souvenirs
+      description: Fausse couverture pour l'exercice d'illustration sur la base d'un
+        manuscrit original conçu avec mes abonnés Instagram. J'ai décidé de
+        centrer cette couverture sur le personnage principal, avec un rappel du
+        papier peint de sa maison familial en fond.
       links:
-        - label: Mon post Instagram sur la Fabrique
-          link: https://www.instagram.com/p/CM695y6DRgx/
-        - label: Un autre exemple de scarabée magique
-          link: https://www.instagram.com/p/CLzyqt4jGku/
-      imageAlt: Illustration Jeune fille fantasque dans la prairie
+        - label: Ma page Instagram @Atelier.Traviole
+          link: https://www.instagram.com/atelier.traviole/
+        - link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
+          label: The Souvenirs Shop ⭐ sur Behance (EN)
     - title: La Peur
       subtitle: Lucie et les Lucioles
       aspect: a4
@@ -134,18 +133,19 @@ lines:
           link: https://www.instagram.com/arnaudmoine/
         - label: Les Éditions Chocolat ! Jeunesse
           link: https://www.chocolat-jeunesse.com/
-    - title: Les Souvenirs
-      subtitle: Le Magasin des Souvenirs
+    - title: L'Apprentie de la Prairie
+      subtitle: La Fabrique à Scarabées Magiques
+      description: "Illustration mettant en situation les scarabées magiques de la
+        Fabrique à Scarabées. Je me demandais comment ils apparaîteraient si on
+        devait intégrer la création de scarabée dans une histoire... Ca a été
+        une évidence : l'Invocation ! Peut-être que c'est parce que je joue
+        toujours des sorciers en jeu de rôle ;)"
       aspect: a4
-      image: couverture.png
-      imageAlt: Couverture fictive Magasin des Souvenirs
-      description: Fausse couverture pour l'exercice d'illustration sur la base d'un
-        manuscrit original conçu avec mes abonnés Instagram. J'ai décidé de
-        centrer cette couverture sur le personnage principal, avec un rappel du
-        papier peint de sa maison familial en fond.
+      image: 10.png
       links:
-        - label: Ma page Instagram @Atelier.Traviole
-          link: https://www.instagram.com/atelier.traviole/
-        - link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
-          label: The Souvenirs Shop ⭐ sur Behance (EN)
+        - label: Mon post Instagram sur la Fabrique
+          link: https://www.instagram.com/p/CM695y6DRgx/
+        - label: Un autre exemple de scarabée magique
+          link: https://www.instagram.com/p/CLzyqt4jGku/
+      imageAlt: Illustration Jeune fille fantasque dans la prairie
 ---
