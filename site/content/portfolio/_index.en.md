@@ -84,4 +84,20 @@ lines:
       image: pages1213.png
       aspect: a3--horizontal
       imageAlt: Double spread from the Souvenirs Shop
+    - title: The Fear
+      subtitle: Lucie et les Lucioles
+      description: Page from my illustration exercise based on the picture book "Lucie
+        and the Fireflies" by Arnaud Moine and Mayalen Goust, published by
+        Chocolat ! Jeunesse (2009). I loved playing with a darker color palette
+        as the night settles in, all while being still saturated and bold.
+      aspect: a4
+      image: page-16.png
+      imageAlt: Page on fear Lucie et les Lucioles
+      links:
+        - label: Mayalen Goust's Instagram (Illustrator)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Arnaud Moine's Instagram (Author)
+          link: https://www.instagram.com/arnaudmoine/
+        - label: Chocolat ! Jeunesse Publishing house
+          link: https://www.chocolat-jeunesse.com/
 ---

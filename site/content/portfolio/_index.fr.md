@@ -83,4 +83,20 @@ lines:
         - label: Ma page Instagram @Atelier.Traviole
           link: https://www.instagram.com/atelier.traviole/
       imageAlt: Doublepage du projet Le Magasin des Souvenirs
+    - title: La Peur
+      subtitle: Lucie et les Lucioles
+      description: Page pour mon exercice de ré-illustration de l'album jeunesse
+        "Lucie et les Lucioles" par Arnaud Moine et Mayalen Goust aux éditions
+        Chocolat ! Jeunesse (2009). J'ai adoré jouer avec la palette plus sombre
+        de la nuit qui tombe, tout en restant saturée et tranchée.
+      aspect: a4
+      image: page-16.png
+      imageAlt: Page sur la peur Lucie et les Lucioles
+      links:
+        - label: Instagram de Mayalen Goust (Illustratrice)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Instagram d'Arnaud Moine (Auteur)
+          link: https://www.instagram.com/arnaudmoine/
+        - label: Les Éditions Chocolat ! Jeunesse
+          link: https://www.chocolat-jeunesse.com/
 ---
