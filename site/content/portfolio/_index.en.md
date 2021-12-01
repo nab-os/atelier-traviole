@@ -84,20 +84,18 @@ lines:
       image: pages1213.png
       aspect: a3--horizontal
       imageAlt: Double spread from the Souvenirs Shop
-    - title: The Fear
-      subtitle: Lucie et les Lucioles
-      description: Page from my illustration exercise based on the picture book "Lucie
-        and the Fireflies" by Arnaud Moine and Mayalen Goust, published by
-        Chocolat ! Jeunesse (2009). I loved playing with a darker color palette
-        as the night settles in, all while being still saturated and bold.
-      aspect: a4
-      image: page-16.png
-      imageAlt: Page on fear Lucie et les Lucioles
+    - title: The Botanist
+      subtitle: Botanical & Magical Trio
+      description: " This is a piece from a commissioned trio of whimsical
+        mini-fairies paintings. I had a lot of fun the composition and the
+        various textures. To this day, more than 10 months later, I still doodle
+        strawberries to warm up!"
+      aspect: square
+      image: cueilleuse-insta.png
       links:
-        - label: Mayalen Goust's Instagram (Illustrator)
-          link: https://www.instagram.com/mayalengoust/
-        - label: Arnaud Moine's Instagram (Author)
-          link: https://www.instagram.com/arnaudmoine/
-        - label: Chocolat ! Jeunesse Publishing house
-          link: https://www.chocolat-jeunesse.com/
+        - label: My Instagram Post with a picture of the ornate wall
+          link: https://www.instagram.com/p/CLQ9xs6jq3z/
+        - label: Botanical & Magical Tryptich on Behance (EN)
+          link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
+      imageAlt: Cropped illustration of a fairy and her strawberry
 ---

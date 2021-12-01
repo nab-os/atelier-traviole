@@ -83,20 +83,19 @@ lines:
       links:
         - label: Ma page Instagram @Atelier.Traviole
           link: https://www.instagram.com/atelier.traviole/
-    - title: La Peur
-      subtitle: Lucie et les Lucioles
-      aspect: a4
-      image: page-16.png
-      imageAlt: Page sur la peur Lucie et les Lucioles
-      description: Page pour mon exercice de ré-illustration de l'album jeunesse
-        "Lucie et les Lucioles" par Arnaud Moine et Mayalen Goust aux éditions
-        Chocolat ! Jeunesse (2009). J'ai adoré jouer avec la palette plus sombre
-        de la nuit qui tombe, tout en restant saturée et tranchée.
+    - title: La Botaniste
+      subtitle: Tryptique Botanico-magique
+      description: La Botaniste fait partie d'une commande de tryptique de petites
+        fées fantasques. Je me suis beaucoup amusée avec la composition mais
+        aussi avec les différentes textures. Aujourd'hui encore, plus de dix
+        mois plus tard, je dessine toujours des fraises pour m'échauffer !
+      aspect: square
+      image: cueilleuse-insta.png
       links:
-        - label: Instagram de Mayalen Goust (Illustratrice)
-          link: https://www.instagram.com/mayalengoust/
-        - label: Instagram d'Arnaud Moine (Auteur)
-          link: https://www.instagram.com/arnaudmoine/
-        - label: Les Éditions Chocolat ! Jeunesse
-          link: https://www.chocolat-jeunesse.com/
+        - label: Mon post instagram avec une photo du mur décoré
+          link: https://www.instagram.com/p/CLQ9xs6jq3z/
+        - label: Botanical & Magical Tryptich sur Behance (EN)
+          link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
+      imageAlt: Illustration tronquée d'une fée avec sa fraise
+  - null
 ---
