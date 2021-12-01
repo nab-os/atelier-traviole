@@ -100,7 +100,7 @@ lines:
       links:
         - label: Mon post instagram avec une photo du mur décoré
           link: https://www.instagram.com/p/CLQ9xs6jq3z/
-        - label: Botanical & Magical Tryptich sur Behance (EN)
+        - label: Botanical & Magical Tryptich ☘️ sur Behance (EN)
           link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
       imageAlt: Illustration tronquée d'une fée avec sa fraise
   - - title: L'Apprentie de la Prairie
