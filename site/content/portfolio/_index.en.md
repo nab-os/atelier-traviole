@@ -83,6 +83,8 @@ lines:
       links:
         - label: My Instagram page @Atelier.Traviole
           link: https://www.instagram.com/atelier.traviole/
+        - link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
+          label: Botanical & Magical Tryptich ☘️ on Behance (EN)
       image: pages1213.png
       aspect: a3--horizontal
       imageAlt: Double spread from the Souvenirs Shop

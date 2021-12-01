@@ -85,6 +85,8 @@ lines:
       links:
         - label: Ma page Instagram @Atelier.Traviole
           link: https://www.instagram.com/atelier.traviole/
+        - label: Botanical & Magical Tryptich ☘️ sur Behance (EN)
+          link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
     - title: La Botaniste
       subtitle: Tryptique Botanico-magique
       description: La Botaniste fait partie d'une commande de tryptique de petites
