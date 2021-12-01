@@ -101,5 +101,19 @@ lines:
         - label: Botanical & Magical Tryptich sur Behance (EN)
           link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
       imageAlt: Illustration tronquée d'une fée avec sa fraise
-  - null
+  - - title: L'Apprentie de la Prairie
+      subtitle: La Fabrique à Scarabées Magiques
+      description: "Illustration mettant en situation les scarabées magiques de la
+        Fabrique à Scarabées. Je me demandais comment ils apparaîteraient si on
+        devait intégrer la création de scarabée dans une histoire... Ca a été
+        une évidence : l'Invocation ! Peut-être que c'est parce que je joue
+        toujours des sorciers en jeu de rôle ;)"
+      aspect: a4
+      image: 10.png
+      links:
+        - label: Mon post Instagram sur la Fabrique
+          link: https://www.instagram.com/p/CM695y6DRgx/
+        - label: Un autre exemple de scarabée magique
+          link: https://www.instagram.com/p/CLzyqt4jGku/
+      imageAlt: Illustration Jeune fille fantasque dans la prairie
 ---

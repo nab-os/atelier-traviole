@@ -102,4 +102,18 @@ lines:
         - label: Botanical & Magical Tryptich on Behance (EN)
           link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
       imageAlt: Cropped illustration of a fairy and her strawberry
+  - - title: The Prairie Apprentice
+      subtitle: The Magical Beetles Factory
+      description: "Illustration showing the magical beetles from the Beetle Factory.
+        I wondered how they would appear if we had to integrate beetle creation
+        into a story... It was a no-brainer: Summoning! Maybe it's because I
+        always play wizards in role-play ;)"
+      aspect: a4
+      image: 10.png
+      links:
+        - label: My Instagram post regarding the Factory
+          link: https://www.instagram.com/p/CM695y6DRgx/
+        - label: Another example of magical beetle
+          link: https://www.instagram.com/p/CLzyqt4jGku/
+      imageAlt: Illustration Whimsical girl in the meadow
 ---
