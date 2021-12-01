@@ -12,8 +12,8 @@ lines:
       links:
         - label: My Instagram page @Atelier.Traviole (FR)
           link: https://www.instagram.com/atelier.traviole/
-        - link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
-          label: Botanical & Magical Tryptich ☘️ on Behance (EN)
+        - link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
+          label: The Souvenirs Shop ⭐ on Behance (EN)
     - title: The Curiosity
       subtitle: Lucie et les Lucioles
       aspect: a3--horizontal
