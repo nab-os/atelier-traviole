@@ -42,6 +42,8 @@ lines:
       links:
         - label: My Instagram Post with a picture of the ornate wall
           link: https://www.instagram.com/p/CLQ9xs6jq3z/
+        - label: Botanical & Magical Tryptich ☘️ on Behance (EN)
+          link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich-
     - title: The Path
       subtitle: Lucie et les Lucioles
       aspect: a4

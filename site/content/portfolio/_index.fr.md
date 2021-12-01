@@ -44,6 +44,8 @@ lines:
       links:
         - label: Mon post instragram avec une photo du mur décoré
           link: https://www.instagram.com/p/CLQ9xs6jq3z/
+        - label: Botanical & Magical Tryptich ☘️ sur Behance (EN)
+          link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich-
     - aspect: a4
       title: Le Chemin
       subtitle: Lucie et les Lucioles
