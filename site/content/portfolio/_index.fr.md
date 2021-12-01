@@ -13,7 +13,7 @@ lines:
       links:
         - label: Ma page Instagram @Atelier.Traviole (FR)
           link: https://www.instagram.com/atelier.traviole/
-        - label: user's avatar Botanical & Magical Tryptich ☘️ sur Behance (EN)
+        - label: Botanical & Magical Tryptich ☘️ sur Behance (EN)
           link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
       project: test
     - title: La Curiosité

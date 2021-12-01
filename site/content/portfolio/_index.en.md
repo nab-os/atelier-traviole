@@ -13,7 +13,7 @@ lines:
         - label: My Instagram page @Atelier.Traviole (FR)
           link: https://www.instagram.com/atelier.traviole/
         - link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
-          label: user's avatar Botanical & Magical Tryptich ☘️ on Behance (EN)
+          label: Botanical & Magical Tryptich ☘️ on Behance (EN)
     - title: The Curiosity
       subtitle: Lucie et les Lucioles
       aspect: a3--horizontal
