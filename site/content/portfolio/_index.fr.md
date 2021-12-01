@@ -116,4 +116,20 @@ lines:
         - label: Un autre exemple de scarabée magique
           link: https://www.instagram.com/p/CLzyqt4jGku/
       imageAlt: Illustration Jeune fille fantasque dans la prairie
+    - title: La Peur
+      subtitle: Lucie et les Lucioles
+      aspect: a4
+      image: page-16.png
+      imageAlt: Page la nuit Lucie et les Lucioles
+      description: Page pour mon exercice de ré-illustration de l'album jeunesse
+        "Lucie et les Lucioles" par Arnaud Moine et Mayalen Goust aux éditions
+        Chocolat ! Jeunesse (2009). J'ai adoré jouer avec la palette plus sombre
+        de la nuit qui tombe, tout en restant saturée et tranchée.
+      links:
+        - label: Instagram de Mayalen Goust (Illustratrice)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Instagram d'Arnaud Moine (Auteur)
+          link: https://www.instagram.com/arnaudmoine/
+        - label: Les Éditions Chocolat ! Jeunesse
+          link: https://www.chocolat-jeunesse.com/
 ---

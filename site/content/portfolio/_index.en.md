@@ -116,4 +116,20 @@ lines:
         - label: Another example of magical beetle
           link: https://www.instagram.com/p/CLzyqt4jGku/
       imageAlt: Illustration Whimsical girl in the meadow
+    - title: The Fear
+      subtitle: Lucie et les Lucioles
+      aspect: a4
+      image: page-16.png
+      imageAlt: Night time page from Lucie et les Lucioles
+      description: Page from my illustration exercise based on the picture book "Lucie
+        and the Fireflies" by Arnaud Moine and Mayalen Goust, published by
+        Chocolat ! Jeunesse (2009). I loved playing with a darker color palette
+        as the night settles in, all while being still saturated and bold.
+      links:
+        - label: Mayalen Goust's Instagram (Illustrator)
+          link: https://www.instagram.com/mayalengoust/
+        - label: Arnaud Moine's Instagram (Author)
+          link: https://www.instagram.com/arnaudmoine/
+        - link: https://www.chocolat-jeunesse.com/
+          label: Chocolat ! Jeunesse Publishing house
 ---
