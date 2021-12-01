@@ -73,25 +73,25 @@ lines:
         son niveau) de créer ses propres insectes magiques.
   - - title: Les Noces
       subtitle: Le Magasin des Souvenirs
-      aspect: a3--horizontal
       description: Illustration issue d'un exercice d'illustration sur la base d'un
         manuscrit original conçu avec mes abonnés Instagram. Cette double page
         se concentre sur le couple et leur souvenir de mariage. J'ai beaucoup
         aimé créer leur ancienne photo en sépia, je les trouve adorable.
+      aspect: a3--horizontal
       image: pages1213.png
+      imageAlt: Double page Noces Le Magasin des Souvenirs
       links:
         - label: Ma page Instagram @Atelier.Traviole
           link: https://www.instagram.com/atelier.traviole/
-      imageAlt: Doublepage du projet Le Magasin des Souvenirs
     - title: La Peur
       subtitle: Lucie et les Lucioles
+      aspect: a4
+      image: page-16.png
+      imageAlt: Page sur la peur Lucie et les Lucioles
       description: Page pour mon exercice de ré-illustration de l'album jeunesse
         "Lucie et les Lucioles" par Arnaud Moine et Mayalen Goust aux éditions
         Chocolat ! Jeunesse (2009). J'ai adoré jouer avec la palette plus sombre
         de la nuit qui tombe, tout en restant saturée et tranchée.
-      aspect: a4
-      image: page-16.png
-      imageAlt: Page sur la peur Lucie et les Lucioles
       links:
         - label: Instagram de Mayalen Goust (Illustratrice)
           link: https://www.instagram.com/mayalengoust/
