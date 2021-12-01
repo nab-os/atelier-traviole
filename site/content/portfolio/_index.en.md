@@ -91,7 +91,7 @@ lines:
         various textures. To this day, more than 10 months later, I still doodle
         strawberries to warm up!"
       aspect: square
-      image: cueilleuse-insta.png
+      image: cueilleuse-carre.png
       links:
         - label: My Instagram Post with a picture of the ornate wall
           link: https://www.instagram.com/p/CLQ9xs6jq3z/

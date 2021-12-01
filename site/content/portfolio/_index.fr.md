@@ -90,7 +90,7 @@ lines:
         aussi avec les différentes textures. Aujourd'hui encore, plus de dix
         mois plus tard, je dessine toujours des fraises pour m'échauffer !
       aspect: square
-      image: cueilleuse-insta.png
+      image: cueilleuse-carre.png
       links:
         - label: Mon post instagram avec une photo du mur décoré
           link: https://www.instagram.com/p/CLQ9xs6jq3z/
