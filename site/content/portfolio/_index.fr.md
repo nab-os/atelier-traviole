@@ -71,4 +71,16 @@ lines:
         d'activité. Le but de l'activité est de rendre le dessin moins
         impressionnant et plus ludique en permettant à l'artiste (peu importe
         son niveau) de créer ses propres insectes magiques.
+  - - title: Les Noces
+      subtitle: Le Magasin des Souvenirs
+      aspect: a3--horizontal
+      description: Illustration issue d'un exercice d'illustration sur la base d'un
+        manuscrit original conçu avec mes abonnés Instagram. Cette double page
+        se concentre sur le couple et leur souvenir de mariage. J'ai beaucoup
+        aimé créer leur ancienne photo en sépia, je les trouve adorable.
+      image: pages1213.png
+      links:
+        - label: Ma page Instagram @Atelier.Traviole
+          link: https://www.instagram.com/atelier.traviole/
+      imageAlt: Doublepage du projet Le Magasin des Souvenirs
 ---
