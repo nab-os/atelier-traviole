@@ -132,4 +132,18 @@ lines:
           link: https://www.instagram.com/arnaudmoine/
         - link: https://www.chocolat-jeunesse.com/
           label: Chocolat ! Jeunesse Publishing house
+    - title: The Memories
+      subtitle: The Souvenirs Shop
+      aspect: a4
+      image: couverture.png
+      imageAlt: Dummy book cover Souvenirs Shop
+      description: Dummy book cover for the illustration exercise based on an original
+        manuscript written with my Instagram followers. I decided to focus this
+        cover art on the main character, with a reminder of the wallpaper of his
+        family home in the background.
+      links:
+        - label: My Instagram page @Atelier.Traviole
+          link: https://www.instagram.com/atelier.traviole/
+        - link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
+          label: The Souvenirs Shop ⭐ on Behance (EN)
 ---
