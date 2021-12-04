@@ -9,7 +9,7 @@ main > ul {
   inline-size: 100%;
 }
 
-main > ul > li {
+.post {
   display: flex;
   flex-direction: column;
 
@@ -19,7 +19,7 @@ main > ul > li {
   background-color: white;
 }
 
-main > ul > li > img {
+.post > img {
   aspect-ratio: 1;
   object-fit: cover;
   min-block-size: 100%;
@@ -29,7 +29,7 @@ main > ul > li > img {
   place-items: center;
 }
 
-main > ul > li > section {
+.post > section {
   flex-grow: 1;
 
   display: grid;
@@ -43,32 +43,32 @@ main > ul > li > section {
   margin-block-start: 10px;
 }
 
-main > ul > li > section > header {
+.post > section > header {
   grid-area: title;
 }
 
-main > ul > li > section > header > h1 {
+.post > section > header > h1 {
   margin: 0;
 
   font-size: 1.2em;
   text-align: center;
 }
 
-main > ul > li > section > header > h2 {
+.post > section > header > h2 {
   margin: 0;
 
   font-size: 1.1em;
   text-align: center;
 }
 
-main > ul > li > section > header > span {
+.post > section > header > span {
   display: inline;
   color: var(--secondary-color);
   text-align: center;
   margin-block: 3px;
 }
 
-main > ul > li > section > span::before {
+.post > section > span::before {
   position: absolute;
   display: inline-block;
   content: '';
@@ -81,7 +81,7 @@ main > ul > li > section > span::before {
 }
 
 
-main > ul > li > section > p {
+.post > section > p {
   grid-area: desc;
   text-align: start;
   margin-block-start: 10px;
@@ -90,7 +90,7 @@ main > ul > li > section > p {
   text-overflow: ellipsis;
 }
 
-main > ul > li > section > a {
+.post > section > a {
   grid-area: more;
 
   min-height: 30px;
@@ -104,7 +104,7 @@ main > ul > li > section > a {
   place-items: center;
 }
 
-main > ul > li > section > ul {
+.post > section > ul {
   grid-area: tags;
 
   display: none;
@@ -117,7 +117,7 @@ main > ul > li > section > ul {
   gap: 10px;
 }
 
-main > ul > li > section > ul > li {
+.post > section > ul > li {
   display: grid;
   place-items: center;
 
@@ -136,17 +136,17 @@ main > ul > li > section > ul > li {
 @container (min-inline-size: 550px) {
 */
 @media (min-width: 800px) {
-  main > ul > li {
+  .post {
     flex-direction: row;
     block-size: 250px;
     padding: 20px;
   }
 
-  main > ul > li > img {
+  .post > img {
     max-block-size: unset;
   }
 
-  main > ul > li > section {
+  .post > section {
     grid-template-areas:
       "title title title"
       "desc  desc  desc"
@@ -158,22 +158,51 @@ main > ul > li > section > ul > li {
     margin-block-start: unset;
   }
 
-  main > ul > li > section > header > span {
+  .post > section > header > span {
     text-align: end;
     float: right;
   }
 
-  main > ul > li > section > header > h1 {
+  .post > section > header > h1 {
     text-align: start;
   }
 
-  main > ul > li > section > header > h2 {
+  .post > section > header > h2 {
     text-align: start;
   }
 }
 
 @media (min-width: 1000px) {
-  main > ul > li > section > ul {
+  .post > section > ul {
     display: flex;
   }
+}
+
+.post--detail {
+  margin-block: 20px;
+  flex-direction: column;
+}
+
+.post--detail > section {
+  margin: 20px;
+  padding: 0;
+  border: none;
+  border-block-end: 1px solid var(--secondary-color);
+}
+
+.post--detail > section {
+    grid-template-areas:
+      "title title title"
+      "desc  desc  tags"
+      "desc  desc  tags";
+}
+
+.post--detail > section > ul {
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+}
+
+.post--detail > article {
+  margin: 20px;
 }

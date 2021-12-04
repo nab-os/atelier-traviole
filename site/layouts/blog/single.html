@@ -1,6 +1,24 @@
 {{ define "head" }}
+<link rel="stylesheet" href="/blog.css" type="text/css" media="all">
 {{ end }}
 
 {{ define "main" }}
-  {{ .Content }}
+<div class="post post--detail">
+  <section>
+    <header>
+      {{ if .Params.date }}<span>{{ .Params.date | time.Format ":date_medium" }}</span>{{ end }}
+      <h1>{{ .Params.title }}</h1>
+      <h2>{{ .Params.subtitle }}</h2>
+    </header>
+    <p>{{ .Params.description }}</p>
+    <ul>
+      {{ range .Params.tags }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </section>
+  <article>
+    {{ .Content }}
+  </article>
+</div>
 {{ end }}

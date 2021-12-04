@@ -1,8 +1,13 @@
 Header:
+  - Logo link to portfolio
   - language selection:
     - keep same page
 
+Footer:
+  - Link to contact
+
 Portfolio:
+  - image loading
 
 Blog:
   - tags
@@ -10,7 +15,7 @@ Blog:
 Blog post:
   - theme
   - admin modules
-  - Matrix comment
+  - Matrix comments
 
 Contact:
   - Underline address only

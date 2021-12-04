@@ -24,5 +24,4 @@ defaultContentLanguage = 'fr'
 
 [taxonomies]
   tag = 'tags'
-  project = 'projects'
 

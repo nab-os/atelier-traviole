@@ -5,7 +5,7 @@
 {{ define "main" }}
 <ul>
   {{ range .Pages }}
-    <li>
+    <li class="post">
       <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Params.imageAlt }}"/>
       <section>
         <header>
