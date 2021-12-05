@@ -51,7 +51,7 @@ collections:
   - name: "blog"
     label: "Blog post"
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
-    folder: "site/content/projects"
+    folder: "site/content/blog"
     path: '{{slug}}/index'
     create: true
     i18n: true
