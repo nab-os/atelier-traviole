@@ -9,12 +9,6 @@ const common = require("./webpack.common.js");
 module.exports = merge(common, {
   mode: "production",
 
-  output: {
-    path: path.resolve(__dirname, "site/static/admin"),
-    filename: "[name].js",
-    chunkFilename: "[id].css"
-  },
-
   optimization: {
     minimizer: [
       new TerserPlugin({

@@ -12,7 +12,7 @@ module.exports = {
   },
 
   output: {
-    path: path.join(__dirname, "site/static/")
+    path: path.join(__dirname, "site/static")
   },
 
   module: {

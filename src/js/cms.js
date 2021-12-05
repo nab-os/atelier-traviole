@@ -21,8 +21,8 @@ CMS.registerEditorComponent({
     label: "Picture",
     widget: "image"
   }, {
-    name: "description",
-    label: "Description_",
+    name: "descriptiona",
+    label: "Descriptiona",
     widget: "text"
   }],
   pattern: /^{{< biography ([a-zA-Z0-9]+) (.+?) (.+?) >}}/,
@@ -30,14 +30,14 @@ CMS.registerEditorComponent({
     return {
       name: match[1],
       picture: match[2],
-      description: match[3],
+      descriptiona: match[3],
     };
   },
   toBlock: function(obj) {
-    return `{{< biography ${obj.name} ${obj.picture} ${obj.description} >}}`;
+    return `{{< biography ${obj.name} ${obj.picture} ${obj.descriptiona} >}}`;
   },
   toPreview: function(obj) {
-    return "<div class=\"biography\"><h3>" + obj.name + "</h3><img src=\"" + obj.picture + "\"/><p>" + obj.description + "</p></div>";
+    return "<div class=\"biography\"><h3>" + obj.name + "</h3><img src=\"" + obj.picture + "\"/><p>" + obj.descriptiona + "</p></div>";
   },
 });
 CMS.init();

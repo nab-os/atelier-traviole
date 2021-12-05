@@ -5,11 +5,11 @@ export default class Biography extends React.Component {
     const {biography, getAsset} = this.props;
     const name = biography.get("name");
     const picture = biography.get("picture");
-    const description = biography.get("description");
+    const description = biography.get("descriptiona");
     return <div class="biography">
       <h3 class="biography__name">{name}</h3>
       { picture && <img class="biography__picture" src={ getAsset(picture) } /> }
-      <div class="biography__description">{ description }</div>
+      <div class="biography__descriptiona">{ description }</div>
     </div>;
   }
 }

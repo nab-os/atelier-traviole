@@ -48,8 +48,8 @@ collections:
           - {label: "Links", name: "links", widget: "list", required: false, summary: "{{fields.label}}", i18n: true, fields: [
               {label: "Label", name: "label", widget: "string"},
               {label: "Link", name: "link", widget: "string"}]}
-  - name: "projects"
-    label: "Project"
+  - name: "blog"
+    label: "Blog post"
     slug: "{{year}}-{{month}}-{{day}}_{{fields.slug}}"
     folder: "site/content/projects"
     path: '{{slug}}/index'
