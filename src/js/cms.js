@@ -22,8 +22,8 @@ CMS.registerEditorComponent({
     widget: "image"
   }, {
     name: "description",
-    label: "Description",
-    widget: "markdown"
+    label: "Description_",
+    widget: "text"
   }],
   pattern: /^{{< biography ([a-zA-Z0-9]+) (.+?) (.+?) >}}/,
   fromBlock: function(match) {

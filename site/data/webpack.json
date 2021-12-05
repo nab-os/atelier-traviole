@@ -1,14 +1,14 @@
 {
   "cms": {
-    "js": "cms.261e4.js"
+    "js": "cms.js"
   },
   "main": {
-    "css": "main.261e4.css",
-    "js": "main.261e4.js"
+    "css": "main.css",
+    "js": "main.js"
   },
   "": {
     "html": "admin/index.html",
-    "txt": "cms.261e4.js.LICENSE.txt",
+    "txt": "cms.js.LICENSE.txt",
     "keep": "fonts/.keep"
   }
 }
