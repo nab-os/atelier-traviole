@@ -5,6 +5,7 @@ import CMS from "netlify-cms-app";
 import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/main.css";
 
 import PostPreview from "./templates/post";
+import BiographyPreview from "./templates/components/biography";
 
 CMS.registerPreviewStyle(styles, {raw: true});
 CMS.registerPreviewTemplate("project", PostPreview);
@@ -37,7 +38,7 @@ CMS.registerEditorComponent({
     return `{{< biography ${obj.name} ${obj.picture} ${obj.description} >}}`;
   },
   toPreview: function(obj) {
-    return "<div class=\"biography\"><h3>" + obj.name + "</h3><img src=\"" + obj.picture + "\"/><p>" + obj.description + "</p></div>";
+    return new BiographyPreview(ojb);
   },
 });
 CMS.init();

@@ -7,9 +7,7 @@ export default class PostPreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset} = this.props;
 
-    return <div class="container">
-
-      <div class="post post--detail">
+    return <div class="post post--detail">
         <section>
           <header>
             <span>{<time>{format(entry.getIn(["data", "date"]), "MMM D, YYYY")}</time>}</span>
