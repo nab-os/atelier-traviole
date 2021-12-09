@@ -8,4 +8,6 @@ links:
     link: https://ateliertraviole.fr/blog/
   - label: "Article 🔸 SEPT 2021: The Souvenirs' shop"
     link: https://ateliertraviole.fr/blog/
+  - label: My Instagram page ⭐ Atelier.Traviole (FR)
+    link: https://www.instagram.com/atelier.traviole/
 ---

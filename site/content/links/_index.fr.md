@@ -9,4 +9,6 @@ links:
     link: https://ateliertraviole.fr/blog/
   - label: "Article 🔸 AOUT 2021 : Lucie et les Lucioles"
     link: https://ateliertraviole.fr/blog/
+  - label: Ma page Instagram ⭐ Atelier.Traviole (FR)
+    link: https://www.instagram.com/atelier.traviole/
 ---
