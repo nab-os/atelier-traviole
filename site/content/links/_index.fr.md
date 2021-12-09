@@ -11,4 +11,6 @@ links:
     link: https://ateliertraviole.fr/blog/
   - label: Ma page Instagram ⭐ Atelier.Traviole (FR)
     link: https://www.instagram.com/atelier.traviole/
+  - label: Mon profil Behance ⭐ Léna Desmettre (EN)
+    link: https://www.behance.net/ateliertraviole
 ---
