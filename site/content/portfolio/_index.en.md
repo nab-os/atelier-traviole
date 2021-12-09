@@ -118,22 +118,17 @@ lines:
           link: https://www.instagram.com/atelier.traviole/
         - link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
           label: The Souvenirs Shop ⭐ on Behance (EN)
-    - title: The Fear
-      subtitle: Lucie et les Lucioles
+    - title: The Monster
+      subtitle: Inspiration & Random Words
       aspect: a4
-      image: page-16.png
-      imageAlt: Night time page from Lucie et les Lucioles
-      description: Page from my illustration exercise based on the picture book "Lucie
-        and the Fireflies" by Arnaud Moine and Mayalen Goust, published by
-        Chocolat ! Jeunesse (2009). I loved playing with a darker color palette
-        as the night settles in, all while being still saturated and bold.
-      links:
-        - label: Mayalen Goust's Instagram (Illustrator)
-          link: https://www.instagram.com/mayalengoust/
-        - label: Arnaud Moine's Instagram (Author)
-          link: https://www.instagram.com/arnaudmoine/
-        - link: https://www.chocolat-jeunesse.com/
-          label: Chocolat ! Jeunesse Publishing house
+      image: creative-monstre-final.png
+      imageAlt: Vertical Illustration of a Monster and a child
+      description: "Illustration based on a prompt draw: Monster and Creativity. When
+        I drew these words, my first intuition was the monster in a child's
+        bedroom closet. But I also thought of role-playing games (especially
+        D&D). The more time passes, the more I imagine my future life in a
+        fantasy world!"
+      links: []
     - title: The Prairie Apprentice
       subtitle: The Magical Beetles Factory
       description: "Illustration showing the magical beetles from the Beetle Factory.

@@ -117,22 +117,17 @@ lines:
           link: https://www.instagram.com/atelier.traviole/
         - link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
           label: The Souvenirs Shop ⭐ sur Behance (EN)
-    - title: La Peur
-      subtitle: Lucie et les Lucioles
+    - title: Le Monstre
+      subtitle: Inspiration & Mots Aléatoires
       aspect: a4
-      image: page-16.png
-      imageAlt: Page la nuit Lucie et les Lucioles
-      description: Page pour mon exercice de ré-illustration de l'album jeunesse
-        "Lucie et les Lucioles" par Arnaud Moine et Mayalen Goust aux éditions
-        Chocolat ! Jeunesse (2009). J'ai adoré jouer avec la palette plus sombre
-        de la nuit qui tombe, tout en restant saturée et tranchée.
-      links:
-        - label: Instagram de Mayalen Goust (Illustratrice)
-          link: https://www.instagram.com/mayalengoust/
-        - label: Instagram d'Arnaud Moine (Auteur)
-          link: https://www.instagram.com/arnaudmoine/
-        - label: Les Éditions Chocolat ! Jeunesse
-          link: https://www.chocolat-jeunesse.com/
+      image: creative-monstre-final.png
+      imageAlt: Illustration verticale d'un monstre et d'un enfant
+      description: "Illustration basée sur un tirage au sort de thème : Monstre et
+        Créativité. Lorsque j'ai tiré ces mots, ma première intuition a été le
+        monstre du placard d'une chambre d'enfant.. Mais j'ai aussi pensé aux
+        jeux de rôle. Plus le temps passe et plus j'imagine ma vie future dans
+        un monde fantastique !"
+      links: []
     - title: L'Apprentie de la Prairie
       subtitle: La Fabrique à Scarabées Magiques
       description: "Illustration mettant en situation les scarabées magiques de la
