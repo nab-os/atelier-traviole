@@ -7,4 +7,6 @@ links:
     link: https://ateliertraviole.fr/blog/
   - label: "Article 🔸 SEPT 2021 : Le Magasin des Souvenirs"
     link: https://ateliertraviole.fr/blog/
+  - label: "Article 🔸 AOUT 2021 : Lucie et les Lucioles"
+    link: https://ateliertraviole.fr/blog/
 ---
