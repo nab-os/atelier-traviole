@@ -10,6 +10,6 @@ image: projet3.png
 imageAlt: test
 description: test
 ---
-{{<biography auieauieauie undefined aueauie>}}
+{{<biography auieauie undefined aueauie>}}
 
 > **Allo ? test *markdown*** auie
