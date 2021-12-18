@@ -10,6 +10,19 @@ image: projet3.png
 imageAlt: test
 description: test
 ---
-{{<biography auieauie undefined aueauie>}}
+{{< biography auieauie undefined aueauie >}}
 
-> **Allo ? test *markdown*** auie
+{{<paragraphe>}}
+  jdmflqskdfjmjl:
+
+  {{<biography image="auieauie.png" name="undefined">}}
+    Description trop top cette personne !
+  {{</biography>}}
+
+  {{<separator/>}}
+
+  sdfgqsdf
+{{</paragraphe>}}
+**Allo ?**
+> citation
+> **Allo ? test markdown** auie
