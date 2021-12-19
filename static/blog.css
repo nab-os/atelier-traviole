@@ -138,8 +138,11 @@ main > ul {
 @media (min-width: 800px) {
   .post {
     flex-direction: row;
-    block-size: 250px;
     padding: 20px;
+  }
+
+  .post:not(.post--detail) {
+    block-size: 250px;
   }
 
   .post > img {
@@ -203,6 +206,69 @@ main > ul {
   align-items: end;
 }
 
+
+
 .post--detail > article {
   margin: 20px;
+}
+
+.post > article > .row {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.post .row > .column {
+  text-align: justify;
+  grid-column: span 9;
+}
+
+.post .row > .column > figure {
+  margin: 0;
+  margin-inline: 80px;
+}
+
+.post .row > .column > figure > img {
+  max-inline-size: 100%;
+}
+
+.post .row > .column > figure h4 {
+  font-weight: normal;
+  font-style: italic;
+  color: grey;
+  text-align: justify;
+  margin-block-start: 5px;
+  margin-inline: 10px;
+}
+
+@media (min-width: 800px) {
+  .post .row > .column > figure {
+    margin-inline-start: 40px;
+    margin-inline-end: 0;
+  }
+
+  .post .row > .column--largest {
+    grid-column: span 7;
+  }
+
+  .post .row > .column--larger {
+    grid-column: span 6;
+  }
+
+  .post .row > .column--large {
+    grid-column: span 5;
+  }
+
+  .post .row > .column--small {
+    grid-column: span 4;
+  }
+
+  .post .row > .column--smaller {
+    grid-column: span 3;
+  }
+
+  .post .row > .column--smallest {
+    grid-column: span 2;
+  }
 }
