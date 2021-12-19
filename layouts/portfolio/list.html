@@ -3,40 +3,41 @@
 
 {{ define "main" }}
 <ul class="wall">
-  {{ range .Params.lines }}
-  {{ range . }}
-  <li class="{{ .aspect }}" tabindex=0>
-    <img src="{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
-    <article>
-      <div>
-        <button type="button"></button>
-        <img src="{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
-        <section>
-          <h1>{{ .title }}</h1>
-          <h3>{{ .subtitle }}</h3>
-          <p>{{ .description }}</p>
-          {{ if .project }}
-          <!--Not satisfied by this code-->
-          {{ $project := first 1 (where (where $.Site.RegularPages "Type" "in" "projects") ".Params.slug" .project)}}
-          {{ range $project }}
-            <a href="{{ .RelPermalink }}">{{ i18n "portfolio_project" }}</a>
-          {{ end }}
-          {{ end }}
-          <div class="spacer"></div>
-          <div class="links">
-            <h4>En lien:</h4>
-            <ul>
-            {{ if .links }}
-            {{ range .links }}
-              <li><a href="{{ .link }}">{{ .label }}</a></li>
+  {{ range sort .Pages "RelPermalink" "desc" }}
+  {{ $linePermalink := .RelPermalink }}
+  {{ range .Params.pieces }}
+    <li class="{{ .aspect }}" tabindex=0>
+      <img src="{{ $linePermalink }}{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
+      <article>
+        <div>
+          <button type="button"></button>
+          <img src="{{ $linePermalink }}{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
+          <section>
+            <h1>{{ .title }}</h1>
+            <h3>{{ .subtitle }}</h3>
+            <p>{{ .description }}</p>
+            {{ if .project }}-->
+              <!--Not satisfied by this code-->
+              {{ $project := first 1 (where (where $.Site.RegularPages "Type" "in" "projects") ".Params.slug" .project)}}
+              {{ range $project }}
+                <a href="{{ .RelPermalink }}">{{ i18n "portfolio_project" }}</a>
+              {{ end }}
             {{ end }}
-            {{ end }}
-            </ul>
-          </div>
-        </section>
-      </div>
-    </article>
-  </li>
+            <div class="spacer"></div>
+            <div class="links">
+              <h4>En lien:</h4>
+              <ul>
+              {{ if .links }}
+              {{ range .links }}
+                <li><a href="{{ .link }}">{{ .label }}</a></li>
+              {{ end }}
+              {{ end }}
+              </ul>
+            </div>
+          </section>
+        </div>
+      </article>
+    </li>
   {{ end }}
   {{ end }}
 </ul>
