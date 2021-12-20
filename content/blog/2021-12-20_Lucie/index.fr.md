@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AOUT 2021 : Lucie et les Lucioles"
 subtitle: Exercice de ré-illustration d'un album
 slug: Lucie
