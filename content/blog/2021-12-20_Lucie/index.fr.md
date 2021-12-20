@@ -59,6 +59,7 @@ ___
 
     {{< column size="smaller" >}}
       {{<figure src="page16-17-1200.png" title="Page 16-17 : Peur" >}}
+    {{< /column >}}
 {{< /row >}}
 
 {{< row >}}
