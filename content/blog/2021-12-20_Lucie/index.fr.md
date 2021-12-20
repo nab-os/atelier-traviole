@@ -1,5 +1,5 @@
 ---
-title: AOUT 2021 : Lucie et les Lucioles
+title: "AOUT 2021 : Lucie et les Lucioles"
 subtitle: Exercice de ré-illustration d'un album
 slug: Lucie
 date: 2021-12-20
@@ -49,15 +49,15 @@ ___
 
 {{< row >}}
     {{< column size="smaller" >}}
-      {{< figure src="page12-13-1200.png" title="Page 12-13 : Curiosité">}}
+      {{< figure src="page12-13-1200.png" title="Page 12-13 : Curiosité" >}}
     {{< /column >}}
 
     {{< column size="smaller" >}}
-      {{< figure src="page14-15.png" title="Page 14-15 : Inquiétude">}}
+      {{< figure src="page14-15.png" title="Page 14-15 : Inquiétude" >}}
     {{< /column >}}
 
     {{< column size="smaller" >}}
-      {{<figure src="page16-17-1200.png" title="Page 16-17 : Peur"}}
+      {{<figure src="page16-17-1200.png" title="Page 16-17 : Peur" >}}
 {{< /row >}}
 
 {{< row >}}
@@ -68,7 +68,7 @@ ___
     {{< /column >}}
 
     {{< column size="small" >}}
-      {{< figure src="Color-exploration-14-15.gif" title="Gif de la colorisation de la Page 14-15 de mon exercice sur "Lucie et les Lucioles"" >}}
+      {{< figure src="Color-exploration-14-15.gif" title="Gif de la colorisation de la Page 14-15 de mon exercice sur \"Lucie et les Lucioles\"" >}}
     {{< /column >}}
 {{< /row >}}
 
@@ -76,7 +76,7 @@ ___
 
 {{< row >}}
     {{< column size="small" >}}
-      {{< figure src="couverture-lucie-totale.png" title="Ma couverture fictive de \"Lucie et les Lucioles\""}}
+      {{< figure src="couverture-lucie-totale.png" title="Ma couverture fictive de \"Lucie et les Lucioles\"" >}}
     {{< /column >}}
 
     {{< column size="large">}}
