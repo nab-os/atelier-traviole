@@ -217,6 +217,12 @@ main > ul {
   grid-template-columns: repeat(9, 1fr);
   justify-content: space-between;
   gap: 20px;
+  margin-block: 20px;
+}
+
+.post .row > * {
+  text-align: justify;
+  grid-column: span 9;
 }
 
 .post .row > .column {
@@ -224,9 +230,14 @@ main > ul {
   grid-column: span 9;
 }
 
+.post .row > .column > * {
+  padding-block: 20px;
+}
+
 .post .row > .column > figure {
   margin: 0;
   margin-inline: 80px;
+  padding-block: 0;
 }
 
 .post .row > .column > figure > img {
@@ -246,6 +257,10 @@ main > ul {
   .post .row > .column > figure {
     margin-inline-start: 40px;
     margin-inline-end: 0;
+  }
+
+  .post .row > .column--full-size {
+    grid-column: span 9;
   }
 
   .post .row > .column--largest {
