@@ -13,7 +13,7 @@
     <p>{{ .Params.description }}</p>
     <ul>
       {{ range .Params.tags }}
-        <li>{{ . }}</li>
+        <li style="background-color: {{ .color }};">{{ .text }}</li>
       {{ end }}
     </ul>
   </section>

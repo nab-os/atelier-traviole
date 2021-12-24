@@ -17,7 +17,7 @@
         <a href="{{ .RelPermalink }}">{{ i18n "blog_more" }}</a>
         <ul>
           {{ range .Params.tags }}
-            <li>{{ . }}</li>
+            <li style="background-color: {{ .color }};">{{ .text }}</li>
           {{ end }}
         </ul>
       </section>
