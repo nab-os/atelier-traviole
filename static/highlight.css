@@ -1,0 +1,14 @@
+.highlight {
+  padding: 20px;
+  text-indent: 20px;
+
+  background-color: var(--bg-color);
+}
+
+.highlight--orange {
+  background-color: orange;
+}
+
+.highlight--grey {
+  background-color: grey;
+}

@@ -253,6 +253,14 @@ main > ul {
   margin-inline: 10px;
 }
 
+.post .row > .column a {
+  color: #6BA29D;
+}
+
+.post .row > .column a:visited {
+  color: #35554D;
+}
+
 @media (min-width: 800px) {
   .post .row > .column > figure {
     margin-inline-start: 40px;
@@ -285,5 +293,9 @@ main > ul {
 
   .post .row > .column--smallest {
     grid-column: span 2;
+  }
+
+  .post .row > .column--unit {
+    grid-column: span 1;
   }
 }

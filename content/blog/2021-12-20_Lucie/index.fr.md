@@ -31,7 +31,7 @@ Je me suis alors donner un défi. Un exercice. A la manière d'un #DrawThisInYou
 J'ai donc utilisé le livre "[Lucie et les Lucioles](https://www.chocolat-jeunesse.com/livre_jeunesse_lucie_et_les_lucioles.php)" par Arnaud Moine et Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), dont l'histoire me touchait beaucoup et dont le style graphique était foncièrement différent du mien.
     {{< /md >}}
     {{< highlight >}}
-*Lucie a un objectif : le haut de la montagne voisine. Seulement, pour l'atteindre, elle doit affronter sa peur de la forêt, de la nuit. Ce livre est un condensé de douceur, de poésie, en clair obscur, autour du voyage de Lucie.*
+⭐ *Lucie a un objectif : le haut de la montagne voisine. Seulement, pour l'atteindre, elle doit affronter sa peur de la forêt, de la nuit. Ce livre est un condensé de douceur, de poésie, en clair obscur, autour du voyage de Lucie.*
     {{< /highlight >}}
 
     {{< md >}}
@@ -104,6 +104,33 @@ Suite à ça, j'ai donc commencé ma veille des maisons d'éditions : j'ai fait 
 Trois mois plus tard, j'ai fais le choix d'arrêter mes études, et de me déclarer officiellement en tant qu'artiste-autrice. J'établis doucement les fondations de ma carrière, notamment en investissant mon temps à créer mon site, à construire [mon portfolio](https://ateliertraviole.fr/portfolio/ "Page portfolio sur mon site") mon portfolio et en m'engageant à écrire des articles pour chacun de mes projets préférés, comme celui-ci.
 
 Merci beaucoup d'avoir lu ce petit premier article. Bien que ce n'était pas un énorme projet, et qu'il ne constitue qu'un exercice fictif d'entrainement, j'ai l'impression d'avoir pas mal changé grâce à lui. J'ai enfin pris au serieux mes illustrations, et je me suis rendue compte (il était temps!) que j'ai les capacités pour, un jour, moi aussi me faire publier.
+    {{< /md >}}
+  {{< /column >}}
+{{< /row >}}
+___
+{{< row >}}
+  {{< column size="small" >}}
+    {{< md >}}
+### Des liens pour poursuivre la lecture...
+
+[LIEN VERS MAGASIN DES SOUVENIRS]
+
+Un autre exercice d'illustration, cette fois-ci sur la base d'un manuscrit original... de moi !
+    {{< /md >}}
+  {{< /column >}}
+
+  {{< column size="unit" >}}
+  {{< /column >}}
+
+  {{< column size="small" >}}
+    {{< md >}}
+### Des liens pour explorer...
+
+- [Test](#)
+- [Test](#)
+- [Test](#)
+- [Test](#)
+- [Test](#)
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}

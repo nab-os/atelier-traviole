@@ -152,6 +152,14 @@
   place-items: center;
 }
 
+.wall .links a {
+  color: #6BA29D;
+}
+
+.wall .links a:visited {
+  color: #35554D;
+}
+
 @media (min-width: 900px) {
   .wall > li.active > article {
     inline-size: min(1200px, calc(100% - 160px));
