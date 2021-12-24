@@ -1,6 +1,8 @@
 {{ define "head" }}
 <link rel="stylesheet" href="/blog.css" type="text/css" media="all">
 <link rel="stylesheet" href="/highlight.css" type="text/css" media="all">
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
 {{ end }}
 
 {{ define "main" }}
@@ -21,5 +23,15 @@
   <article>
     {{ .Content }}
   </article>
+  <div id="comment-section"></div>
 </div>
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.glargh.fr",
+  serverName: "matrix.glargh.fr",
+  siteName: "ateliertraviole",
+  commentSectionId: "{{ .Params.slug }}"
+})
+</script>
 {{ end }}
