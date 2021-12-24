@@ -4,14 +4,18 @@
 {{ define "main" }}
 <ul class="wall">
   {{ range sort .Pages "RelPermalink" "desc" }}
-  {{ $linePermalink := .RelPermalink }}
+  {{- $linePermalink := .RelPermalink -}}
+  {{- $imageResized := .Resources.GetMatch "**/1.png" -}}
+  {{- $resources := .Resources -}}
   {{ range .Params.pieces }}
     <li class="{{ .aspect }}" tabindex=0>
-      <img src="{{ $linePermalink }}{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
+      {{- $image := $resources.GetMatch .image -}}
+      {{- $imageResized := $image.Resize "x500" -}}
+      <img src="{{ $imageResized.RelPermalink }}" loading="lazy" alt="{{ .imageAlt }}">
       <article>
         <div>
           <button type="button"></button>
-          <img src="{{ $linePermalink }}{{ .image }}" loading="lazy" alt="{{ .imageAlt }}">
+          <img src="{{ $image.RelPermalink }}" loading="lazy" alt="{{ .imageAlt }}">
           <section>
             <h1>{{ .title }}</h1>
             <h3>{{ .subtitle }}</h3>

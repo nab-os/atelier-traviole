@@ -6,7 +6,8 @@
 <ul>
   {{ range .Pages }}
     <li class="post">
-      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Params.imageAlt }}"/>
+      {{- $image := (.Resources.GetMatch .Params.image).Resize "250x" -}}
+      <img src='{{ $image.RelPermalink }}' alt="{{ .Params.imageAlt }}"/>
       <section>
         <header>
           {{ if .Params.date }}<span>{{ .Params.date | time.Format ":date_medium" }}</span>{{ end }}
