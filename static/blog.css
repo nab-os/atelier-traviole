@@ -196,14 +196,14 @@ main > ul {
 .post--detail > section {
     grid-template-areas:
       "title title title"
-      "desc  desc  tags"
-      "desc  desc  tags";
+      "desc  desc  desc"
+      "tags  tags  tags";
 }
 
 .post--detail > section > ul {
-  flex-direction: column;
-  justify-content: start;
-  align-items: end;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
 }
 
 
@@ -230,14 +230,13 @@ main > ul {
   grid-column: span 9;
 }
 
-.post .row > .column > * {
-  padding-block: 20px;
-}
-
 .post .row > .column > figure {
   margin: 0;
   margin-inline: 80px;
-  padding-block: 0;
+}
+
+.post .row > .column p {
+ text-indent: 20px;
 }
 
 .post .row > .column > figure > img {

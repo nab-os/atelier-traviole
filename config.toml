@@ -25,3 +25,6 @@ defaultContentLanguage = 'fr'
 [taxonomies]
   tag = 'tags'
 
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
