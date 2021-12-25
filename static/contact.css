@@ -31,15 +31,19 @@ main > *:nth-child(1) {
 
 main > section:nth-child(1) > * {
   width: 100%;
-  max-width: 360px;
+  max-width: 400px;
+}
+
+main > section:nth-child(1) > div > h3 {
+  font-weight: normal;
 }
 
 main > section:nth-child(1) > div > p {
   text-align: justify;
+  text-indent: 20px;
 }
 
 main > section:nth-child(2) {
-  margin-top: 30px;
   margin-bottom: 30px;
 }
 
@@ -48,11 +52,19 @@ main > section:nth-child(2) > p {
   border-radius: 103px;
   padding-inline: calc(103px/2);
   padding-block: 20px;
+  margin-block-start: 5px;
 }
 
 main > section:nth-child(2) > h2 {
   color: #6BA29D;
   margin: 0;
+  inline-size: 100%;
+}
+
+@media (min-width: 800px) {
+  main > section:nth-child(2) > h2 {
+    text-align: start;
+  }
 }
 
 main > section:nth-child(2) > a {
