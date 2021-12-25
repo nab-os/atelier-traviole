@@ -1,5 +1,4 @@
 Global:
-  - package theme
   - archetypes
 
 Header:
@@ -7,8 +6,6 @@ Header:
     - keep same page
 
 Footer:
-  - Link to contact
-  - RSS link
 
 Portfolio:
   - "new"
