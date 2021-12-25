@@ -5,11 +5,11 @@ subtitle: Exercice de ré-illustration d'un album
 slug: Lucie
 date: 2021-12-20
 tags:
-  - { text: "Entraînement", color: "#AAAA10" }
-  - { text: "Livre jeunesse", color: "#AA10AA" }
-  - { text: "Challenge", color: "#10AAAA" }
-  - { text: "Créativité", color: "#1010AA" }
-  - { text: "Exercice", color: "#AA1010" }
+  - { text: "Entraînement", color: "#afcbbf" }
+  - { text: "Livre jeunesse", color: "#f2ae8e" }
+  - { text: "Challenge", color: "#dfd7e5" }
+  - { text: "Créativité", color: "#ffdf35" }
+  - { text: "Exercice", color: "#e8ead1" }
 image: page13insta.png
 imageAlt: Illustration Lucie et les Lucioles remasterisée
 description: Cet été, réfléchissant à quitter mes études pour l'art, je me suis donné un défi créatif. Je me suis donc exercée sur l'album jeunesse "Lucie et les Lucioles" par Arnaud Moine et Mayalen Goust (Chocolat ! jeunesse, 2009)...
