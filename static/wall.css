@@ -15,11 +15,25 @@
 .wall > li {
   display: flex;
   flex-direction: column;
-  position: relative;
 
   color: var(--primary-color);
   list-style-type: none;
   overflow: hidden;
+  position: relative;
+}
+
+.wall > li > img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+  object-fit: cover;
+  object-position: center;
+
+  min-inline-size: 100%;
+  min-block-size: 100%;
 }
 
 .wall > li.new::after {
@@ -35,6 +49,7 @@
 
 .wall > li > article {
   transition: all 1s;
+  z-index: 1000;
 }
 
 .wall > li > article > div > img {
@@ -42,20 +57,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
-
-.wall > li > img {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  cursor: pointer;
-  object-fit: cover;
-  object-position: center;
-
-  min-inline-size: 100%;
-  min-block-size: 100%;
+  position: relative;
 }
 
 .wall > li > article {

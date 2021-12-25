@@ -19,7 +19,7 @@
           <section>
             <h1>{{ .title }}</h1>
             <h3>{{ .subtitle }}</h3>
-            <p>{{ .description }}</p>
+            <p>{{ .description | markdownify }}</p>
             {{ if .project }}-->
               <!--Not satisfied by this code-->
               {{ $project := first 1 (where (where $.Site.RegularPages "Type" "in" "projects") ".Params.slug" .project)}}
