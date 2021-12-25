@@ -176,8 +176,8 @@
   .wall > li > article > div > button {
     display: block;
     position: absolute;
-    inline-size: 60px;
-    block-size: 60px;
+    inline-size: 40px;
+    block-size: 40px;
     inset-inline-end: 10px;
     inset-block-start: 10px;
   }
