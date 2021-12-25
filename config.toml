@@ -14,11 +14,11 @@ defaultContentLanguage = 'fr'
 [languages]
   [languages.fr]
     languageName = 'Français'
-    title = 'En Français'
+    title = 'Atelier Traviole'
     weight = 2
   [languages.en]
     languageName = 'English'
-    title = 'In English'
+    title = 'Atelier Traviole'
     weight = 1
 
 
