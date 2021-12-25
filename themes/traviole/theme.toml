@@ -1,0 +1,12 @@
+name = "Traviole"
+license = "All Rights Reserved"
+licenselink = ""
+description = ""
+homepage = "https://ateliertraviole.fr/portfolio"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Nabos"
+  homepage = "https://github.com/nab-os"

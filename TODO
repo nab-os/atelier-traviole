@@ -1,5 +1,6 @@
 Global:
   - package theme
+  - archetypes
 
 Header:
   - language selection:

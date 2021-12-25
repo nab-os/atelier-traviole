@@ -3,6 +3,7 @@ languageCode = 'fr'
 title = 'Atelier Traviole'
 paginate = 6
 staticDir = ['static']
+theme = 'traviole'
 
 copyright = 'All rights reserved.'
 [author]
