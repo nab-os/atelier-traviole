@@ -11,3 +11,7 @@ footer > hr {
   margin: 0px;
   margin-bottom: var(--spacing);
 }
+
+footer > a {
+  color: inherit;
+}
