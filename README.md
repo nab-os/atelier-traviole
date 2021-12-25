@@ -20,6 +20,7 @@ pieces:
     aspect: <[a4, a3_horizontal, square, card]>
     image: <image_path>
     imageAlt: <image_description>
+    new: <[true, false]>
 
     description: <piece_description>
 
