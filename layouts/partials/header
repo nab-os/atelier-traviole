@@ -4,7 +4,9 @@
       <li {{ if eq $.Site.Language .Language.Lang }}class="selected"{{ end }} ><a href="{{ relref . (dict "path" "portfolio/" "lang" .Language.Lang) }}">{{ .Language.LanguageName }}</a></li>
     {{ end }}
   </ul>
-  <img src="/img/logo.png" loading="lazy" alt="Atelier traviole logo"/>
+  <a href="{{ "portfolio/" | relLangURL }}">
+    <img src="/img/logo.png" loading="lazy" alt="Atelier traviole logo"/>
+  </a>
   <nav>
     <ul>
       <li {{ if eq $.RelPermalink ("portfolio/" | relLangURL) }}class="active"{{ end }}><a href='{{ "portfolio/" | relLangURL }}'>{{ i18n "nav_portfolio" }}</a></li>

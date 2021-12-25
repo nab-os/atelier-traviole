@@ -1,5 +1,7 @@
+Global:
+  - package theme
+
 Header:
-  - Logo link to portfolio
   - language selection:
     - keep same page
 
