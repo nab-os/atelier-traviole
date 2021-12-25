@@ -5,6 +5,7 @@ pieces:
     aspect: a4
     image: couverture.png
     imageAlt: Dummy book cover Souvenirs Shop
+    new: false
 
     description: Dummy book cover for the illustration exercise based on an original
       manuscript written with my Instagram followers. I decided to focus this

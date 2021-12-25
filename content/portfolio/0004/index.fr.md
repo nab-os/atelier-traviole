@@ -6,6 +6,7 @@ pieces:
     aspect: square
     image: 1.png
     imageAlt: Illustration le marchand Magasin des Souvenirs
+    new: true
 
     description: Illustration issue d'un exercice d'illustration sur la base d'un
       manuscrit original conçu avec mes abonnés Instagram. Cette page sert de

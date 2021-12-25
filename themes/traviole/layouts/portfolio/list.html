@@ -8,7 +8,7 @@
   {{- $imageResized := .Resources.GetMatch "**/1.png" -}}
   {{- $resources := .Resources -}}
   {{ range .Params.pieces }}
-    <li class="{{ .aspect }}" tabindex=0>
+    <li class="{{ .aspect }} {{ if .new }}new{{ end }}" tabindex=0>
       {{- $image := $resources.GetMatch .image -}}
       {{- $imageResized := $image.Resize "x500" -}}
       <img src="{{ $imageResized.RelPermalink }}" loading="lazy" alt="{{ .imageAlt }}">

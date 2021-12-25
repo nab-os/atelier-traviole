@@ -5,6 +5,7 @@ pieces:
     aspect: a3--horizontal
     image: pages1213.png
     imageAlt: Double spread from the Souvenirs Shop
+    new: false
 
     description: Illustration from an illustration exercise based on an original
       manuscript written with my Instagram followers. This double page spread

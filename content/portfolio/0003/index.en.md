@@ -5,6 +5,7 @@ pieces:
     aspect: a4
     image: voyageuse.png
     imageAlt: Botanical Poster with a giant Monstera
+    new: false
 
     description: The first time ever someone paid me for art ! This is a piece from
       a commissioned trio of whimsical mini-fairies paintings. This piece

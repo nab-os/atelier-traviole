@@ -5,6 +5,7 @@ pieces:
     aspect: a3--horizontal
     image: pages1213.png
     imageAlt: Double page Noces Le Magasin des Souvenirs
+    new: false
 
     description: Illustration issue d'un exercice d'illustration sur la base d'un
       manuscrit original conçu avec mes abonnés Instagram. Cette double page

@@ -5,6 +5,7 @@ pieces:
     aspect: a4
     image: voyageuse.png
     imageAlt: Poster Botanique avec une Monstera géante
+    new: false
 
     description: La toute première fois qu'on m'a payée pour de l'art ! La Voyageuse
       fait partie d'une commande de tryptique de petites fées fantasques.

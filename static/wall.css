@@ -7,19 +7,30 @@
   align-items: stretch;
   grid-gap: var(--spacing);
 
-  margin: 0;
-  margin-top: var(--spacing);
-  margin-bottom: var(--spacing);
-  padding-left: 0;
+  margin-inline: 0;
+  margin-block: var(--spacing);
+  padding-inline-start: 0;
 }
 
 .wall > li {
   display: flex;
   flex-direction: column;
+  position: relative;
 
   color: var(--primary-color);
   list-style-type: none;
   overflow: hidden;
+}
+
+.wall > li.new::after {
+  content: " ";
+  background-image: url("/img/new.png");
+  background-size: contain;
+  position: absolute;
+  inline-size: 50px;
+  block-size: 50px;
+  inset-block-start: 10px;
+  inset-inline-end: 10px;
 }
 
 .wall > li > article {

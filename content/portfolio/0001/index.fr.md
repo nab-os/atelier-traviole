@@ -5,6 +5,7 @@ pieces:
     aspect: a4
     image: couverture.png
     imageAlt: Couverture fictive Magasin des Souvenirs
+    new: false
 
     description: Fausse couverture pour l'exercice d'illustration sur la base d'un
       manuscrit original conçu avec mes abonnés Instagram. J'ai décidé de

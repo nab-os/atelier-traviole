@@ -6,6 +6,7 @@ pieces:
     aspect: square
     image: 1.png
     imageAlt: The merchant illustration souvenirs shop
+    new: true
 
     description: Illustration from an illustration exercise based on an original
       manuscript written with my Instagram followers. This page serves as an
