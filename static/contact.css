@@ -61,4 +61,9 @@ main > section:nth-child(2) > a {
   border-radius: 70px;
   padding-inline: 30px;
   padding-block: 20px;
+  text-decoration: none;
+}
+
+main > section:nth-child(2) > a > span {
+  text-decoration: underline;
 }
