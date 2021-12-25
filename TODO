@@ -5,6 +5,7 @@ Header:
 
 Footer:
   - Link to contact
+  - RSS link
 
 Portfolio:
   - "new"
@@ -13,7 +14,7 @@ Portfolio:
 Blog:
 
 Blog post:
-  - theme
 
 Contact:
   - Underline address only
+  - theme fixes
