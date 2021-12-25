@@ -3,4 +3,5 @@
   <hr/>
   All Images and Content © 2020-2021<br/>
   <a href="{{ "portfolio/" | relLangURL }}">Léna Desmettre</a>. All rights reserved.
+  <a href="{{ relref . (dict "path" "/blog" "outputFormat" "rss") }}">RSS</a>
 </footer>
