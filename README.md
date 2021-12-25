@@ -85,13 +85,48 @@ links:
 
 ## Shortcodes
 
+[List of built-in shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes)
+
 List of custom shortcodes:
 - row
-- column
+- column size=<[full-size, largest, larger, large, small, smaller, smallest, unit]>
 - md
 - highlight
 
-[List of built-in shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes)
+Rows are divided into 9 columns.
+
+The 'size' parameter of the Column shortcode represent how many subdivisions it will take. So make sure that the sum of the Columns is 9.
+
+Available sizes:
+- full-size: 9
+- largest: 7
+- larger: 6
+- large: 5
+- small: 4
+- smaller: 3
+- smallest: 2
+- unit: 1
+
+Also, every text has to be inside a 'md' shortcode to be interpreted as Markdown.
+
+Be careful to align your Markdown text on beginning of the lines, and not indented next to the shortcode tags.
+
+Usage:
+```
+{{< row >}}
+
+  {{< column size=large>}}
+    {{< md >}}
+### Some Markdown
+    {{< /md >}}
+  {{< /column >}}
+
+  {{< column size=small>}}
+    {{< figure src=[…] title=[…] >}}
+  {{< /column >}}
+
+{{< /row >}}
+```
 
 ## Hugo
 
