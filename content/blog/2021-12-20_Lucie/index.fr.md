@@ -1,7 +1,7 @@
 ---
 title: "AOUT 2021 : Lucie et les Lucioles"
 subtitle: Exercice de ré-illustration d'un album
-slug: Lucie
+slug: 2021-12-20_Lucie
 date: 2021-12-20
 tags:
   - { text: "Entraînement", color: "#afcbbf" }
