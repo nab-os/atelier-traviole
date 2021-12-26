@@ -199,15 +199,21 @@ main > ul {
       "title title title"
       "desc  desc  desc"
       "tags  tags  tags";
+    grid-template-rows: auto 1fr auto;
 }
 
 .post--detail > section > ul {
   flex-direction: row;
-  justify-content: end;
+  justify-content: center;
   align-items: center;
+  display: flex;
 }
 
-
+@media (min-width: 800px) {
+  .post--detail > section > ul {
+    justify-content: end;
+  }
+}
 
 .post--detail > article {
   margin: 20px;
