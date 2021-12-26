@@ -62,7 +62,7 @@ main > ul {
 }
 
 .post > section > header > span {
-  display: inline;
+  display: block;
   color: var(--secondary-color);
   text-align: center;
   margin-block: 3px;
@@ -165,6 +165,7 @@ main > ul {
   .post > section > header > span {
     text-align: end;
     float: right;
+    display: inline;
   }
 
   .post > section > header > h1 {
