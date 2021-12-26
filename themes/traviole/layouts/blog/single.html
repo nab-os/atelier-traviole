@@ -31,7 +31,7 @@ initComments({
   defaultHomeserverUrl: "https://matrix.glargh.fr",
   serverName: "matrix.glargh.fr",
   siteName: "ateliertraviole",
-  commentSectionId: "{{ .Params.slug }}"
+  commentSectionId: "{{ replace .Params.slug "_" "-" }}"
 })
 </script>
 {{ end }}
