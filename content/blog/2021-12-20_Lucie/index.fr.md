@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "AOUT 2021 : Lucie et les Lucioles"
 subtitle: Exercice de ré-illustration d'un album
 slug: Lucie
@@ -126,11 +125,9 @@ Un autre exercice d'illustration, cette fois-ci sur la base d'un manuscrit origi
     {{< md >}}
 ### Des liens pour explorer...
 
-- [Test](#)
-- [Test](#)
-- [Test](#)
-- [Test](#)
-- [Test](#)
+- [Instagram de Mayalen Goust](https://www.instagram.com/mayalengoust/) (Illustratrice)
+- [Instagram d'Arnaud Moine](https://www.instagram.com/arnaudmoine/) (Auteur)
+- [Les Éditions Chocolat ! Jeunesse](https://www.chocolat-jeunesse.com/)
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}

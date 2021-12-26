@@ -217,7 +217,7 @@ main > ul {
 }
 
 .post--detail > article {
-  margin: 20px;
+  margin-inline: 20px;
 }
 
 .post > article > .row {
