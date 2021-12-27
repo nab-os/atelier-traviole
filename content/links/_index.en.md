@@ -6,8 +6,8 @@ links:
     link: https://ateliertraviole.fr/blog/
   - label: "Article 🔸 SEPT 2021: The Souvenirs' shop"
     link: https://ateliertraviole.fr/blog/
-  - label: "Article 🔸 SEPT 2021: The Souvenirs' shop"
-    link: https://ateliertraviole.fr/blog/
+  - label: "Article 🔸 AUGUST 2021: Lucie et les Lucioles"
+    link: https://ateliertraviole.fr/blog/2021-12-20_Lucie
   - label: My Instagram page ⭐ Atelier.Traviole (FR)
     link: https://www.instagram.com/atelier.traviole/
   - label: My Behance profile ⭐ Léna Desmettre (EN)
