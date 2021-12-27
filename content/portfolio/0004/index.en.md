@@ -2,7 +2,6 @@
 pieces:
   - title: The Merchant
     subtitle: The Souvenirs Shop
-    project: test
     aspect: square
     image: 1.png
     imageAlt: The merchant illustration souvenirs shop

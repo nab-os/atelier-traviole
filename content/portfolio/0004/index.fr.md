@@ -2,7 +2,6 @@
 pieces:
   - title: Le Marchand
     subtitle: Le magasin des Souvenirs
-    project: test
     aspect: square
     image: 1.png
     imageAlt: Illustration le marchand Magasin des Souvenirs

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "AUGUST 2021 : Lucie et les Lucioles"
 subtitle: Re-illustration of a children's book
 slug: 2021-12-20_Lucie
