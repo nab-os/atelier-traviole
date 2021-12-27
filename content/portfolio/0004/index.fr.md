@@ -11,6 +11,7 @@ pieces:
       manuscrit original conçu avec mes abonnés Instagram. Cette page sert de
       présentation du personnage principal, une sympatique loutre au style un
       poil vintage qui vends des souvenirs.
+    project: https://ateliertraviole.fr/fr/blog/2021-12-25_Souvenirs
 
     links:
       - label: Ma page Instagram @Atelier.Traviole (FR)
@@ -29,7 +30,7 @@ pieces:
       re-illustration de "Lucie et les lucioles" par Arnaud Moine et Mayalen
       Goust (Chocolat ! Jeunesse, 2009). Elle montre la curiosité de Lucie
       lorsqu'elle entre pour la première fois dans la forêt.
-    project: 2021-12-20_Lucie
+    project: https://ateliertraviole.fr/fr/blog/2021-12-20_Lucie
 
     links:
       - label: Instagram de Mayalen Goust (Illustratrice)
