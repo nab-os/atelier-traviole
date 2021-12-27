@@ -100,13 +100,20 @@ J'ai profité de ce moment pour réfléchir à ce que cette petite experience m'
 Après avoir illustré ces quelques pages, je me suis rendu compte que j'aimais particulièrement cette manière de travailler, plutôt que, par exemple, créer des illustrations originales à vendre sur une boutique en ligne, ou illustrer dans le seul but de publier sur [mon feed instagram](https://www.instagram.com/atelier.traviole/ "Léna Desmettre 🍓 Instagram"). Je trouvais que la méthode de travailler sur la base d'un texte imposait juste assez de contraintes pour me permettre d'être créative sans me prendre trop la tête.
 
 Suite à ça, j'ai donc commencé ma veille des maisons d'éditions : j'ai fait un énorme tableur (hyper-top-secret) avec toutes les maisons d'édition que j'apprécie et comment les contacter.
+    {{< /md >}}
+  {{< /column >}}
+{{< /row >}}
 
+{{< row >}}
+  {{< column size="full-size" >}}
+    {{< md >}}
 Trois mois plus tard, j'ai fais le choix d'arrêter mes études, et de me déclarer officiellement en tant qu'artiste-autrice. J'établis doucement les fondations de ma carrière, notamment en investissant mon temps à créer mon site, à construire [mon portfolio](https://ateliertraviole.fr/portfolio/ "Page portfolio sur mon site") et en m'engageant à écrire des articles pour chacun de mes projets préférés, comme celui-ci.
 
 Merci beaucoup d'avoir lu ce petit premier article. Bien que ce n'était pas un énorme projet, et qu'il ne constitue qu'un exercice fictif d'entrainement, j'ai l'impression d'avoir pas mal changé grâce à lui. J'ai enfin pris au serieux mes illustrations, et je me suis rendue compte (il était temps!) que j'ai les capacités pour, un jour, moi aussi me faire publier.
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}
+
 ___
 {{< row >}}
   {{< column size="small" >}}
