@@ -4,11 +4,11 @@ subtitle: Re-illustration of a children's book
 slug: 2021-12-20_Lucie
 date: 2021-12-20
 tags:
-  - { text: "Training", color: "#AAAA10" }
-  - { text: "Kid litterature", color: "#AA10AA" }
-  - { text: "Challenge", color: "#10AAAA" }
-  - { text: "Creativity", color: "#1010AA" }
-  - { text: "Exercise", color: "#AA1010" }
+  - { text: "Entraînement", color: "#afcbbf" }
+  - { text: "Livre jeunesse", color: "#f2ae8e" }
+  - { text: "Challenge", color: "#dfd7e5" }
+  - { text: "Créativité", color: "#ffdf35" }
+  - { text: "Exercice", color: "#e8ead1" }
 image: page13insta.png
 imageAlt: Illustration Lucie et les Lucioles remastered
 description: This summer, thinking about leaving my studies for art, I gave myself a creative challenge. I worked on the children's book "Lucie et les Lucioles" by Arnaud Moine and Mayalen Goust (ed. Chocolat ! jeunesse, 2009)...
