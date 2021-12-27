@@ -11,15 +11,12 @@ copyright = 'All rights reserved.'
   email = 'lena@ateliertraviole.fr'
 
 defaultContentLanguage = 'fr'
-
 [languages]
-  [languages.fr]
-    languageName = 'Français'
-    title = 'Atelier Traviole'
-    weight = 2
   [languages.en]
     languageName = 'English'
-    title = 'Atelier Traviole'
+    weight = 2
+  [languages.fr]
+    languageName = 'Français'
     weight = 1
 
 
@@ -33,4 +30,3 @@ defaultContentLanguage = 'fr'
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
-
