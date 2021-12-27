@@ -23,7 +23,7 @@ pieces:
     new: <[true, false]>
 
     description: <piece_description>
-    project: <project_slug>
+    project: <project_url>
 
     links:
       - label: <link_label>

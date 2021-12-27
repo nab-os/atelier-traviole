@@ -20,12 +20,8 @@
             <h1>{{ .title }}</h1>
             <h3>{{ .subtitle }}</h3>
             <p>{{ .description | markdownify }}</p>
-            {{ if .project }}-->
-              <!--Not satisfied by this code-->
-              {{ $project := first 1 (where (where $.Site.RegularPages "Type" "in" "projects") ".Params.slug" .project)}}
-              {{ range $project }}
-                <a href="{{ .RelPermalink }}">{{ i18n "portfolio_project" }}</a>
-              {{ end }}
+            {{ if .project }}
+                <a href="{{ .project }}">{{ i18n "portfolio_project" }}</a>
             {{ end }}
             <div class="spacer"></div>
             <div class="links">
