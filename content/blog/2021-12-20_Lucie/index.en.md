@@ -42,8 +42,7 @@ For this project, I gave myself 3 constraints. 🖍️
   {{< /column>}}
 
   {{< column size ="small" >}}
-    {{< figure src="LucieOriginal.png" title="Real book cover of Lucie et les Lucioles
-Source: Chocolat ! Jeunesse" >}}
+    {{< figure src="LucieOriginal.png" title="Real book cover of Lucie et les Luciole Source: Chocolat ! Jeunesse" >}}
   {{< /column >}}
 {{< /row >}}
 
