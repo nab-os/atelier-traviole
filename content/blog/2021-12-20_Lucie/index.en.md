@@ -73,9 +73,9 @@ I then chose three successive pages that illustrate Lucy's journey through the f
 {{< row >}}
   {{< column size="large" >}}
     {{< md >}}
-    I had a lot of fun with the shapes in the forest, with the dramatic lighting, and with Lucie's facial expressions. I tried to vary the silhouette of the trees, while linking the illustrations together with details like the bushes or the gradual appearance of the fireflies...
+I had a lot of fun with the shapes in the forest, with the dramatic lighting, and with Lucie's facial expressions. I tried to vary the silhouette of the trees, while linking the illustrations together with details like the bushes or the gradual appearance of the fireflies...
 
-    One point I really enjoyed working on was: **the colours**. I tried to have a rather fluid colouring process that was different from my usual one. ⭐
+One point I really enjoyed working on was: **the colours**. I tried to have a rather fluid colouring process that was different from my usual one. ⭐
     {{< /md >}}
   {{< /column >}}
 
