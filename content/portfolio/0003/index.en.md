@@ -29,6 +29,7 @@ pieces:
       picture book "Lucie and the Fireflies" by Arnaud Moine and Mayalen
       Goust, published by Chocolat ! Jeunesse (2009). I love the stuffed frog
       :)
+    project: 2021-12-20_Lucie
 
     links:
       - label: Mayalen Goust's Instagram (Illustrator)
@@ -48,7 +49,7 @@ pieces:
     description: >-
       Creation of a legendary beetle with an activity sheet. The main goal of
       the activity is to make drawing fun and less scary by letting the artist
-      (no matter their level) create their own magical insects. 
+      (no matter their level) create their own magical insects.
 
       (The activity is in french, but you can still use it and play with the dice !)
 

@@ -29,6 +29,7 @@ pieces:
       Arnaud Moine and Mayalen Goust's picture book "Lucie and the Fireflies"
       (Chocolat ! Jeunesse, 2009). It shows Lucie's eagerness to discover
       nature when she enters the woods for the first time.
+    project: 2021-12-20_Lucie
 
     links:
       - label: Mayalen Goust's Instagram (Illustrator)
