@@ -102,14 +102,20 @@ I took this moment to reflect on what this little experience had taught me.
 After illustrating these few pages, I realized that I particularly liked this way of working, rather than, for example, creating original illustrations to sell on an online shop, or illustrating for the sole purpose of publishing on [my instagram feed](https://www.instagram.com/atelier.traviole/ "Léna Desmettre 🍓 Instagram"). I found that the working from a manuscript imposed just enough constraints to allow me to be creative without getting too hung up on it.
 
 So after that, I started my publishing house research: I made a huge spreadsheet (hyper-top-secret) with all the publishing houses I like and how to contact them.
-
-Three months later, I made the choice to stop my degree, and officially declare myself as an artist-author. I am slowly laying the foundations of my career, including investing my time in creating my website, building  [my portfolio](https://ateliertraviole.fr/portfolio/ "Page portfolio sur mon site") and committing to writing articles for each of my favorite projects, like this one.
-
-Thank you very much for reading this short first article. Although it wasn't a huge project, and it's only a fictional training exercise, I feel like I've changed quite a bit because of it. I've finally taken my illustrations seriously, and I've realized (it's about time!) that I have the skills to get published one day.
-
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}
+
+{{< row >}}
+  {{< column size="full-size" >}}
+    {{< md >}}
+Three months later, I made the choice to stop my degree, and officially declare myself as an artist-author. I am slowly laying the foundations of my career, including investing my time in creating my website, building  [my portfolio](https://ateliertraviole.fr/portfolio/ "Page portfolio sur mon site") and committing to writing articles for each of my favorite projects, like this one.
+
+Thank you very much for reading this short first article. Although it wasn't a huge project, and it's only a fictional training exercise, I feel like I've changed quite a bit because of it. I've finally taken my illustrations seriously, and I've realized (it's about time!) that I have the skills to get published one day.
+    {{< /md >}}
+  {{< /column >}}
+{{< /row >}}
+
 ___
 {{< row >}}
   {{< column size="small" >}}
