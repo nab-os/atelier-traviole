@@ -1,5 +1,5 @@
 ---
-title: "AOUT 2021 : Lucie et les Lucioles"
+title: "SEPT 2021 : Le Magasin des Souvenirs"
 subtitle: Dessiner sur la base d'un manuscrit original
 slug: 2021-12-25_Souvenirs
 date: 2021-12-25
