@@ -17,7 +17,7 @@ description: To continue my previous illustration exercise on "Lucie et les Luci
 {{< row >}}
   {{< column size="full-size" >}}
      {{< md >}}
-If last August I [based myself on a previously published tale to practice my illustration skills](https://ateliertraviole.fr/en/blog/2021-12-20_Lucie), "Lucie et les Lucioles" by Arnaud Moine and Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), cthis time I wanted to illustrate an original manuscript. I didn't think too much about it, I wanted to illustrate a little tale, a short story, without pretending to call myself an author (or not yet, anyway ☺️). My main objective was to illustrate on the basis of a text, certainly, but without being influenced by pre-existing illustrations. I like to think that it takes practice, going step by step, for me to feel comfortable, but above all legitimate, in the art world.
+If last August I [based myself on a previously published tale to practice my illustration skills](https://ateliertraviole.fr/en/blog/2021-12-20_Lucie/), "Lucie et les Lucioles" by Arnaud Moine and Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), cthis time I wanted to illustrate an original manuscript. I didn't think too much about it, I wanted to illustrate a little tale, a short story, without pretending to call myself an author (or not yet, anyway ☺️). My main objective was to illustrate on the basis of a text, certainly, but without being influenced by pre-existing illustrations. I like to think that it takes practice, going step by step, for me to feel comfortable, but above all legitimate, in the art world.
 
 I needed constraints, so I thought it was fun to get my little community involved on [Instagram](https://www.instagram.com/atelier.traviole/ "Léna Desmettre 🍓 Instagram"). I'm not really comfortable with social media yet, so I thought it was a good idea to break the ice!
      {{< /md >}}
@@ -116,7 +116,7 @@ This project has been formative, I would never, on my own, have embarked on a pr
 
 So, if you want to have a look at the manuscript, out of curiosity or because you want to try this little exercise yourself, don't hesitate. I would just ask you to put my name Léna Desmettre and to notify me if you publish anything on the internet. You can also contact me on my mail address (Lena(at)Ateliertraviole.fr) or by PM on Instagram \@atelier.traviole, if you want to share your interpretations with me! ✨
 
-[Access the original manuscript here (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7269104-dfdf-435a-bf17-df1df857cc88/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T124441Z&X-Amz-Expires=86400&X-Amz-Signature=276c2e7e2963c07933b0937d80d4f10237d9349d7d8cd9b6f797617e9f1f31d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject "PDF MAnuscrit Le Magasin des souvenirs")
+[Access the original manuscript here (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7269104-dfdf-435a-bf17-df1df857cc88/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T124441Z&X-Amz-Expires=86400&X-Amz-Signature=276c2e7e2963c07933b0937d80d4f10237d9349d7d8cd9b6f797617e9f1f31d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject/ "PDF MAnuscrit Le Magasin des souvenirs")
 
 Looking back, this little manuscript, and all the illustrations attached to it, have allowed me to move forward a little more as an artist. Now, I know that writing my own manuscripts is a strong, difficult thing, but one that I would like to try one day. However, for now I will continue to focus on illustration, I have plenty of time to try my hand at writing professionally!
 I have a lot of respect and admiration for authors, so if you write and you come through my site: thank you for giving us so much to read! ♥️
@@ -142,7 +142,7 @@ ___
     {{< md >}}
 ### Links to continue reading...
 
-[AUGUST 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/en/blog/2021-12-20_Lucie)
+[AUGUST 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/en/blog/2021-12-20_Lucie/)
 My previous illustration exercise, based on a previously published children's book...
     {{< /md >}}
   {{< /column >}}
@@ -155,7 +155,7 @@ My previous illustration exercise, based on a previously published children's bo
 ### Links to explore...
 
 - [Ma instagram feed where I conducted this experiment](https://www.instagram.com/atelier.traviole/)
-- [The Original Manuscript (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af272fc4-849d-42b9-8d97-f6ca1023eea2/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T132629Z&X-Amz-Expires=86400&X-Amz-Signature=9634b44934b25d72d14bfecb36fc25af228649512ba55ef622912556ebd50def&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject)
+- [The Original Manuscript (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af272fc4-849d-42b9-8d97-f6ca1023eea2/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T132629Z&X-Amz-Expires=86400&X-Amz-Signature=9634b44934b25d72d14bfecb36fc25af228649512ba55ef622912556ebd50def&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject/)
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}

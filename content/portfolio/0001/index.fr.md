@@ -5,19 +5,19 @@ pieces:
     aspect: a4
     image: couverture.png
     imageAlt: Couverture fictive Magasin des Souvenirs
-    new: false
+    new: true
 
     description: Fausse couverture pour l'exercice d'illustration sur la base d'un
       manuscrit original conçu avec mes abonnés Instagram. J'ai décidé de
       centrer cette couverture sur le personnage principal, avec un rappel du
       papier peint de sa maison familial en fond.
-    projects: https://ateliertraviole.fr/fr/blog/2021-12-25_Souvenirs
+    projects: https://ateliertraviole.fr/fr/blog/2021-12-25_Souvenirs/
 
     links:
       - label: Ma page Instagram @Atelier.Traviole
         link: https://www.instagram.com/atelier.traviole/
       - label: The Souvenirs Shop ⭐ sur Behance (EN)
-        link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
+        link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book/
 
 
   - title: Le Monstre

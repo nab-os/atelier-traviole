@@ -5,19 +5,19 @@ pieces:
     aspect: a3--horizontal
     image: pages1213.png
     imageAlt: Double page Noces Le Magasin des Souvenirs
-    new: false
+    new: true
 
     description: Illustration issue d'un exercice d'illustration sur la base d'un
       manuscrit original conçu avec mes abonnés Instagram. Cette double page
       se concentre sur le couple et leur souvenir de mariage. J'ai beaucoup
       aimé créer leur ancienne photo en sépia, je les trouve adorable.
-    projects: https://ateliertraviole.fr/fr/blog/2021-12-25_Souvenirs
+    projects: https://ateliertraviole.fr/fr/blog/2021-12-25_Souvenirs/
 
     links:
       - label: Ma page Instagram @Atelier.Traviole
         link: https://www.instagram.com/atelier.traviole/
       - label: The Souvenirs Shop ⭐ sur Behance (EN)
-        link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
+        link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book/
 
 
   - title: La Botaniste
@@ -35,5 +35,5 @@ pieces:
       - label: Mon post instagram avec une photo du mur décoré
         link: https://www.instagram.com/p/CLQ9xs6jq3z/
       - label: Botanical & Magical Tryptich ☘️ sur Behance (EN)
-        link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
+        link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich/
 ---

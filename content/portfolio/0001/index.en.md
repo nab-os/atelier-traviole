@@ -5,12 +5,13 @@ pieces:
     aspect: a4
     image: couverture.png
     imageAlt: Dummy book cover Souvenirs Shop
-    new: false
+    new: true
 
     description: Dummy book cover for the illustration exercise based on an original
       manuscript written with my Instagram followers. I decided to focus this
       cover art on the main character, with a reminder of the wallpaper of his
       family home in the background.
+    project: https://ateliertraviole.fr/en/blog/2021-12-25_Souvenirs/
 
     links:
       - label: My Instagram page @Atelier.Traviole

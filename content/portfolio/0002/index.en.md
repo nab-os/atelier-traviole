@@ -5,17 +5,18 @@ pieces:
     aspect: a3--horizontal
     image: pages1213.png
     imageAlt: Double spread from the Souvenirs Shop
-    new: false
+    new: true
 
     description: Illustration from an illustration exercise based on an original
       manuscript written with my Instagram followers. This double page spread
       focuses on the couple and their wedding memory. I really enjoyed
       creating their old sepia photo, I find them adorable.
+    project: https://ateliertraviole.fr/en/blog/2021-12-25_Souvenirs/
 
     links:
       - label: My Instagram page @Atelier.Traviole
         link: https://www.instagram.com/atelier.traviole/
-      - link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
+      - link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book/
         label: The Souvenirs Shop ⭐ on Behance (EN)
 
 
@@ -34,5 +35,5 @@ pieces:
       - label: My Instagram Post with a picture of the ornate wall
         link: https://www.instagram.com/p/CLQ9xs6jq3z/
       - label: Botanical & Magical Tryptich ☘️ on Behance (EN)
-        link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich
+        link: https://www.behance.net/gallery/132354517/Botanical-Magical-Tryptich/
 ---

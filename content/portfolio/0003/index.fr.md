@@ -28,7 +28,7 @@ pieces:
     description: Couverture fictive réalisée pour l'exercice de ré-illustration de
       l'album jeunesse "Lucie et les Lucioles" par Arnaud Moine et Mayalen
       Goust aux éditions Chocolat (2009). J'adore la peluche grenouille :)
-    project: https://ateliertraviole.fr/fr/blog/2021-12-20_Lucie
+    project: https://ateliertraviole.fr/fr/blog/2021-12-20_Lucie/
 
     links:
       - label: Instagram de Mayalen Goust (Illustratrice)

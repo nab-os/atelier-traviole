@@ -17,7 +17,7 @@ description: Pour poursuivre mon précédent exercice d'illustration sur Lucie e
 {{< row >}}
   {{< column size="full-size" >}}
      {{< md >}}
- Si en Août dernier je me suis [basée sur un conte déjà publié pour m'exercer à l'illustration](https://ateliertraviole.fr/fr/blog/2021-12-20_Lucie), "Lucie et les Lucioles" par Arnaud Moine et Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), cette fois-ci j'ai voulu illustrer un manuscrit original. Je ne me suis pas trop prise la tête, je voulais illustrer un petit conte, une nouvelle, sans avoir la prétention de me dire autrice pour autant (ou pas encore, en tout cas ☺️). Mon objectif principal était d'illustrer sur la base d'un texte, certes, mais sans me faire influencer par des illustrations pré-existentes. J'aime à croire qu'il faut s'entrainer, y aller pas-à-pas, pour que je me sentes à l'aise, certes, mais surtout légitime, dans le monde de l'art.
+ Si en Août dernier je me suis [basée sur un conte déjà publié pour m'exercer à l'illustration](https://ateliertraviole.fr/fr/blog/2021-12-20_Lucie/), "Lucie et les Lucioles" par Arnaud Moine et Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), cette fois-ci j'ai voulu illustrer un manuscrit original. Je ne me suis pas trop prise la tête, je voulais illustrer un petit conte, une nouvelle, sans avoir la prétention de me dire autrice pour autant (ou pas encore, en tout cas ☺️). Mon objectif principal était d'illustrer sur la base d'un texte, certes, mais sans me faire influencer par des illustrations pré-existentes. J'aime à croire qu'il faut s'entrainer, y aller pas-à-pas, pour que je me sentes à l'aise, certes, mais surtout légitime, dans le monde de l'art.
 
 J'avais besoin de contraintes, alors j'ai trouvé ça marrant de faire participer ma petite communauté sur [Instagram](https://www.instagram.com/atelier.traviole/ "Léna Desmettre 🍓 Instagram"). Je ne suis pas encore hyper à l'aise avec les réseaux sociaux, donc je me suis dit que c'était une bonne idée pour briser la glace !
      {{< /md >}}
@@ -116,7 +116,7 @@ Ce projet a été formateur, jamais, seule, je ne me serais lancée dans un proj
 
 Du coup, si vous voulez jeter un coup d'oeil au manuscrit, par curiosité ou par envie de vous lancer vous aussi dans ce petit exercice, n'hésitez surtout pas. Je vous demanderais juste de mettre mon nom Léna Desmettre et de me notifer si vous publier quoi que ce soit sur internet. Vous pouvez aussi me joindre sur mon adresse mail (Lena(at)Ateliertraviole.fr) ou par MP sur Instagram \@atelier.traviole, si vous voulez partager avec moi vos interprétations ! ✨
 
-[Accédez au manuscrit original ici (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7269104-dfdf-435a-bf17-df1df857cc88/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T124441Z&X-Amz-Expires=86400&X-Amz-Signature=276c2e7e2963c07933b0937d80d4f10237d9349d7d8cd9b6f797617e9f1f31d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject "PDF MAnuscrit Le Magasin des souvenirs")
+[Accédez au manuscrit original ici (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7269104-dfdf-435a-bf17-df1df857cc88/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T124441Z&X-Amz-Expires=86400&X-Amz-Signature=276c2e7e2963c07933b0937d80d4f10237d9349d7d8cd9b6f797617e9f1f31d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject/ "PDF MAnuscrit Le Magasin des souvenirs")
 
 Avec du recul, ce petit manuscrit, et toutes les illustrations qui y sont attachées, m'ont permis d'avancer un peu plus en tant qu'artiste. A présent, je sais qu'écrire mes propres manuscrits, c'est quelque chose de fort, de difficile, mais que j'aimerais essayer un jour. Cependant, pour le moment je vais continuer à me concentrer sur l'illustration, j'ai tout mon temps pour m'essayer professionnellement à l'écriture !
 J'ai beaucoup de respect et d'admiration pour les auteurs et autrices, alors si vous écrivez et que vous passez par mon site : merci de nous offrir tant à lire ! ♥️
@@ -142,7 +142,7 @@ ___
     {{< md >}}
 ### Des liens pour poursuivre la lecture...
 
-[AOUT 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/fr/blog/2021-12-20_Lucie)
+[AOUT 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/fr/blog/2021-12-20_Lucie/)
 Mon précédent exercice d'illustration, sur la base d'un album jeunesse déjà publié...
     {{< /md >}}
   {{< /column >}}
@@ -155,7 +155,7 @@ Mon précédent exercice d'illustration, sur la base d'un album jeunesse déjà 
 ### Des liens pour explorer...
 
 - [Ma page instagram où j'ai mené cette experience](https://www.instagram.com/atelier.traviole/)
-- [Manuscrit original (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af272fc4-849d-42b9-8d97-f6ca1023eea2/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T132629Z&X-Amz-Expires=86400&X-Amz-Signature=9634b44934b25d72d14bfecb36fc25af228649512ba55ef622912556ebd50def&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject)
+- [Manuscrit original (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af272fc4-849d-42b9-8d97-f6ca1023eea2/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T132629Z&X-Amz-Expires=86400&X-Amz-Signature=9634b44934b25d72d14bfecb36fc25af228649512ba55ef622912556ebd50def&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject/)
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}
