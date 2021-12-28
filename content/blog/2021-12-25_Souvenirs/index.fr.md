@@ -142,8 +142,7 @@ ___
     {{< md >}}
 ### Des liens pour poursuivre la lecture...
 
-[AOUT 2021 : Lucie et les Lucioles](ateliertraviole.fr/fr/blog/2021-12-20_Lucie)
-
+[AOUT 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/fr/blog/2021-12-20_Lucie)
 Mon précédent exercice d'illustration, sur la base d'un album jeunesse déjà publié...
     {{< /md >}}
   {{< /column >}}

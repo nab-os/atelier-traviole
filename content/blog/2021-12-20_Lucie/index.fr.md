@@ -120,8 +120,7 @@ ___
     {{< md >}}
 ### Des liens pour poursuivre la lecture...
 
-[LIEN VERS MAGASIN DES SOUVENIRS]
-
+[SEPT 2021 : Le Magasin des Souvenirs](https://ateliertraviole.fr/fr/blog/2021-12-25_Souvenirs)
 Un autre exercice d'illustration, cette fois-ci sur la base d'un manuscrit original... de moi !
     {{< /md >}}
   {{< /column >}}
