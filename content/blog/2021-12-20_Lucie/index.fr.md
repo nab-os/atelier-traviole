@@ -29,11 +29,6 @@ Je me suis alors donner un défi. Un exercice. A la manière d'un #DrawThisInYou
 
 J'ai donc utilisé le livre "[Lucie et les Lucioles](https://www.chocolat-jeunesse.com/livre_jeunesse_lucie_et_les_lucioles.php/)" par Arnaud Moine et Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), dont l'histoire me touchait beaucoup et dont le style graphique était foncièrement différent du mien.
     {{< /md >}}
-
-  {{< column size="unit" >}}
-  {{< /column >}}
-
-  {{< column size="small" >}}
     {{< highlight >}}
 ⭐ *Lucie a un objectif : le haut de la montagne voisine. Seulement, pour l'atteindre, elle doit affronter sa peur de la forêt, de la nuit. Ce livre est un condensé de douceur, de poésie, en clair obscur, autour du voyage de Lucie.*
     {{< /highlight >}}

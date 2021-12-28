@@ -11,7 +11,7 @@ pieces:
       manuscript written with my Instagram followers. This page serves as an
       introduction to the main character, a nice otter with a vintage style
       who sells souvenirs.
-    project: https://ateliertraviole.fr/en/blog/2021-12-25_souvenirs/
+    project: https://ateliertraviole.fr/blog/2021-12-25_souvenirs/
 
 
     links:

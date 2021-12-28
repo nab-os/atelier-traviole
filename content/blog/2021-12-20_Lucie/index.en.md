@@ -120,7 +120,7 @@ ___
     {{< md >}}
 ### Links to continue reading...
 
-[SEPT 2021: The Souvenirs Shop](https://ateliertraviole.fr/en/blog/2021-12-25_Souvenirs/)
+[SEPT 2021: The Souvenirs Shop](https://ateliertraviole.fr/blog/2021-12-25_Souvenirs/)
 
 Another illustration exercise, this time based on an original manuscript... by me!
     {{< /md >}}
