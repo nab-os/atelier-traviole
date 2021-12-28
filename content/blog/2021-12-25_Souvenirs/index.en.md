@@ -17,7 +17,7 @@ description: To continue my previous illustration exercise on "Lucie et les Luci
 {{< row >}}
   {{< column size="full-size" >}}
      {{< md >}}
-If last August I [based myself on a previously published tale to practice my illustration skills](https://ateliertraviole.fr/en/blog/2021-12-20_Lucie/), "Lucie et les Lucioles" by Arnaud Moine and Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), cthis time I wanted to illustrate an original manuscript. I didn't think too much about it, I wanted to illustrate a little tale, a short story, without pretending to call myself an author (or not yet, anyway ☺️). My main objective was to illustrate on the basis of a text, certainly, but without being influenced by pre-existing illustrations. I like to think that it takes practice, going step by step, for me to feel comfortable, but above all legitimate, in the art world.
+If last August I [based myself on a previously published tale to practice my illustration skills](https://ateliertraviole.fr/en/blog/2021-12-20_lucie/), "Lucie et les Lucioles" by Arnaud Moine and Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), cthis time I wanted to illustrate an original manuscript. I didn't think too much about it, I wanted to illustrate a little tale, a short story, without pretending to call myself an author (or not yet, anyway ☺️). My main objective was to illustrate on the basis of a text, certainly, but without being influenced by pre-existing illustrations. I like to think that it takes practice, going step by step, for me to feel comfortable, but above all legitimate, in the art world.
 
 I needed constraints, so I thought it was fun to get my little community involved on [Instagram](https://www.instagram.com/atelier.traviole/ "Léna Desmettre 🍓 Instagram"). I'm not really comfortable with social media yet, so I thought it was a good idea to break the ice!
      {{< /md >}}
@@ -142,10 +142,10 @@ ___
     {{< md >}}
 ### Links to continue reading...
 
-[AUGUST 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/en/blog/2021-12-20_Lucie/)
+[AUGUST 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/en/blog/2021-12-20_lucie/)
 My previous illustration exercise, based on a previously published children's book...
     {{< /md >}}
-  {{< /column >}}
+  {{< /column >}}u
 
   {{< column size="unit" >}}
   {{< /column >}}

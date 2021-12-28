@@ -11,7 +11,7 @@ pieces:
       manuscript written with my Instagram followers. This page serves as an
       introduction to the main character, a nice otter with a vintage style
       who sells souvenirs.
-    project: https://ateliertraviole.fr/en/blog/2021-12-25_Souvenirs/
+    project: https://ateliertraviole.fr/en/blog/2021-12-25_souvenirs/
 
 
     links:
@@ -31,7 +31,7 @@ pieces:
       Arnaud Moine and Mayalen Goust's picture book "Lucie and the Fireflies"
       (Chocolat ! Jeunesse, 2009). It shows Lucie's eagerness to discover
       nature when she enters the woods for the first time.
-    project: https://ateliertraviole.fr/blog/2021-12-20_Lucie/
+    project: https://ateliertraviole.fr/blog/2021-12-20_lucie/
 
     links:
       - label: Mayalen Goust's Instagram (Illustrator)

@@ -27,8 +27,13 @@ En Août 2021, j'étais en vacances, entre ma L2 et L3 en Sciences de l'éducati
     {{< md >}}
 Je me suis alors donner un défi. Un exercice. A la manière d'un #DrawThisInYourStyle : _ré-illustrer certaines pages d'un ouvrage_ en concervant le formatage du texte.
 
-J'ai donc utilisé le livre "[Lucie et les Lucioles](https://www.chocolat-jeunesse.com/livre_jeunesse_lucie_et_les_lucioles.php)" par Arnaud Moine et Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), dont l'histoire me touchait beaucoup et dont le style graphique était foncièrement différent du mien.
+J'ai donc utilisé le livre "[Lucie et les Lucioles](https://www.chocolat-jeunesse.com/livre_jeunesse_lucie_et_les_lucioles.php/)" par Arnaud Moine et Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), dont l'histoire me touchait beaucoup et dont le style graphique était foncièrement différent du mien.
     {{< /md >}}
+
+  {{< column size="unit" >}}
+  {{< /column >}}
+
+  {{< column size="small"
     {{< highlight >}}
 ⭐ *Lucie a un objectif : le haut de la montagne voisine. Seulement, pour l'atteindre, elle doit affronter sa peur de la forêt, de la nuit. Ce livre est un condensé de douceur, de poésie, en clair obscur, autour du voyage de Lucie.*
     {{< /highlight >}}
@@ -120,7 +125,7 @@ ___
     {{< md >}}
 ### Des liens pour poursuivre la lecture...
 
-[SEPT 2021 : Le Magasin des Souvenirs](https://ateliertraviole.fr/fr/blog/2021-12-25_Souvenirs/)
+[SEPT 2021 : Le Magasin des Souvenirs](https://ateliertraviole.fr/fr/blog/2021-12-25_souvenirs/)
 Un autre exercice d'illustration, cette fois-ci sur la base d'un manuscrit original... de moi !
     {{< /md >}}
   {{< /column >}}

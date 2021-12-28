@@ -17,7 +17,7 @@ pieces:
       - label: My Instagram page @Atelier.Traviole
         link: https://www.instagram.com/atelier.traviole/
       - label: The Souvenirs Shop ⭐ on Behance (EN)
-        link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book
+        link: https://www.behance.net/gallery/132281449/The-Souvenirs-Shop-A-dummy-picture-book/
 
 
   - title: The Monster
