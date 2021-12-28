@@ -33,7 +33,7 @@ J'ai donc utilisé le livre "[Lucie et les Lucioles](https://www.chocolat-jeunes
   {{< column size="unit" >}}
   {{< /column >}}
 
-  {{< column size="small"
+  {{< column size="small" >}}
     {{< highlight >}}
 ⭐ *Lucie a un objectif : le haut de la montagne voisine. Seulement, pour l'atteindre, elle doit affronter sa peur de la forêt, de la nuit. Ce livre est un condensé de douceur, de poésie, en clair obscur, autour du voyage de Lucie.*
     {{< /highlight >}}
