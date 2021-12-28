@@ -29,7 +29,7 @@ pieces:
       picture book "Lucie and the Fireflies" by Arnaud Moine and Mayalen
       Goust, published by Chocolat ! Jeunesse (2009). I love the stuffed frog
       :)
-    project: 2021-12-20_Lucie
+    project: https://ateliertraviole.fr/blog/2021-12-20_Lucie
 
     links:
       - label: Mayalen Goust's Instagram (Illustrator)
