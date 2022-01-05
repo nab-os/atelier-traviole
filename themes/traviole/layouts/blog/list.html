@@ -6,7 +6,7 @@
 <ul>
   {{ range .Pages }}
     <li class="post">
-      {{- $image := (.Resources.GetMatch .Params.image).Resize "250x" -}}
+      {{- $image := .Resources.GetMatch .Params.image -}}
       <img src='{{ $image.RelPermalink }}' alt="{{ .Params.imageAlt }}"/>
       <section>
         <header>
