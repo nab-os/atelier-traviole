@@ -1,17 +1,16 @@
 ---
-title: "SEPT 2021 : Le Magasin des Souvenirs"
-subtitle: Dessiner sur la base d'un manuscrit original
-slug: 2021-12-25_Souvenirs
-date: 2021-12-25
+title: "Le Désordre contre l'Artblock"
+subtitle: Témoignage d'une bloquée chronique
+slug: 2022-01-05_Artblock
+date: 2022-01-05
 tags:
-  - { text: "Entraînement", color: "#afcbbf" }
-  - { text: "Livre jeunesse", color: "#f2ae8e" }
-  - { text: "Original", color: "#f17637" }
+  - { text: "How to", color: "#9fb643" }
   - { text: "Créativité", color: "#ffdf35" }
   - { text: "Exercice", color: "#e8ead1" }
-image: the-Merchant-Carre.png
-imageAlt: Illustration The merchant Souvenirs
-description: Pour poursuivre mon précédent exercice d'illustration sur Lucie et les Lucioles, j'ai pris l'initiative d'illustrer un petit manuscrit, fictif cette fois. Avec l'aide de mes abonnés, j'ai créé une nouvelle..
+  - { text: "Commentaire", color:"#767dc8"}
+image: artblock-picture-intro.png
+imageAlt: Photo du bureau et des outils créatifs
+description: "Tous les artistes le connaissent et le redoutent : l'Art Block. Le manque d'inspiration. L'insatisfaction. Le stress et l'angoisse. Moi aussi ! Alors, je vous partage 10 de mes pistes pour traverser cette (terrible mais nécessaire) étape."
 ---
 
 {{< row >}}
