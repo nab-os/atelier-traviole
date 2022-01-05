@@ -71,20 +71,19 @@ ___
 Première chose à faire : prendre de la distance et arrêter de cogiter sur le "grand méchant Art Block" pour reposer sa créativité. ⭐
 
 Il n'y a pas pire que rester fixé.e sur la négativité de la situation, c'est un coup à s'enfoncer encore plus dans le blocage. Parfois, poser les crayons, ça peut être bénéfique pour mieux comprendre pourquoi on arrive pas à les utiliser.
+
+1. Ne pas forcer. ***Arrêter d'essayer***. Sortir. Se balader. Se laisser surprendre. Prendre un bol d'air frais. Changer la déco de son espace, changer d'environnement.
+
+2. Remplir sa ***bibliothèque d’inspiration***, passivement, dans d’autres domaines. Faire plein de chose, mais ne pas faire d’art, uniquement le consommer. Jouer. Écouter de la musique. Se laisser entraîner et danser. Aller voir un film.
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}
-
 {{< row >}}
   {{< column size="full size" >}}
     {{< md >}}
-1. Ne pas forcer. Arrêter. Sortir. Se balader. Se laisser surprendre. Prendre un bol d'air frais. Changer la déco de son espace, changer d'environnement.
+3. ***Prendre du recul***, réfléchir à sa situation. Décrire ce qu'est un Art Block à ses yeux. Le comparer à ses précédents blocages, revoir les productions avant et après ceux-ci. Faire un bilan de ce qu'on veut atteindre et d'où on est.
 
-2. Remplir sa bibliothèque d'inspiration, passivement, dans d'autres domaines. Faire plein de chose, mais ne pas faire d'art, uniquement le consommer. Jouer. Écouter de la musique. Se laisser entraîner et danser. Aller voir un film.
-
-3. Prendre du recul, réfléchir à sa situation. Décrire ce qu'est un Art Block à ses yeux. Le comparer à ses précédents blocages, revoir les productions avant et après ceux-ci. Faire un bilan de ce qu'on veut atteindre et d'où on est.
-
-4. En parler à d'autres créatifs. Admettre sa vulnérabilité et mettre en commun les techniques pour le surpasser pour se rendre compte que tous les créatifs, même ceux que l'on admire, peuvent être bloqués.
+4. ***En parler*** à d'autres créatifs. Admettre sa vulnérabilité et mettre en commun les techniques pour le surpasser pour se rendre compte que tous les créatifs, même ceux que l'on admire, peuvent être bloqués.
     {{< /md >}}
 
     {{< highlight >}}
@@ -105,6 +104,8 @@ Il n'y a pas pire que rester fixé.e sur la négativité de la situation, c'est 
 Une fois qu'on sait ce à quoi on est confronté, qu'on sait que ce qu'on fait n'est pas mauvais, mais juste plus à notre goût... Il est temps de casser le besoin de perfection, d'arrêter de se fixer sur les détails frustrants.
 
 Pour ça, il n'y a pas mieux que de se mettre un peu mal à l'aise, *volontairement*. Changer de matériel, c'est assez efficace (je trouve) pour sortir de sa zone de confort.
+
+En quittant cette zone, on peut trouver des nouvelles choses qui nous plaisent et d'autres qui nous plaisent moins, mais surtout on réapprend à faire des erreurs et a être spontané.e dans sa pratique de l'art.
      {{< /md >}}
    {{< /column >}}
    {{< column size="smaller" >}}
@@ -115,13 +116,12 @@ Pour ça, il n'y a pas mieux que de se mettre un peu mal à l'aise, *volontairem
 {{< row >}}
    {{< column size="full size" >}}
      {{< md >}}
-En quittant cette zone, on peut trouver des nouvelles choses qui nous plaisent et d'autres qui nous plaisent moins, mais surtout on réapprend à faire des erreurs et a être spontané.e dans sa pratique de l'art.
 
-5. Changer de support. Du papier ? Et si on essayait le bois. La toile. Le verre. Le denim. La peau.
+5. Changer de ***support***. Du papier ? Et si on essayait le bois. La toile. Le verre. Le denim. La peau.
 
-6. Changer d'outil. Les doigts. Les stylos. Les crayons aquarellables. Les pinceaux. Un autre logiciel... Et pourquoi pas Paint à la souris ?
+6. Changer d'***outil***. Les doigts. Les stylos. Les crayons aquarellables. Les pinceaux. Un autre logiciel... Et pourquoi pas Paint à la souris ?
 
-7. Essayer un nouveau hobby. Être complètement novice à quelque chose, se tromper, rigoler de soi, et ré-essayer ! La broderie. Le crochet. La céramique.
+7. Essayer ***un nouveau hobby***. Être complètement novice à quelque chose, se tromper, rigoler de soi, et ré-essayer ! La broderie. Le crochet. La céramique.
      {{< /md >}}
 
      {{< highlight >}}
@@ -145,6 +145,8 @@ En quittant cette zone, on peut trouver des nouvelles choses qui nous plaisent e
 A présent, il est temps de compiler toutes ces expériences et en profiter pour ne pas “aller là où on a déjà été” mais “se créer une nouvelle routine” !
 
 A cette étape, ça peut être compliqué d’affronter la page blanche et l’ocean des possibilités... Alors, pourquoi pas re-lancer votre créativité en changeant vos intentions et en vous imposant de nouvelles contraintes!
+
+8. Privilégier l'***aspect fonctionnel*** d'une création. Pour ne pas (trop) s'attarder sur la forme et se réapproprier ses outils. Pourquoi pas des étiquettes ? Des cartes ? Un calendrier ?
       {{< /md >}}
   {{< /column >}}
 {{< /row >}}
@@ -152,21 +154,14 @@ A cette étape, ça peut être compliqué d’affronter la page blanche et l’o
 {{< row >}}
     {{< column size="larger" >}}
       {{< md >}}
-8. Privilégier l'aspect fonctionnel d'une création. Pour ne pas (trop) s'attarder sur la forme et se réapproprier ses outils. Pourquoi pas des étiquettes pour les cadeaux de Noël ? Des cartes ? Un calendrier ?
+9. Rendre ***ludique*** la création en intégrant une notion de ***hasard***. Tirer des thèmes au hasard, des couleurs au hasard, la taille ou le matériel, voire tout en même temps ! Se challenger. Se donner un défi créatif et établir ses propres règles.
 
-9. Rendre ludique la création en intégrant une notion de hasard. Tirer des thèmes au hasard, des couleurs au hasard, la taille ou le matériel, voire tout en même temps ! Se challenger. Se donner un défi créatif et établir ses propres règles.
+10. Impliquer ***quelqu'un d'autre***. Faire un [#drawthisinyourstyle](https://www.instagram.com/explore/tags/drawthisinyourstyle/). Créer pour faire un cadeau. Demander à quelqu'un que dessiner. S'engager au près d'une personne extérieure. Poster sur les réseaux sociaux.
       {{< /md >}}
     {{< /column >}}
     {{< column size="smaller" >}}
       {{< figure src="spot-4_prompt.png" >}}
     {{< /column >}}
-{{< /row >}}
-{{< row >}}
-  {{< column size="full size" >}}
-    {{< md >}}
-10. Impliquer quelqu'un d'autre. Faire un [#drawthisinyourstyle](https://www.instagram.com/explore/tags/drawthisinyourstyle/). Créer pour faire un cadeau. Demander à quelqu'un que dessiner. S'engager au près d'une personne extérieure. Poster sur les réseaux sociaux.
-    {{< /md >}}
-  {{< /column >}}
 {{< /row >}}
 ___
 {{< row >}}
@@ -174,7 +169,7 @@ ___
     {{< md >}}
 La période Automne-Hiver n'est pas facile pour tous les créateurs... Entre l'[Inktober](https://inktober.com/) et son bombardement de contenus de qualité et les fêtes de Noël qui approchent, sans parler de la déprime saisonnière et des journées qui raccourcissent... Donc j'espère que ce looong article pourra aider au moins une personne, ça aura rentabilisé le temps passer à l'écrire ! Après tout, à quoi bon trouver des techniques si on les garde pour soi ?
 
-À quoi ressemble votre Art Block et que sont vos remèdes de prédilection ? Si vous êtes actuellement bloqué, tout mon cœur est avec vous. Rappelez-vous que ce n'est que temporaire. Je vous souhaite un bon courage pour ce voyage, et j'ai hâte de voir où est-ce qu'il va vous emmener ! ❤️
+*À quoi ressemble votre Art Block et que sont vos remèdes de prédilection ?* Si vous êtes actuellement bloqué, tout mon cœur est avec vous. Rappelez-vous que ce n'est que temporaire. Je vous souhaite un bon courage pour ce voyage, et j'ai hâte de voir où est-ce qu'il va vous emmener ! ❤️
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}
