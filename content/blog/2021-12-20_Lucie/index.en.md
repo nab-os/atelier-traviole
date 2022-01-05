@@ -133,9 +133,9 @@ Another illustration exercise, this time based on an original manuscript... by m
     {{< md >}}
 ### Links to explore...
 
-- [Mayalen Goust's Instagram (original illustrator)](https://www.instagram.com/mayalengoust/)
-- [Arnaud Moine's Instagram (author)](https://www.instagram.com/arnaudmoine/)
-- [Chocolat ! Jeunesse publishing house](https://www.chocolat-jeunesse.com/)
+[Mayalen Goust's Instagram ](https://www.instagram.com/mayalengoust/) (original illustrator)
+[Arnaud Moine's Instagram](https://www.instagram.com/arnaudmoine/) (author)
+[Chocolat ! Jeunesse publishing house](https://www.chocolat-jeunesse.com/)
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}

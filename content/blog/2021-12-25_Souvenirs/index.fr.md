@@ -154,8 +154,8 @@ Mon précédent exercice d'illustration, sur la base d'un album jeunesse déjà 
     {{< md >}}
 ### Des liens pour explorer...
 
-- [Ma page instagram où j'ai mené cette experience](https://www.instagram.com/atelier.traviole/)
-- [Manuscrit original (PDF FR)](MANUSCRIT-Le-Magasin-des-souvenirs.pdf)
+[Ma page instagram](https://www.instagram.com/atelier.traviole/),  où j'ai mené cette experience
+[Manuscrit original](MANUSCRIT-Le-Magasin-des-souvenirs.pdf) (PDF FR) par Léna Desmettre
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}

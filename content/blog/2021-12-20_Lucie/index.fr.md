@@ -132,9 +132,9 @@ Un autre exercice d'illustration, cette fois-ci sur la base d'un manuscrit origi
     {{< md >}}
 ### Des liens pour explorer...
 
-- [Instagram de Mayalen Goust](https://www.instagram.com/mayalengoust/) (Illustratrice)
-- [Instagram d'Arnaud Moine](https://www.instagram.com/arnaudmoine/) (Auteur)
-- [Les Éditions Chocolat ! Jeunesse](https://www.chocolat-jeunesse.com/)
+[Instagram de Mayalen Goust](https://www.instagram.com/mayalengoust/) (Illustratrice)
+[Instagram d'Arnaud Moine](https://www.instagram.com/arnaudmoine/) (Auteur)
+[Les Éditions Chocolat ! Jeunesse](https://www.chocolat-jeunesse.com/)
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}

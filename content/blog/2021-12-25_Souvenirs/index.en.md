@@ -154,8 +154,8 @@ My previous illustration exercise, based on a previously published children's bo
     {{< md >}}
 ### Links to explore...
 
-- [Ma instagram feed where I conducted this experiment](https://www.instagram.com/atelier.traviole/)
-- [The Original Manuscript (PDF FR)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af272fc4-849d-42b9-8d97-f6ca1023eea2/MANUSCRIT_Le_Magasin_des_souvenirs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211227T132629Z&X-Amz-Expires=86400&X-Amz-Signature=9634b44934b25d72d14bfecb36fc25af228649512ba55ef622912556ebd50def&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22MANUSCRIT%2520Le%2520Magasin%2520des%2520souvenirs.pdf%22&x-id=GetObject/)
+[My instagram](https://www.instagram.com/atelier.traviole/), where I conducted this experiment
+[The Original Manuscript](MANUSCRIT-Le-MANUSCRIT_Le_Magasin_des_souvenirs.pdf) (PDF FR) by Léna Desmettre
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}
