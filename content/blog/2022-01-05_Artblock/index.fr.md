@@ -204,11 +204,11 @@ Allez donc jeter un oeil aux deux précédents articles qui peuvent être des pi
     {{< md >}}
 ### Des liens pour explorer...
 
-[Classe Skillshare de Tom Froese](https://www.instagram.com/atelier.traviole/ "Sweet Spots: Expressing Big Ideas in Small Editorial Illustrations"), sur Skillshare (EN)
+[Classe Skillshare de Tom Froese](https://www.instagram.com/atelier.traviole/ "Sweet Spots: Expressing Big Ideas in Small Editorial Illustrations"), sur les vignettes d'illustration (EN)
 
-[@Stillherestilllife sur Instagram](https://www.instagram.com/stillherestilllife/ "STILL HERE & still drawing"), pour dessiner des Natures Mortes
+[@Stillherestilllife sur Instagram](https://www.instagram.com/stillherestilllife/ "STILL HERE & still drawing"), pour des modèles de Natures Mortes
 
-[How To Overcome CREATIVE BLOCK](https://www.youtube.com/watch?v=aHALl7X7IVA "15 Artists 1 Question"), par Brave the Woods sur Youtube
+[How To Overcome CREATIVE BLOCK](https://www.youtube.com/watch?v=aHALl7X7IVA "15 Artists 1 Question"), par Brave the Woods sur Youtube (EN)
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}
