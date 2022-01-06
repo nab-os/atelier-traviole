@@ -3,7 +3,7 @@ links:
   - label: Mon site ⬆️ Portfolio, articles et biographie
     link: https://ateliertraviole.fr/
   - label: Article 🔸 Le Désordre contre l'Art Block
-    link: https://ateliertraviole.fr/blog/
+    link: https://ateliertraviole.fr/fr/blog/2022-01-05-artblock/
   - label: "Article 🔸 SEPT 2021 : Le Magasin des Souvenirs"
     link: https://ateliertraviole.fr/fr/blog/2021-12-25_souvenirs/
   - label: "Article 🔸 AOUT 2021 : Lucie et les Lucioles"
