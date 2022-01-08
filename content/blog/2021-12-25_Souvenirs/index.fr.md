@@ -66,15 +66,15 @@ Ce petit projet, c'était l'occasion pour moi de sortir un peu de ma zone de con
 
 {{< row >}}
     {{< column size="smaller" >}}
-      {{< figure src="page-8-9-Souvenirs.png" title="Page 8-9 : Une composition en deux triangles pour indiquer le mal-être d'André puis la solution qui apparaît" >}}
+      {{< figure src=page-8-9-Souvenirs.png link=page-8-9-Souvenirs.png target="_blank" title="Page 8-9 : Une composition en deux triangles pour indiquer le mal-être d'André puis la solution qui apparaît" >}}
     {{< /column >}}
 
     {{< column size="smaller" >}}
-      {{< figure src="page-12-13-Souvenirs.png" title="Page 9-10 : L'illustration sur toute la moitié inférieure de la double page" >}}
+      {{< figure src=page-12-13-Souvenirs.png link=page-12-13-Souvenirs.png target="_blank" title="Page 9-10 : L'illustration sur toute la moitié inférieure de la double page" >}}
     {{< /column >}}
 
     {{< column size="smaller" >}}
-      {{<figure src="page-18-19-Souvenirs.png" title="Page 15-16 : Pour la double page finale, une vignette et une pleine page" >}}
+      {{< figure src=page-18-19-Souvenirs.png link=page-18-19-Souvenirs.png target="_blank" title="Page 15-16 : Pour la double page finale, une vignette et une pleine page" >}}
     {{< /column >}}
 {{< /row >}}
 
@@ -95,7 +95,7 @@ J'ai pu expérimenter avec les compositions des pages, l'objectif étant de dyna
   {{< /column >}}
 
   {{< column size="small" >}}
-    {{< figure src="mockup-Souvenirs.gif" title="Gif du Mock up, page par page, du Magasin des Souvenirs... Certaines pages sont au stade de l'idée, une est croquée et les autres sont terminées." >}}
+    {{< figure src="mockup-Souvenirs.gif" link=mockup-Souvenirs.gif target="_blank" title="Gif du Mock up, page par page, du Magasin des Souvenirs... Certaines pages sont au stade de l'idée, une est croquée et les autres sont terminées." >}}
   {{< /column >}}
 {{< /row >}}
 
@@ -126,14 +126,14 @@ J'ai beaucoup de respect et d'admiration pour les auteurs et autrices, alors si 
 
 {{< row >}}
   {{< column size="small" >}}
-    {{< figure src="page-4-5-Souvenirs.png" title="Page 4-5 : Un vrai plaisir d'imaginer les petits marchands de ce marché" >}}
+    {{< figure src="page-4-5-Souvenirs.png" link=page-4-5-Souvenirs.png target="_blank" title="Page 4-5 : Un vrai plaisir d'imaginer les petits marchands de ce marché" >}}
   {{< /column >}}
 
   {{< column size="unit" >}}
   {{< /column >}}
 
   {{< column size="small" >}}
-    {{< figure src="page-16-17-Souvenirs.png" title="Page 16-17 : J'adore la douceur de la famille des koalas dans cette retrouvaille">}}
+    {{< figure src="page-16-17-Souvenirs.png" link=page-16-17-Souvenirs.png target="_blank" title="Page 16-17 : J'adore la douceur de la famille des koalas dans cette retrouvaille">}}
   {{< /column >}}
 {{< /row >}}
 ___

@@ -58,15 +58,15 @@ J'ai ensuite choisi 3 pages successives qui illustrent le chemin de Lucie dans l
 
 {{< row >}}
     {{< column size="smaller" >}}
-      {{< figure src="page12-13-1200.png" title="Page 12-13 : Curiosité" >}}
+      {{< figure src="page12-13-1200.png"  link=page12-13-1200.png target="_blank" title="Page 12-13 : Curiosité" >}}
     {{< /column >}}
 
     {{< column size="smaller" >}}
-      {{< figure src="page14-15.png" title="Page 14-15 : Inquiétude" >}}
+      {{< figure src="page14-15.png" link=page14-15.png target="_blank"title="Page 14-15 : Inquiétude" >}}
     {{< /column >}}
 
     {{< column size="smaller" >}}
-      {{<figure src="page16-17-1200.png" title="Page 16-17 : Peur" >}}
+      {{<figure src="page16-17-1200.png" link=page16-17-1200.png target="_blank" title="Page 16-17 : Peur" >}}
     {{< /column >}}
 {{< /row >}}
 
@@ -80,7 +80,7 @@ Un point que j'ai beaucoup aimé travailler a été : **les couleurs**. J'ai ess
   {{< /column >}}
 
   {{< column size="small" >}}
-    {{< figure src="Color-exploration-14-15.gif" title="Gif de la colorisation de la Page 14-15 de mon exercice sur \"Lucie et les Lucioles\"" >}}
+    {{< figure src="Color-exploration-14-15.gif" link=Color-exploration-14-15.gif target="_blank" title="Gif de la colorisation de la Page 14-15 de mon exercice sur \"Lucie et les Lucioles\"" >}}
   {{< /column >}}
 {{< /row >}}
 
@@ -100,20 +100,13 @@ J'ai profité de ce moment pour réfléchir à ce que cette petite experience m'
 Après avoir illustré ces quelques pages, je me suis rendu compte que j'aimais particulièrement cette manière de travailler, plutôt que, par exemple, créer des illustrations originales à vendre sur une boutique en ligne, ou illustrer dans le seul but de publier sur [mon feed instagram](https://www.instagram.com/atelier.traviole/ "Léna Desmettre 🍓 Instagram"). Je trouvais que la méthode de travailler sur la base d'un texte imposait juste assez de contraintes pour me permettre d'être créative sans me prendre trop la tête.
 
 Suite à ça, j'ai donc commencé ma veille des maisons d'éditions : j'ai fait un énorme tableur (hyper-top-secret) avec toutes les maisons d'édition que j'apprécie et comment les contacter.
-    {{< /md >}}
-  {{< /column >}}
-{{< /row >}}
 
-{{< row >}}
-  {{< column size="full-size" >}}
-    {{< md >}}
 Trois mois plus tard, j'ai fais le choix d'arrêter mes études, et de me déclarer officiellement en tant qu'artiste-autrice. J'établis doucement les fondations de ma carrière, notamment en investissant mon temps à créer mon site, à construire [mon portfolio](/portfolio/ "Page portfolio sur mon site") et en m'engageant à écrire des articles pour chacun de mes projets préférés, comme celui-ci.
 
 Merci beaucoup d'avoir lu ce petit premier article. Bien que ce n'était pas un énorme projet, et qu'il ne constitue qu'un exercice fictif d'entrainement, j'ai l'impression d'avoir pas mal changé grâce à lui. J'ai enfin pris au serieux mes illustrations, et je me suis rendue compte (il était temps!) que j'ai les capacités pour, un jour, moi aussi me faire publier.
     {{< /md >}}
   {{< /column >}}
 {{< /row >}}
-
 ___
 {{< row >}}
   {{< column size="small" >}}

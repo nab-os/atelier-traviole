@@ -58,15 +58,15 @@ I then chose three successive pages that illustrate Lucy's journey through the f
 
 {{< row >}}
     {{< column size="smaller" >}}
-      {{< figure src="page12-13-1200.png" title="Page 12-13: Curisosity" >}}
+      {{< figure src="page12-13-1200.png" link=page12-13-1200.png target="_blank" title="Page 12-13: Curisosity" >}}
     {{< /column >}}
 
     {{< column size="smaller" >}}
-      {{< figure src="page14-15.png" title="Page 14-15: Worry" >}}
+      {{< figure src="page14-15.png" link=page14-15.png target="_blank" title="Page 14-15: Worry" >}}
     {{< /column >}}
 
     {{< column size="smaller" >}}
-      {{<figure src="page16-17-1200.png" title="Page 16-17: Fear" >}}
+      {{<figure src="page16-17-1200.png" link=page16-17-1200.png target="_blank" title="Page 16-17: Fear" >}}
     {{< /column >}}
 {{< /row >}}
 
@@ -80,7 +80,7 @@ One point I really enjoyed working on was: **the colours**. I tried to have a ra
   {{< /column >}}
 
   {{< column size="small" >}}
-    {{< figure src="Color-exploration-14-15.gif" title="Gif of the colorization of Page 14-15 of my exercise on \"Lucie et les Lucioles\"" >}}
+    {{< figure src="Color-exploration-14-15.gif" link=Color-exploration-14-15.gif target="_blank" title="Gif of the colorization of Page 14-15 of my exercise on \"Lucie et les Lucioles\"" >}}
   {{< /column >}}
 {{< /row >}}
 
@@ -100,13 +100,7 @@ I took this moment to reflect on what this little experience had taught me.
 After illustrating these few pages, I realized that I particularly liked this way of working, rather than, for example, creating original illustrations to sell on an online shop, or illustrating for the sole purpose of publishing on [my instagram feed](https://www.instagram.com/atelier.traviole/ "Léna Desmettre 🍓 Instagram"). I found that the working from a manuscript imposed just enough constraints to allow me to be creative without getting too hung up on it.
 
 So after that, I started my publishing house research: I made a huge spreadsheet (hyper-top-secret) with all the publishing houses I like and how to contact them.
-    {{< /md >}}
-  {{< /column >}}
-{{< /row >}}
 
-{{< row >}}
-  {{< column size="full-size" >}}
-    {{< md >}}
 Three months later, I made the choice to stop my degree, and officially declare myself as an artist-author. I am slowly laying the foundations of my career, including investing my time in creating my website, building  [my portfolio](/portfolio/ "Page portfolio sur mon site") and committing to writing articles for each of my favorite projects, like this one.
 
 Thank you very much for reading this short first article. Although it wasn't a huge project, and it's only a fictional training exercise, I feel like I've changed quite a bit because of it. I've finally taken my illustrations seriously, and I've realized (it's about time!) that I have the skills to get published one day.
