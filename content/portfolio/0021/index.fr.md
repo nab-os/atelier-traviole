@@ -48,5 +48,5 @@ pieces:
     - label: Le site officiel de Stardew Valley (EN)
       link: https://www.stardewvalley.net/
     - label: Le site officiel d’Animal Crossing (FR)
-      link: https://animal-crossing.com/fr/
+      link: https://animal-crossing.com/
 ---

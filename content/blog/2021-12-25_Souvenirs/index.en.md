@@ -116,7 +116,7 @@ This project has been formative, as I would never, on my own, have embarked on a
 
 So, if you want to have a look at the manuscript, out of curiosity or because you want to try this little exercise yourself, don't hesitate. I would just ask you to put my name Léna Desmettre and to notify me if you publish anything on the internet. You can also contact me on my mail address (Lena(at)Ateliertraviole.fr) or by PM on Instagram \@atelier.traviole, if you want to share your interpretations with me! ✨
 
-[Access the original manuscript here (PDF FR)](https://ateliertraviole.fr/fr/blog/2021-12-25_souvenirs/MANUSCRIT-Le-Magasin-des-souvenirs.pdf)
+[Access the original manuscript here (PDF FR)](https://ateliertraviole.fr/blog/2021-12-25_souvenirs/MANUSCRIT-Le-Magasin-des-souvenirs.pdf)
 
 Looking back, this little manuscript, and all the illustrations attached to it, have allowed me to move forward a little more as an artist. Now, I know that writing my own manuscripts is a strong, difficult thing, but one that I would like to try one day. However, for now I will continue to focus on illustration, I have plenty of time to try my hand at writing professionally!
 I have a lot of respect and admiration for authors, so if you write and you come through my site: thank you for giving us so much to read! ♥️

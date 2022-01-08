@@ -11,7 +11,7 @@ pieces:
       manuscrit original conçu avec mes abonnés Instagram. Cette double page
       se concentre sur le couple et leur souvenir de mariage. J'ai beaucoup
       aimé créer leur ancienne photo en sépia, je les trouve adorable.
-    project: https://ateliertraviole.fr/fr/blog/2021-12-25_souvenirs/
+    project: https://ateliertraviole.fr/blog/2021-12-25_souvenirs/
 
     links:
       - label: Ma page Instagram @Atelier.Traviole
