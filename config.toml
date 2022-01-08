@@ -4,13 +4,13 @@ title = 'Atelier Traviole'
 paginate = 6
 staticDir = ['static']
 theme = 'traviole'
+defaultContentLanguage = 'fr'
 
 copyright = 'All rights reserved.'
 [author]
   name = 'Léna Desmettre'
   email = 'lena@ateliertraviole.fr'
 
-defaultContentLanguage = 'fr'
 [languages]
   [languages.en]
     languageName = 'English'
