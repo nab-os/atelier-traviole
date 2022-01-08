@@ -11,7 +11,7 @@ pieces:
       manuscript written with my Instagram followers. I decided to focus this
       cover art on the main character, with a reminder of the wallpaper of his
       family home in the background.
-    project: https://ateliertraviole.fr/en/blog/2021-12-25_souvenirs/
+    project: /en/blog/2021-12-25_souvenirs/
 
     links:
       - label: My Instagram page @Atelier.Traviole

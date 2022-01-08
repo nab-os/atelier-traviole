@@ -11,7 +11,7 @@ pieces:
       manuscrit original conçu avec mes abonnés Instagram. J'ai décidé de
       centrer cette couverture sur le personnage principal, avec un rappel du
       papier peint de sa maison familial en fond.
-    projects: https://ateliertraviole.fr/blog/2021-12-25_souvenirs/
+    projects: /blog/2021-12-25_souvenirs/
 
     links:
       - label: Ma page Instagram @Atelier.Traviole

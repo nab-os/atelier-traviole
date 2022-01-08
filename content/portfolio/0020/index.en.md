@@ -11,7 +11,7 @@ pieces:
       manuscript written with my Instagram followers. This double page spread
       focuses on the couple and their wedding memory. I really enjoyed
       creating their old sepia photo, I find them adorable.
-    project: https://ateliertraviole.fr/en/blog/2021-12-25_souvenirs/
+    project: /en/blog/2021-12-25_souvenirs/
 
     links:
       - label: My Instagram page @Atelier.Traviole

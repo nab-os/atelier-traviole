@@ -191,9 +191,9 @@ The Autumn-Winter period is not easy for all creators... Between the [Inktober](
 
 Go and have a look at the two previous articles which may be useful for illustrators looking for inspiration:
 
-[AUGUST 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/en/blog/2021-12-20_lucie/) or there unofficial re-illustration of a published album
+[AUGUST 2021 : Lucie et les Lucioles](/en/blog/2021-12-20_lucie/) or there unofficial re-illustration of a published album
 
-[SEPT 2021 : The Souvenirs Shop](https://ateliertraviole.fr/en/blog/2021-12-25_souvenirs/) or the creation (without pressure) of a fictional book
+[SEPT 2021 : The Souvenirs Shop](/en/blog/2021-12-25_souvenirs/) or the creation (without pressure) of a fictional book
     {{< /md >}}
   {{< /column >}}
 

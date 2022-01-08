@@ -107,7 +107,7 @@ Suite à ça, j'ai donc commencé ma veille des maisons d'éditions : j'ai fait 
 {{< row >}}
   {{< column size="full-size" >}}
     {{< md >}}
-Trois mois plus tard, j'ai fais le choix d'arrêter mes études, et de me déclarer officiellement en tant qu'artiste-autrice. J'établis doucement les fondations de ma carrière, notamment en investissant mon temps à créer mon site, à construire [mon portfolio](https://ateliertraviole.fr/portfolio/ "Page portfolio sur mon site") et en m'engageant à écrire des articles pour chacun de mes projets préférés, comme celui-ci.
+Trois mois plus tard, j'ai fais le choix d'arrêter mes études, et de me déclarer officiellement en tant qu'artiste-autrice. J'établis doucement les fondations de ma carrière, notamment en investissant mon temps à créer mon site, à construire [mon portfolio](/portfolio/ "Page portfolio sur mon site") et en m'engageant à écrire des articles pour chacun de mes projets préférés, comme celui-ci.
 
 Merci beaucoup d'avoir lu ce petit premier article. Bien que ce n'était pas un énorme projet, et qu'il ne constitue qu'un exercice fictif d'entrainement, j'ai l'impression d'avoir pas mal changé grâce à lui. J'ai enfin pris au serieux mes illustrations, et je me suis rendue compte (il était temps!) que j'ai les capacités pour, un jour, moi aussi me faire publier.
     {{< /md >}}
@@ -120,7 +120,7 @@ ___
     {{< md >}}
 ### Des liens pour poursuivre la lecture...
 
-[SEPT 2021 : Le Magasin des Souvenirs](https://ateliertraviole.fr/blog/2021-12-25_souvenirs/)
+[SEPT 2021 : Le Magasin des Souvenirs](/blog/2021-12-25_souvenirs/)
 Un autre exercice d'illustration, cette fois-ci sur la base d'un manuscrit original... de moi !
     {{< /md >}}
   {{< /column >}}

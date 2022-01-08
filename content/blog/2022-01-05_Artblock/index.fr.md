@@ -191,9 +191,9 @@ La période Automne-Hiver n'est pas facile pour tous les créateurs... Entre l'[
 
 Allez donc jeter un oeil aux deux précédents articles qui peuvent être des pistes pour les illustrateurs en peine d'inspiration :
 
-[AOUT 2021 : Lucie et les Lucioles](https://ateliertraviole.fr/blog/2021-12-20_lucie/) ou là ré-illustration officieuse d'un album publié
+[AOUT 2021 : Lucie et les Lucioles](/blog/2021-12-20_lucie/) ou là ré-illustration officieuse d'un album publié
 
-[SEPT 2021 : Le Magasin des Souvenirs](https://ateliertraviole.fr/blog/2021-12-25_souvenirs/) ou la création (sans pression) d'un ouvrage fictif
+[SEPT 2021 : Le Magasin des Souvenirs](/blog/2021-12-25_souvenirs/) ou la création (sans pression) d'un ouvrage fictif
     {{< /md >}}
   {{< /column >}}
 
