@@ -243,10 +243,6 @@ main > ul {
   margin-inline: 30px;
 }
 
-.post .row > .column p {
- text-indent: 20px;
-}
-
 .post .row > .column > figure > img {
   max-inline-size: 100%;
 }
@@ -270,8 +266,6 @@ main > ul {
 
 @media (min-width: 800px) {
   .post .row > .column > figure {
-    margin-inline-start: 40px;
-    margin-inline-end: 0;
   }
 
   .post .row > .column--full-size {
