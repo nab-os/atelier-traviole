@@ -1,7 +1,8 @@
 <header>
   <ul>
-    {{ range $.Site.Home.AllTranslations }}
-      <li {{ if eq $.Site.Language .Language.Lang }}class="selected"{{ end }} ><a href="{{ relref . (dict "path" "portfolio/" "lang" .Language.Lang) }}">{{ .Language.LanguageName }}</a></li>
+    <li class="selected"><a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a></li>
+    {{ range .Translations }}
+      <li><a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a></li>
     {{ end }}
   </ul>
   <a href="{{ "portfolio/" | relLangURL }}">
