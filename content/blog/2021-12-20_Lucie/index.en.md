@@ -114,7 +114,7 @@ ___
     {{< md >}}
 ### Links to continue reading...
 
-[SEPT 2021: The Souvenirs Shop](/en/blog/2021-12-25_Souvenirs/)
+[SEPT 2021: The Souvenirs Shop](/en/blog/2021-12-25_souvenirs/)
 
 Another illustration exercise, this time based on an original manuscript... by me!
     {{< /md >}}
@@ -128,7 +128,9 @@ Another illustration exercise, this time based on an original manuscript... by m
 ### Links to explore...
 
 [Mayalen Goust's Instagram ](https://www.instagram.com/mayalengoust/) (original illustrator)
+
 [Arnaud Moine's Instagram](https://www.instagram.com/arnaudmoine/) (author)
+
 [Chocolat ! Jeunesse publishing house](https://www.chocolat-jeunesse.com/)
     {{< /md >}}
   {{< /column >}}

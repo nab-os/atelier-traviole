@@ -42,7 +42,7 @@ Pour ce projet, je me suis donnée 3 contraintes. 🖍️
   {{< /column>}}
 
   {{< column size ="small" >}}
-    {{< figure src="LucieOriginal.png" title="Couverture de Lucie et les Lucioles ; Source: Chocolat ! Jeunesse" >}}
+    {{< figure src="LucieOriginal.png" link=LucieOriginal.png target="_blank" title="Couverture de Lucie et les Lucioles ; Source: Chocolat ! Jeunesse" >}}
   {{< /column >}}
 {{< /row >}}
 
@@ -126,7 +126,9 @@ Un autre exercice d'illustration, cette fois-ci sur la base d'un manuscrit origi
 ### Des liens pour explorer...
 
 [Instagram de Mayalen Goust](https://www.instagram.com/mayalengoust/) (Illustratrice)
+
 [Instagram d'Arnaud Moine](https://www.instagram.com/arnaudmoine/) (Auteur)
+
 [Les Éditions Chocolat ! Jeunesse](https://www.chocolat-jeunesse.com/)
     {{< /md >}}
   {{< /column >}}
