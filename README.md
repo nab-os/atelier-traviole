@@ -124,7 +124,7 @@ Usage:
   {{< /column >}}
 
   {{< column size=small>}}
-    {{< figure src=[…] title=[…] >}}
+    {{< figure src=[…] link=[...] target="_blank" title=[…] >}}
   {{< /column >}}
 
 {{< /row >}}
