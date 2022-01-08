@@ -241,9 +241,14 @@ main > ul {
 .post .row > .column > figure {
   margin: 0;
   margin-inline: 30px;
+
 }
 
-.post .row > .column > figure > img {
+.post .row > .colmun > figure > a {
+  cursor: pointer;
+}
+
+.post .row > .column > figure img {
   max-inline-size: 100%;
 }
 
@@ -265,9 +270,6 @@ main > ul {
 }
 
 @media (min-width: 800px) {
-  .post .row > .column > figure {
-  }
-
   .post .row > .column--full-size {
     grid-column: span 9;
   }
