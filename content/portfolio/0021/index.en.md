@@ -40,7 +40,7 @@ pieces:
     image: stardew-valley-horizon.png
     imageAlt: Fanart of stardew valley characters in the Animal Crossing universe
 
-    description: "Fanart of two of my favourite video games: Stardew Valley and Animal Crossing. For this piece, which is actually a series of duets, I played around with imagining what the villagers of Stardew would look like in the Animal Crossing universe while keeping the codes of Animal Crossing New Horizons. My favourite of the series is Sam, I think he's really fun and spontaneous!"
+    description: "Fanart of two of my favourite video games: Stardew Valley and Animal Crossing. For this piece, which is actually a series of duets, I played around with imagining what the villagers of Stardew would look like in the Animal Crossing universe while keeping the codes of Animal Crossing New Horizons. My favourite of the serie is Sam, I think he's really fun and spontaneous!"
 
     links:
     - label: The French-speaking community dedicated to Stardew Valley (FR)
