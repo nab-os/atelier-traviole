@@ -3,7 +3,7 @@ links:
   - label: Mon site ⬆️ Portfolio, articles et biographie
     link: /
   - label: Article 🔸 Le Désordre contre l'Art Block
-    link: /blog/2022-01-05-artblock/
+    link: /blog/2022-01-05_artblock/
   - label: "Article 🔸 SEPT 2021 : Le Magasin des Souvenirs"
     link: /blog/2021-12-25_souvenirs/
   - label: "Article 🔸 AOUT 2021 : Lucie et les Lucioles"
