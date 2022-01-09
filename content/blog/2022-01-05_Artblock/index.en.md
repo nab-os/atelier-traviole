@@ -167,7 +167,7 @@ ___
 {{< row >}}
   {{<column size="full size">}}
     {{< md >}}
-The Autumn-Winter period is not easy for all creators... Between the [Inktober](https://inktober.com/) and its bombardment of quality content and the approaching Christmas holidays, not to mention the seasonal depression and the shortening days... So I hope this long article will help at least one person, it will have been worth aaaall the time spent writing it! After all, what's the point of finding techniques if you keep them to yourself?
+The Autumn-Winter period is not easy for all creators... Between the [Inktober](https://inktober.com/) and its bombardment of quality content and the beginning of the year that puts the pressure on, not to mention the seasonal depression and the shortening days... So I hope this long article will help at least one person, it will have been worth aaaall the time spent writing it! After all, what's the point of finding techniques if you keep them to yourself?
 
 *What does your Art Block look like and what are your preferred remedies?* If you are currently stuck, my heart goes out to you. Remember that this is only temporary. I wish you well on this journey, and I can't wait to see where it takes you! ❤️
     {{< /md >}}

@@ -10,7 +10,7 @@ pieces:
     description: Fausse couverture pour l'exercice d'illustration sur la base d'un
       manuscrit original conçu avec mes abonnés Instagram. J'ai décidé de
       centrer cette couverture sur le personnage principal, avec un rappel du
-      papier peint de sa maison familial en fond.
+      papier-peint de sa maison familial en fond.
     project: /blog/2021-12-25_souvenirs/
 
     links:

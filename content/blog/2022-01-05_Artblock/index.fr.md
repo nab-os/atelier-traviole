@@ -34,7 +34,7 @@ description: "Tous les artistes le connaissent et le redoutent : l'Art Block. Le
 {{< figure src="artblock-large-picture-intro.png" title="Portrait semi-réaliste du Lobby Boy du Grand Budapest Hôtel par Wes Anderson. (mon film préféré!) [feutre POSCA sur toile] Autour : mon bocal avec mes étiquettes de prompts, mon projet de \"sculpture de palette\" cassé, de la cordelette à macramé et plein de materiel pour booster la créativité !" >}}
 
     {{< md >}}
-Avant de me battre contre cet ***Art Block***, il fallait que je le comprenne, que je l'identifie et que je le délimite. Parce que ce saligaud s'exprime de manière différente d'une personne à l'atre, et d'une période à l'autre...
+Avant de me battre contre cet ***Art Block***, il fallait que je le comprenne, que je l'identifie et que je le délimite. Parce que ce saligaud s'exprime de manière différente d'une personne à l'autre, et d'une période à l'autre...
     {{< /md >}}
 
     {{< highlight >}}
@@ -167,7 +167,7 @@ ___
 {{< row >}}
   {{<column size="full size">}}
     {{< md >}}
-La période Automne-Hiver n'est pas facile pour tous les créateurs... Entre l'[Inktober](https://inktober.com/) et son bombardement de contenus de qualité et les fêtes de Noël qui approchent, sans parler de la déprime saisonnière et des journées qui raccourcissent... Donc j'espère que ce looong article pourra aider au moins une personne, ça aura rentabilisé le temps passer à l'écrire ! Après tout, à quoi bon trouver des techniques si on les garde pour soi ?
+La période Automne-Hiver n'est pas facile pour tous les créateurs... Entre l'[Inktober](https://inktober.com/) et son bombardement de contenus de qualité et le début d'année qui met la pression, sans parler de la déprime saisonnière et des courtes journées... Donc j'espère que ce looong article pourra aider au moins une personne, ça aura rentabilisé le temps passer à l'écrire ! Après tout, à quoi bon trouver des techniques si on les garde pour soi ?
 
 *À quoi ressemble votre Art Block et que sont vos remèdes de prédilection ?* Si vous êtes actuellement bloqué, tout mon cœur est avec vous. Rappelez-vous que ce n'est que temporaire. Je vous souhaite un bon courage pour ce voyage, et j'ai hâte de voir où est-ce qu'il va vous emmener ! ❤️
     {{< /md >}}

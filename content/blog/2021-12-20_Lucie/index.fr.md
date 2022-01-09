@@ -25,7 +25,7 @@ En Août 2021, j'étais en vacances, entre ma L2 et L3 en Sciences de l'éducati
 {{< row >}}
   {{< column size="large" >}}
     {{< md >}}
-Je me suis alors donner un défi. Un exercice. A la manière d'un #DrawThisInYourStyle : _ré-illustrer certaines pages d'un ouvrage_ en concervant le formatage du texte.
+Je me suis alors donné un défi. Un exercice. A la manière d'un #DrawThisInYourStyle : _ré-illustrer certaines pages d'un ouvrage_ en concervant le formatage du texte.
 
 J'ai donc utilisé le livre "[Lucie et les Lucioles](https://www.chocolat-jeunesse.com/livre_jeunesse_lucie_et_les_lucioles.php/)" par Arnaud Moine et Mayalen Goust (ed. Chocolat ! Jeunesse, 2009), dont l'histoire me touchait beaucoup et dont le style graphique était foncièrement différent du mien.
     {{< /md >}}
@@ -49,7 +49,7 @@ Pour ce projet, je me suis donnée 3 contraintes. 🖍️
 {{< row >}}
   {{< column size="full-size" >}}
     {{< md >}}
-Mon travail préliminaire a été de décrire, page par page, ce que j'appréciait dans le livre original, puis de copier le manuscrit et de replacer le texte sur un document Indesign vierge et enfin de composer un storyboard pour tout le livre, pour établir ma propre progression dans l'histoire.
+Mon travail préliminaire a été de décrire, page par page, ce que j'appréciais dans le livre original, puis de copier le manuscrit et de replacer le texte sur un document Indesign vierge et enfin de composer un storyboard pour tout le livre, pour établir ma propre progression dans l'histoire.
 
 J'ai ensuite choisi 3 pages successives qui illustrent le chemin de Lucie dans la forêt. Je les trouvais particulièrement intéressantes puisqu'elles montrent le passage de son étât d'esprit de la curiosité, à l'inquiétude, et enfin, à la peur.
     {{< /md >}}
