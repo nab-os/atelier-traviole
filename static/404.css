@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px;
+
+  margin-block: 20px;
+}
+
+main > img {
+  width: 40%;
+}

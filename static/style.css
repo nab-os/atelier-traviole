@@ -1,7 +1,6 @@
 @import "theme.css";
 @import "header.css";
 @import "footer.css";
-@import "wall.css";
 
 body {
   display: flex;
