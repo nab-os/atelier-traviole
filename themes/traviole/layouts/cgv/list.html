@@ -1,0 +1,10 @@
+{{ define "head" }}
+<link rel="stylesheet" href="/cgv.css" type="text/css" media="all">
+{{ end }}
+
+{{ define "main" }}
+<header>
+  {{ .Params.header | markdownify }}
+</header>
+{{ .Content }}
+{{ end }}

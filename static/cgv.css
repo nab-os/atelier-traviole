@@ -1,0 +1,16 @@
+header {
+  color: var(--secondary-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-block-start: 20px;
+}
+
+header > p {
+  margin-block: 5px;
+}
+
+header a {
+  color: var(--secondary-color);
+}

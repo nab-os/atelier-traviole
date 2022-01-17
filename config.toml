@@ -29,4 +29,9 @@ copyright = 'All rights reserved.'
   tag = 'tags'
 
 [markup]
-  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = false
+    [markup.goldmark.renderer]
+      hardWraps = false
